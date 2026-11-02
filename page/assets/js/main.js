@@ -11,6 +11,8 @@
   const filters = [...document.querySelectorAll('[data-filter]')];
   const planFilters = [...document.querySelectorAll('[data-plan-filter]')];
   const cards = [...document.querySelectorAll('[data-module]')];
+  const moduleBuckets = [...document.querySelectorAll('[data-module-bucket]')];
+  const semesterGroups = [...document.querySelectorAll('[data-semester-group]')];
   const empty = document.querySelector('[data-empty]');
   let activeFilter = 'all';
   let activePlanFilter = 'plan';
@@ -36,9 +38,15 @@
       const semesterEctsKey = semesterEctsKeys[activeFilter];
       const semesterEcts = card.dataset[semesterEctsKey];
       if (ectsValue) ectsValue.textContent = activeFilter !== 'all' && semesterEcts ? semesterEcts : card.dataset.ectsTotal;
-      if (ectsContext) ectsContext.textContent = activeFilter !== 'all' ? ' w semestrze' : ' łącznie';
+      if (ectsContext) ectsContext.textContent = ' w semestrze';
       card.hidden = !show;
       if (show) visible += 1;
+    });
+    moduleBuckets.forEach((bucket) => {
+      bucket.hidden = ![...bucket.querySelectorAll('[data-module]')].some((card) => !card.hidden);
+    });
+    semesterGroups.forEach((group) => {
+      group.hidden = ![...group.querySelectorAll('[data-module]')].some((card) => !card.hidden);
     });
     if (empty) empty.hidden = visible !== 0;
   };
@@ -74,4 +82,3 @@
   }, { threshold: 0.12 });
   document.querySelectorAll('.module-card, .stat-grid article, .timeline article').forEach((item) => observer.observe(item));
 })();
-
