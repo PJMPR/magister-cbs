@@ -2,7 +2,7 @@
 layout: syllabus
 title: Trendy w cyberbezpieczeństwie
 code: TC
-ects: 4
+ects: 5
 semester: IV
 status: wybieralny
 order: 10
@@ -14,7 +14,7 @@ order: 10
 
 | Pole | Wartość |
 |---|---|
-| Punkty ECTS | 4 |
+| Punkty ECTS | 5 |
 | Status | wybieralny |
 | Zalecany semestr | IV |
 | Język | polski |
@@ -59,13 +59,13 @@ Seminarium, problem-based learning, debaty, recenzja koleżeńska, konsultacje, 
 
 | Aktywność | Godziny |
 |---|---:|
-| Seminaria online | 15 |
-| Warsztaty/debaty | 10 |
+| Seminaria online | 20 |
+| Warsztaty/debaty | 15 |
 | Konsultacje | 5 |
-| Przegląd literatury | 30 |
-| Przygotowanie prezentacji | 15 |
-| Esej krytyczny | 25 |
-| **Razem** | **100** |
+| Przegląd literatury | 35 |
+| Przygotowanie prezentacji | 20 |
+| Esej krytyczny | 30 |
+| **Razem** | **125** |
 
 ## Weryfikacja efektów i ocena
 
@@ -83,4 +83,4 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie. Źródła i dane użyte z p
 - NIST, ENISA i CISA — aktualne raporty tematyczne.
 ## Uwagi programowe
 
-Lista tematów jest przykładowa i musi być aktualizowana corocznie. Większy ciężar oceny otrzymuje pogłębiona praca pisemna.
+Lista tematów jest przykładowa i musi być aktualizowana corocznie. Nakład pracy obejmuje pogłębiony przegląd literatury, prezentację i pracę pisemną.

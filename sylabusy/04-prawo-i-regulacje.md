@@ -2,10 +2,12 @@
 layout: syllabus
 title: Prawo i regulacje cyberbezpieczeństwa
 code: PRC
-ects: 5
+ects: 8
 semester: II
 status: obowiązkowy
 order: 4
+dziedzina: nauki społeczne
+dyscyplina: nauki prawne
 ---
 
 # Prawo i regulacje cyberbezpieczeństwa
@@ -14,10 +16,11 @@ order: 4
 
 | Pole | Wartość |
 |---|---|
-| Punkty ECTS | 5 |
+| Punkty ECTS | 8 |
 | Status | obowiązkowy |
 | Zalecany semestr | II |
 | Język | polski |
+| Klasyfikacja | nauki społeczne — nauki prawne |
 
 ## Cel modułu
 
@@ -60,13 +63,13 @@ Wykład, seminarium, analiza aktów prawnych i orzecznictwa, case study, debata 
 
 | Aktywność | Godziny |
 |---|---:|
-| Wykłady | 15 |
-| Seminaria i analiza przypadków | 15 |
-| Konsultacje | 5 |
-| Lektura aktów i orzecznictwa | 35 |
-| Prace pisemne/case study | 35 |
-| Przygotowanie do egzaminu | 20 |
-| **Razem** | **125** |
+| Wykłady | 25 |
+| Seminaria i analiza przypadków | 25 |
+| Konsultacje | 10 |
+| Lektura aktów i orzecznictwa | 55 |
+| Prace pisemne/case study | 55 |
+| Przygotowanie do egzaminu | 30 |
+| **Razem** | **200** |
 
 ## Weryfikacja efektów i ocena
 

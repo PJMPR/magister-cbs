@@ -6,6 +6,8 @@ ects: 5
 semester: I
 status: obowiązkowy
 order: 3
+dziedzina: nauki społeczne
+dyscyplina: nauki o zarządzaniu i jakości
 ---
 
 # Przywództwo i zarządzanie bezpieczeństwem
@@ -18,6 +20,7 @@ order: 3
 | Status | obowiązkowy |
 | Zalecany semestr | I |
 | Język | polski |
+| Klasyfikacja | nauki społeczne — nauki o zarządzaniu i jakości |
 
 ## Cel modułu
 

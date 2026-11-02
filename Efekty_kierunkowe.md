@@ -12,18 +12,18 @@ document_type: effects
 
 # Propozycja kierunkowych efektów uczenia się — Informatyka II stopnia, specjalizacja Cyberbezpieczeństwo
 
-> **Status dokumentu:** robocza synteza efektów przedmiotowych z 17 sylabusów. Dokument nie stanowi formalnie zatwierdzonego zestawu efektów kierunkowych ani pełnego mapowania do Polskiej Ramy Kwalifikacji.
+> **Status dokumentu:** robocza synteza efektów przedmiotowych z 20 sylabusów. Dokument nie stanowi formalnie zatwierdzonego zestawu efektów kierunkowych ani pełnego mapowania do Polskiej Ramy Kwalifikacji.
 
 ## 1. Punkt wyjścia i metoda
 
-W 17 sylabusach zidentyfikowano łącznie **118 efektów przedmiotowych**:
+W 20 sylabusach zidentyfikowano łącznie **141 efektów przedmiotowych**:
 
 | Kategoria | Liczba efektów źródłowych |
 |---|---:|
-| Wiedza (`W`) | 28 |
-| Umiejętności (`U`) | 68 |
-| Kompetencje społeczne (`K`) | 22 |
-| **Razem** | **118** |
+| Wiedza (`W`) | 32 |
+| Umiejętności (`U`) | 81 |
+| Kompetencje społeczne (`K`) | 28 |
+| **Razem** | **141** |
 
 Efekty pogrupowano tematycznie, połączono znaczeniowo powtarzające się sformułowania i podniesiono poziom ogólności. Po wykonaniu mapowania do PRK zestaw uzupełniono o dwa przekrojowe efekty wymagane na poziomie 7, które nie wynikały wprost z efektów specjalizacyjnych. Przyjęto oznaczenia robocze:
 
@@ -93,9 +93,9 @@ Absolwent jest gotów do:
 | Detekcja i reagowanie | `K_W03`, `K_W04`, `K_U04`, `K_U09` | BI, RI, BS, AZO |
 | Ryzyko, ład i przywództwo | `K_W04`, `K_U05`, `K_U09`, `K_U10`, `K_K05` | ORS, PZB, RI |
 | Prawo, prywatność, etyka i interes publiczny | `K_W05`, `K_U05`, `K_K01`, `K_K02`, `K_K07` | PZB, PRC oraz etyczne efekty modułów praktycznych i projektowych |
-| Projektowanie i realizacja rozwiązań | `K_W07`, `K_U02`, `K_U06`, `K_U08`, `K_U10` | IBO, SPC, PZC, PBC |
-| Badania, źródła i rozwój dyscypliny | `K_W06`, `K_U07`, `K_U08`, `K_U11`, `K_K04`, `K_K06` | TC, SPC, PZC, PBC |
-| Dokumentowanie i komunikacja | `K_U09`, `K_U10`, `K_U12`, `K_K03`, `K_K06` | wszystkie moduły projektowe, ORS, PZB, PRC, RI, EH, ASC1, ASC2 |
+| Projektowanie i realizacja rozwiązań | `K_W07`, `K_U02`, `K_U06`, `K_U08`, `K_U10` | IBO, SPC, PZC, PBC, SM |
+| Badania, źródła i rozwój dyscypliny | `K_W06`, `K_U07`, `K_U08`, `K_U11`, `K_K04`, `K_K06` | TC, SPC, PZC, PBC, SM |
+| Dokumentowanie i komunikacja | `K_U09`, `K_U10`, `K_U12`, `K_K03`, `K_K06` | wszystkie moduły projektowe, ORS, PZB, PRC, RI, EH, ASC1–ASC4, SM |
 | Praktyka zawodowa i rozwój profesjonalny | `K_W04`, `K_W07`, `K_U01`, `K_U03`, `K_U05`, `K_U06`, `K_U09`, `K_U10`, `K_U11`, `K_K01–K_K05` | PRA oraz moduły laboratoryjne i projektowe |
 
 ## 4. Wstępna macierz pokrycia przez moduły
@@ -121,10 +121,13 @@ Macierz wskazuje efekty kierunkowe istotnie realizowane przez moduł. Nie oznacz
 | 15 | ASC1 Angielski specjalistyczny w cyberbezpieczeństwie I | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K02`, `K_K03`, `K_K04` |
 | 16 | ASC2 Angielski specjalistyczny w cyberbezpieczeństwie II | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K01`, `K_K03`, `K_K04` |
 | 17 | PRA Praktyka zawodowa w cyberbezpieczeństwie | `K_W04`, `K_W07` | `K_U01`, `K_U03`, `K_U05`, `K_U06`, `K_U09`, `K_U10`, `K_U11` | `K_K01`, `K_K02`, `K_K03`, `K_K04`, `K_K05` |
+| 18 | ASC3 Angielski specjalistyczny w cyberbezpieczeństwie III | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K01`, `K_K03`, `K_K04` |
+| 19 | ASC4 Angielski specjalistyczny w cyberbezpieczeństwie IV | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K01`, `K_K03`, `K_K04` |
+| 20 | SM Seminarium magisterskie | `K_W06`, `K_W07` | `K_U06`, `K_U07`, `K_U08`, `K_U09`, `K_U11` | `K_K01`, `K_K02`, `K_K06` |
 
 ## 5. Warunek równoważności ścieżek końcowych
 
-Moduły SPC, PZC i PBC są alternatywami, dlatego każdy wariant ukończenia powinien potwierdzać wspólne minimum:
+Moduły SPC, PZC i PBC są alternatywami, a student wybiera jeden wariant SM z oferowanej puli seminariów. Każdy wariant ukończenia powinien potwierdzać wspólne minimum:
 
 - `K_W06` — metody pozyskiwania i krytycznej oceny wiedzy;
 - `K_W07` — metody prowadzenia złożonego przedsięwzięcia;
@@ -142,10 +145,10 @@ Efekty właściwe wyłącznie jednej ścieżce, np. wytworzenie wdrażalnego art
 2. **Mapowanie do PRK 7 należy formalnie zatwierdzić dla profilu praktycznego.** Program musi zapewnić odpowiedni udział zajęć kształtujących umiejętności praktyczne oraz doświadczenie zdobywane w środowisku zawodowym.
 3. **Trzeba określić poziom realizacji efektu w module:** wprowadzenie (`I`), rozwijanie (`R`) i sprawdzenie/osiągnięcie (`S`). Sama obecność efektu w macierzy nie dowodzi jego osiągnięcia.
 4. **Każdy efekt kierunkowy powinien mieć co najmniej jedno obowiązkowe miejsce weryfikacji.** Nie można opierać osiągnięcia efektu wyłącznie na module wybieralnym.
-5. **Efekty `K_U11` i `K_K04` dotyczące uczenia się przez całe życie są realizowane w module Trendy w cyberbezpieczeństwie oraz w obowiązkowych lektoratach ASC1 i ASC2.** Ich osiągnięcie należy potwierdzać przez plan rozwoju, wykorzystanie informacji zwrotnej i samodzielną aktualizację terminologii.
+5. **Efekty `K_U11` i `K_K04` dotyczące uczenia się przez całe życie są realizowane w module Trendy w cyberbezpieczeństwie oraz w obowiązkowych lektoratach ASC1–ASC4.** Ich osiągnięcie należy potwierdzać przez plan rozwoju, wykorzystanie informacji zwrotnej i samodzielną aktualizację terminologii.
 6. **Kompetencje społeczne należy weryfikować poprzez obserwowalne działania.** Rubryki powinny obejmować m.in. przestrzeganie zakresu testów, jakość komunikacji, ujawnianie ograniczeń, pracę zespołową i rzetelność dokumentacji.
 7. **Nazwy i kody są robocze.** Ostateczne oznaczenia muszą być zgodne z systemem efektów przyjętym przez uczelnię.
-8. **Efekt `K_U12` ma obowiązkowe miejsca weryfikacji w ASC1 i ASC2.** Efekt `K_K07` nadal wymaga jawnego wskazania ocenianych elementów przedsiębiorczości i działania na rzecz interesu publicznego w sylabusach PZB, PRC lub PZC.
+8. **Efekt `K_U12` jest rozwijany w ASC1–ASC3 i ma obowiązkowe miejsce końcowej weryfikacji w ASC4.** Efekt `K_K07` nadal wymaga jawnego wskazania ocenianych elementów przedsiębiorczości i działania na rzecz interesu publicznego w sylabusach PZB, PRC lub PZC.
 9. **PRA zapewnia obowiązkową weryfikację efektów w rzeczywistym środowisku zawodowym.** Ocena opiekuna, portfolio, dziennik i rozmowa zaliczeniowa potwierdzają w szczególności `K_U06`, `K_U09–K_U11` oraz `K_K01–K_K05`.
 
 ## 7. Zalecany kolejny krok

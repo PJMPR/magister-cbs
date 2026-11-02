@@ -3,7 +3,7 @@ layout: syllabus
 title: Praktyka zawodowa w cyberbezpieczeństwie
 code: PRA
 ects: 16
-semester: II–IV
+semester: III–IV
 status: obowiązkowy
 order: 17
 ---
@@ -16,7 +16,7 @@ order: 17
 |---|---|
 | Punkty ECTS | 16 |
 | Status | obowiązkowy |
-| Zalecane semestry | II–IV: odpowiednio 5, 5 i 6 ECTS |
+| Zalecane semestry | III–IV: po 8 ECTS |
 | Minimalny czas | 3 miesiące |
 | Łączny nakład pracy | 400 godzin |
 | Język | polski lub angielski, zależnie od miejsca praktyki |
@@ -60,8 +60,8 @@ Każdy indywidualny program praktyki musi umożliwić osiągnięcie wszystkich e
 
 ## Organizacja i nadzór
 
-- praktyka trwa łącznie co najmniej 3 miesiące i może być realizowana w częściach w semestrach II–IV;
-- rekomendowany podział punktów to 5 ECTS w semestrze II, 5 ECTS w semestrze III i 6 ECTS w semestrze IV;
+- praktyka trwa łącznie co najmniej 3 miesiące i może być realizowana w częściach w semestrach III–IV;
+- rekomendowany podział punktów to 8 ECTS w semestrze III i 8 ECTS w semestrze IV;
 - miejsce praktyki musi prowadzić działalność umożliwiającą realizację efektów i zapewnić kompetentnego opiekuna;
 - uczelniany opiekun zatwierdza program, monitoruje przebieg i przeprowadza końcową weryfikację;
 - zadania wymagające dostępu do systemów, danych lub narzędzi ofensywnych muszą mieć pisemnie określony zakres autoryzacji;

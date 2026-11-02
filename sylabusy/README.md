@@ -1,6 +1,6 @@
 # Sylabusy modułów cyberbezpieczeństwa
 
-Katalog zawiera polskie, robocze sylabusy 17 modułów programu. Każdy sylabus jest odrębnym plikiem.
+Katalog zawiera polskie, robocze sylabusy 20 modułów programu. Każdy sylabus jest odrębnym plikiem.
 
 ## Moduły
 
@@ -21,6 +21,9 @@ Katalog zawiera polskie, robocze sylabusy 17 modułów programu. Każdy sylabus 
 15. [Angielski specjalistyczny w cyberbezpieczeństwie I](15-angielski-specjalistyczny-i.md)
 16. [Angielski specjalistyczny w cyberbezpieczeństwie II](16-angielski-specjalistyczny-ii.md)
 17. [Praktyka zawodowa w cyberbezpieczeństwie](17-praktyka-zawodowa.md)
+18. [Angielski specjalistyczny w cyberbezpieczeństwie III](18-angielski-specjalistyczny-iii.md)
+19. [Angielski specjalistyczny w cyberbezpieczeństwie IV](19-angielski-specjalistyczny-iv.md)
+20. [Seminarium magisterskie](20-seminarium-magisterskie.md)
 
 ## Założenia wspólne
 

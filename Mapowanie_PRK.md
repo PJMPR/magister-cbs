@@ -61,8 +61,8 @@ Przyjęto, że:
 | `K_W03` | `P7S_WG` | bezpośrednie | Klasy podatności, techniki ataku, malware i reagowanie wymagają pogłębionego rozumienia złożonych zależności technicznych. | BI, IBO, RI, BS, AZO, EH; analizy podatności, incydentów i próbek |
 | `K_W04` | `P7S_WG`, `P7S_WK` | bezpośrednie | Zarządzanie ryzykiem, ład, normy i odporność łączą wiedzę techniczną z organizacyjnymi skutkami działalności. | ORS, PZB, RI; projekt ładu, ocena dojrzałości, raport incydentu |
 | `K_W05` | `P7S_WK`, `P7S_WK` (inż.) | bezpośrednie | Efekt obejmuje dylematy prawne i etyczne, uwarunkowania ekonomiczne, własność intelektualną i przedsiębiorczość. | PZB, PRC, EH; analiza prawna, debata etyczna, uzasadnienie biznesowe |
-| `K_W06` | `P7S_WG` | bezpośrednie | Obejmuje metody pozyskiwania i oceny wiedzy, badania, ewaluację oraz tendencje rozwojowe dyscypliny. | TC i obowiązkowo jeden z SPC, PZC lub PBC; przegląd literatury, raport końcowy |
-| `K_W07` | `P7S_WG`, `P7S_WG` (inż.), częściowo `P7S_WK` | bezpośrednie | Obejmuje metody prowadzenia złożonych przedsięwzięć i cykl życia systemów technicznych w kontekście organizacyjnym i ekonomicznym. | PZB, IBO, SPC, PZC, PBC; plan projektu, artefakt, dokumentacja cyklu życia |
+| `K_W06` | `P7S_WG` | bezpośrednie | Obejmuje metody pozyskiwania i oceny wiedzy, badania, ewaluację oraz tendencje rozwojowe dyscypliny. | TC, SM i obowiązkowo jeden z SPC, PZC lub PBC; przegląd literatury, raport końcowy |
+| `K_W07` | `P7S_WG`, `P7S_WG` (inż.), częściowo `P7S_WK` | bezpośrednie | Obejmuje metody prowadzenia złożonych przedsięwzięć i cykl życia systemów technicznych w kontekście organizacyjnym i ekonomicznym. | PZB, IBO, SPC, PZC, PBC, SM; plan projektu, artefakt, dokumentacja cyklu życia |
 
 ### 3.2. Umiejętności
 
@@ -73,13 +73,13 @@ Przyjęto, że:
 | `K_U03` | `P7S_UW`, `P7S_UW` (inż.) | bezpośrednie | Specjalistyczne testowanie i analiza realizują krytyczną ocenę funkcjonowania rozwiązań technicznych oraz użycie zaawansowanych narzędzi. | KS, IBO, BS, AZO, EH; laboratoria i raporty techniczne |
 | `K_U04` | `P7S_UW` | bezpośrednie | Korelacja danych, diagnoza kompromitacji i odtwarzanie działania są złożonymi zadaniami wykonywanymi w nieprzewidywalnych warunkach. | BI, RI, BS, AZO; ćwiczenie incydentowe, analiza logów i ruchu |
 | `K_U05` | `P7S_UW`, `P7S_UW` (inż.) | bezpośrednie | Przekładanie norm i prawa na kontrole oraz procedury łączy rozwiązywanie problemów z aspektami systemowymi, prawnymi, etycznymi i pozatechnicznymi. | ORS, PZB, PRC; plan postępowania z ryzykiem i macierz wymagań |
-| `K_U06` | `P7S_UW`, `P7S_UO`, `P7S_UW` (inż.) | bezpośrednie | Prowadzenie złożonego projektu i wykonanie artefaktu realizują projektowanie systemu lub procesu zgodnie ze specyfikacją. | obowiązkowo jeden z SPC, PZC lub PBC oraz PRA, wspierająco IBO; artefakt, portfolio i raport |
-| `K_U07` | `P7S_UW`, `P7S_UW` (inż.) | bezpośrednie | Krytyczna praca ze źródłami, dobór metod i badanie/eksperyment realizują część badawczą lub wdrożeniową, zależnie od profilu. | TC, SPC, PZC, PBC; przegląd literatury, protokół, eksperyment lub ewaluacja |
-| `K_U08` | `P7S_UW`, `P7S_UW` (inż.) | bezpośrednie | Walidacja, interpretacja wyników, analiza ograniczeń i ocena ekonomiczna pokrywają eksperymentowanie oraz krytyczną ocenę rozwiązania. | BI, KS, IBO, BS, TC, EH, SPC, PZC, PBC; testy, pomiary, analiza wyników |
-| `K_U09` | `P7S_UK`, pomocniczo `P7S_UW` | bezpośrednie | Dokumentowanie i prezentowanie ryzyka oraz rekomendacji realizuje specjalistyczną komunikację z różnymi odbiorcami. | wszystkie moduły projektowe oraz ASC1, ASC2 i PRA; raport techniczny, zarządczy, portfolio i prezentacja |
+| `K_U06` | `P7S_UW`, `P7S_UO`, `P7S_UW` (inż.) | bezpośrednie | Prowadzenie złożonego projektu i wykonanie artefaktu realizują projektowanie systemu lub procesu zgodnie ze specyfikacją. | obowiązkowo jeden z SPC, PZC lub PBC, SM oraz PRA, wspierająco IBO; artefakt, portfolio i raport |
+| `K_U07` | `P7S_UW`, `P7S_UW` (inż.) | bezpośrednie | Krytyczna praca ze źródłami, dobór metod i badanie/eksperyment realizują część badawczą lub wdrożeniową, zależnie od profilu. | TC, SPC, PZC, PBC, SM; przegląd literatury, protokół, eksperyment lub ewaluacja |
+| `K_U08` | `P7S_UW`, `P7S_UW` (inż.) | bezpośrednie | Walidacja, interpretacja wyników, analiza ograniczeń i ocena ekonomiczna pokrywają eksperymentowanie oraz krytyczną ocenę rozwiązania. | BI, KS, IBO, BS, TC, EH, SPC, PZC, PBC, SM; testy, pomiary, analiza wyników |
+| `K_U09` | `P7S_UK`, pomocniczo `P7S_UW` | bezpośrednie | Dokumentowanie i prezentowanie ryzyka oraz rekomendacji realizuje specjalistyczną komunikację z różnymi odbiorcami. | wszystkie moduły projektowe, SM, ASC1–ASC4 i PRA; raport techniczny, zarządczy, portfolio i prezentacja |
 | `K_U10` | `P7S_UO` | bezpośrednie | Efekt wprost obejmuje kierowanie, współdziałanie i podejmowanie wiodącej roli w zespole interdyscyplinarnym. | ORS, PZB, IBO, RI, BS, PZC, PRA; projekt grupowy, praktyka i obserwacja pracy zespołu |
-| `K_U11` | `P7S_UU` | bezpośrednie | Efekt obejmuje samodzielne uczenie się przez całe życie oraz ukierunkowywanie rozwoju innych osób. | PZB, TC, SPC, PZC, PBC, ASC1, ASC2, PRA; plan rozwoju, mentoring, informacja zwrotna i krytyczna analiza trendu |
-| `K_U12` | `P7S_UK` | bezpośrednie | Efekt wprost obejmuje komunikację specjalistyczną, debatę, język obcy B2+ i terminologię specjalistyczną. | ASC1 i ASC2; portfolio, debata, prezentacja, symulacja zespołu i końcowa weryfikacja B2+ |
+| `K_U11` | `P7S_UU` | bezpośrednie | Efekt obejmuje samodzielne uczenie się przez całe życie oraz ukierunkowywanie rozwoju innych osób. | PZB, TC, SPC, PZC, PBC, ASC1–ASC4, PRA; plan rozwoju, mentoring, informacja zwrotna i krytyczna analiza trendu |
+| `K_U12` | `P7S_UK` | bezpośrednie | Efekt wprost obejmuje komunikację specjalistyczną, debatę, język obcy B2+ i terminologię specjalistyczną. | ASC1–ASC4; portfolio, debata, prezentacja, symulacja zespołu i końcowa weryfikacja B2+ |
 
 ### 3.3. Kompetencje społeczne
 
@@ -90,7 +90,7 @@ Przyjęto, że:
 | `K_K03` | `P7S_KR` | bezpośrednie | Rzetelna współpraca i komunikowanie ryzyka wspierają odpowiedzialne pełnienie roli zawodowej i pracę zespołową. | ORS, PZB, IBO, RI, BS, EH, PZC; ocena zespołowa i informacja zwrotna |
 | `K_K04` | `P7S_KR` | bezpośrednie | Stały rozwój zawodowy wobec zmian technologii i regulacji wspiera etos oraz odpowiedzialne pełnienie roli zawodowej. | TC, SPC, PZC i PBC; plan rozwoju i aktualizacja źródeł |
 | `K_K05` | `P7S_KO`, `P7S_KR` | bezpośrednie | Odpowiedzialność za bezpieczeństwo i budowanie kultury organizacyjnej łączą rolę zawodową ze zobowiązaniami społecznymi. | PZB, RI, PZC; strategia, komunikacja kryzysowa, decyzje projektowe |
-| `K_K06` | `P7S_KR`, `P7S_KK` | bezpośrednie | Rzetelność, transparentność i odpowiedzialne udostępnianie wyników realizują standardy etyczne zawodu i krytycyzm. | TC, SPC, PZC, PBC; deklaracje autorstwa, repozytorium, dokumentacja badań |
+| `K_K06` | `P7S_KR`, `P7S_KK` | bezpośrednie | Rzetelność, transparentność i odpowiedzialne udostępnianie wyników realizują standardy etyczne zawodu i krytycyzm. | TC, SPC, PZC, PBC, SM; deklaracje autorstwa, repozytorium, dokumentacja badań |
 | `K_K07` | `P7S_KO` | bezpośrednie | Efekt wprost obejmuje zobowiązania społeczne, interes publiczny i działanie przedsiębiorcze. | PZB, PRC, PZC; analiza interesariuszy, uzasadnienie wartości i wpływu społecznego |
 
 ## 4. Matryca odwrotna: charakterystyki PRK → efekty kierunkowe
@@ -103,8 +103,8 @@ Przyjęto, że:
 | `P7S_UW` — złożone problemy, źródła, metody i narzędzia | `K_U01–K_U09` | pełne |
 | `P7S_UW` — hipotezy wdrożeniowe, profil praktyczny | `K_U06–K_U08` | pełne, jeśli każdy wariant końcowy zawiera walidowane założenie wdrożeniowe |
 | `P7S_UK` — komunikacja specjalistyczna | `K_U09`, `K_U12` | pełne |
-| `P7S_UK` — debata | `K_U12` | pełne; obowiązkowa debata w ASC2 |
-| `P7S_UK` — język obcy B2+ | `K_U12` | pełne; rozwijane w ASC1 i końcowo weryfikowane w ASC2 |
+| `P7S_UK` — debata | `K_U12` | pełne; obowiązkowe debaty w ASC3 i ASC4 |
+| `P7S_UK` — język obcy B2+ | `K_U12` | pełne; rozwijane w ASC1–ASC3 i końcowo weryfikowane w ASC4 |
 | `P7S_UO` — kierowanie i wiodąca rola | `K_U10`, wspierająco `K_U06` | pełne po zastosowaniu indywidualnej rubryki pracy zespołowej |
 | `P7S_UU` — uczenie się i ukierunkowywanie innych | `K_U11` | pełne po dodaniu elementu mentoringu lub recenzji koleżeńskiej |
 | `P7S_KK` — krytycyzm i eksperci | `K_K02`, `K_K06` | pełne |
@@ -152,10 +152,10 @@ Realizację wspierają ORS, PZB, IBO, RI, BS, AZO, EH i PZC. Sam opis efektów n
 |---|---|---|---|
 | `K_W01–K_W04`, `K_U01–K_U05` | ORS, BI | KS, IBO, RI, BS, AZO | EH i obowiązkowy moduł końcowy |
 | `K_W05`, `K_K01`, `K_K07` | PZB, PRC | RI, EH | SPC, PZC lub PBC |
-| `K_W06–K_W07`, `K_U06–K_U08` | IBO, TC | TC oraz seminarium | SPC, PZC lub PBC |
-| `K_U09`, `K_U12` | ASC1 | moduły projektowe, ASC1 i PRA | ASC2, portfolio praktyki oraz prezentacja i obrona końcowa |
+| `K_W06–K_W07`, `K_U06–K_U08` | IBO, TC | TC, SM oraz wybrany moduł końcowy | SM oraz SPC, PZC lub PBC |
+| `K_U09`, `K_U12` | ASC1 | moduły projektowe, ASC2, ASC3 i PRA | ASC4, portfolio praktyki oraz prezentacja i obrona końcowa |
 | `K_U10`, `K_K03`, `K_K05` | ORS, PZB | IBO, RI, BS, PRA | ocena opiekuna praktyki, projekt zespołowy i PZC lub równoważne zadanie |
-| `K_U11`, `K_K02`, `K_K04`, `K_K06` | BI, PZB, PRC, ASC1 | TC, ASC1, PRA | portfolio, ASC2, PRA oraz SPC, PZC lub PBC |
+| `K_U11`, `K_K02`, `K_K04`, `K_K06` | BI, PZB, PRC, ASC1 | TC, ASC2, ASC3, PRA, SM | portfolio, ASC4, PRA, SM oraz SPC, PZC lub PBC |
 
 ## 8. Wniosek
 

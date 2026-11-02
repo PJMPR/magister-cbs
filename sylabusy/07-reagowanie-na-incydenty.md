@@ -3,7 +3,7 @@ layout: syllabus
 title: Reagowanie na incydenty
 code: RI
 ects: 5
-semester: III
+semester: II
 status: obowiązkowy
 order: 7
 ---
@@ -16,7 +16,7 @@ order: 7
 |---|---|
 | Punkty ECTS | 5 |
 | Status | obowiązkowy |
-| Zalecany semestr | III |
+| Zalecany semestr | II |
 | Język | polski |
 
 ## Cel modułu

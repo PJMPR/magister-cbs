@@ -2,8 +2,8 @@
 layout: syllabus
 title: Angielski specjalistyczny w cyberbezpieczeństwie II
 code: ASC2
-ects: 5
-semester: IV
+ects: 2
+semester: II
 status: obowiązkowy
 order: 16
 ---
@@ -14,15 +14,15 @@ order: 16
 
 | Pole | Wartość |
 |---|---|
-| Punkty ECTS | 5 |
+| Punkty ECTS | 2 |
 | Status | obowiązkowy |
-| Zalecany semestr | IV |
+| Zalecany semestr | II |
 | Język | angielski |
-| Docelowy poziom | B2+ ze specjalistyczną terminologią |
+| Docelowy poziom | rozwój kompetencji w kierunku B2+ |
 
 ## Cel modułu
 
-Osiągnięcie kompetencji komunikacyjnej B2+ potrzebnej do prowadzenia debaty, prezentowania i obrony wyników projektu, współpracy w międzynarodowym środowisku oraz przygotowywania specjalistycznych dokumentów z cyberbezpieczeństwa.
+Rozwijanie komunikacji technicznej w języku angielskim przez pracę z dokumentacją, raportami i opisami incydentów oraz współpracę w symulowanym międzynarodowym zespole bezpieczeństwa.
 
 ## Wymagania wstępne
 
@@ -42,7 +42,7 @@ Po ukończeniu modułu student:
 
 ## Treści programowe
 
-1. Powtórna diagnoza B2+ i indywidualne cele rozwojowe.
+1. Aktualizacja diagnozy językowej i indywidualnych celów rozwojowych.
 2. Krytyczne czytanie raportów, artykułów i rekomendacji bezpieczeństwa.
 3. Argumentacja, kontrargument, kwalifikowanie twierdzeń i ocena źródeł.
 4. Prowadzenie debaty o technologii, ryzyku, prawie i etyce.
@@ -51,7 +51,7 @@ Po ukończeniu modułu student:
 7. Obrona decyzji technicznych i odpowiedzi na pytania krytyczne.
 8. Komunikacja incydentowa: briefing, eskalacja, status update i post-incident review.
 9. Współpraca międzykulturowa, rejestr formalny i komunikacja w warunkach presji.
-10. Końcowa debata, prezentacja i indywidualna weryfikacja B2+.
+10. Prezentacja techniczna i semestralna ocena postępu w kierunku B2+.
 
 ## Metody i formy kształcenia
 
@@ -61,13 +61,13 @@ Lektorat w języku angielskim, debaty oksfordzkie i panelowe, symulacje incydent
 
 | Aktywność | Godziny |
 |---|---:|
-| Lektorat i ćwiczenia synchroniczne | 30 |
-| Debaty, symulacje i prezentacje | 20 |
-| Konsultacje i informacja zwrotna | 5 |
-| Samodzielna praca ze źródłami | 25 |
-| Portfolio pisemne | 25 |
-| Przygotowanie końcowej weryfikacji B2+ | 20 |
-| **Razem** | **125** |
+| Lektorat i ćwiczenia synchroniczne | 20 |
+| Debaty, symulacje i prezentacje | 8 |
+| Konsultacje i informacja zwrotna | 2 |
+| Samodzielna praca ze źródłami | 8 |
+| Portfolio pisemne | 8 |
+| Przygotowanie zaliczenia | 4 |
+| **Razem** | **50** |
 
 ## Weryfikacja efektów i ocena
 
@@ -76,9 +76,9 @@ Lektorat w języku angielskim, debaty oksfordzkie i panelowe, symulacje incydent
 | Debata specjalistyczna | 25% | W01, U02, K01 |
 | Prezentacja i obrona wyników | 25% | U01–U02, K01 |
 | Portfolio: abstrakt, executive summary i rekomendacje | 25% | W01, U03, K01–K02 |
-| Końcowa weryfikacja komunikacji na poziomie B2+ | 25% | U01–U04, K02 |
+| Semestralna weryfikacja postępu językowego | 25% | U01–U04, K02 |
 
-Warunkiem zaliczenia jest uzyskanie co najmniej 50% z każdego składnika oraz potwierdzenie kompetencji B2+ według przyjętej rubryki. Końcowa weryfikacja obejmuje samodzielną wypowiedź ustną i pisemną bez generowania treści przez narzędzia AI.
+Warunkiem zaliczenia jest uzyskanie co najmniej 50% z każdego składnika. Weryfikacja obejmuje samodzielną wypowiedź ustną i pisemną bez generowania treści przez narzędzia AI.
 
 ## Literatura i źródła
 
@@ -89,5 +89,5 @@ Warunkiem zaliczenia jest uzyskanie co najmniej 50% z każdego składnika oraz p
 
 ## Uwagi programowe
 
-Moduł stanowi obowiązkowe miejsce końcowej weryfikacji efektu `K_U12` oraz wspiera prezentację i obronę rezultatów modułów końcowych.
+Moduł rozwija efekt `K_U12` i przygotowuje do komunikacji incydentowej oraz dalszych lektoratów ASC3 i ASC4.
 

@@ -2,8 +2,8 @@
 layout: syllabus
 title: Angielski specjalistyczny w cyberbezpieczeństwie I
 code: ASC1
-ects: 5
-semester: II
+ects: 2
+semester: I
 status: obowiązkowy
 order: 15
 ---
@@ -14,9 +14,9 @@ order: 15
 
 | Pole | Wartość |
 |---|---|
-| Punkty ECTS | 5 |
+| Punkty ECTS | 2 |
 | Status | obowiązkowy |
-| Zalecany semestr | II |
+| Zalecany semestr | I |
 | Język | angielski, z pomocniczym wykorzystaniem języka polskiego |
 | Docelowy poziom | rozwój kompetencji w kierunku B2+ |
 
@@ -60,13 +60,12 @@ Lektorat prowadzony w języku angielskim, praca z autentyczną dokumentacją, ć
 
 | Aktywność | Godziny |
 |---|---:|
-| Lektorat i ćwiczenia synchroniczne | 30 |
-| Warsztaty komunikacji technicznej | 15 |
-| Konsultacje i informacja zwrotna | 5 |
-| Samodzielna praca z dokumentacją | 30 |
-| Portfolio prac pisemnych | 25 |
-| Przygotowanie prezentacji i zaliczenia | 20 |
-| **Razem** | **125** |
+| Lektorat i ćwiczenia synchroniczne | 20 |
+| Konsultacje i informacja zwrotna | 2 |
+| Samodzielna praca z dokumentacją | 12 |
+| Portfolio prac pisemnych | 10 |
+| Przygotowanie prezentacji i zaliczenia | 6 |
+| **Razem** | **50** |
 
 ## Weryfikacja efektów i ocena
 
@@ -88,5 +87,5 @@ Warunkiem zaliczenia jest uzyskanie co najmniej 50% łącznie oraz oddanie portf
 
 ## Uwagi programowe
 
-Moduł przygotowuje do obowiązkowej weryfikacji efektu `K_U12` na poziomie B2+ i jest skoordynowany z technicznymi modułami pierwszego roku.
+Moduł rozpoczyna czterosemestralną ścieżkę językową prowadzącą do obowiązkowej weryfikacji efektu `K_U12` na poziomie B2+.
 

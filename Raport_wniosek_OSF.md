@@ -17,12 +17,12 @@
 
 Projekt ma już przygotowaną znaczną część warstwy merytorycznej: koncepcję programu, 100 ECTS, cztery semestry, profil praktyczny, katalog sylabusów, efekty kierunkowe, mapowanie modułów oraz mapowanie do PRK 7. Nie jest jednak jeszcze gotowy do wprowadzenia i zatwierdzenia w OSF.
 
-Ustalono nazwę kierunku **Informatyka**, specjalizację **Cyberbezpieczeństwo**, tytuł zawodowy **magister** oraz obowiązkową praktykę zawodową: **16 ECTS, 400 godzin i minimum 3 miesiące**, realizowaną w semestrach II–IV. Do rozstrzygnięcia pozostają dwie kwestie blokujące:
+Ustalono nazwę kierunku **Informatyka**, specjalizację **Cyberbezpieczeństwo**, tytuł zawodowy **magister** oraz obowiązkową praktykę zawodową: **16 ECTS, 400 godzin i minimum 3 miesiące**, realizowaną w semestrach III–IV. Do rozstrzygnięcia pozostają dwie kwestie blokujące:
 
-1. **Wybieralność:** trzeba zapewnić co najmniej 30 ECTS zajęć lub grup zajęć do wyboru. Obecna siatka nie pokazuje jeszcze jednoznacznie ścieżki wyboru o takim wymiarze.
+1. **Wybieralność:** trzeba zapewnić co najmniej 30 ECTS zajęć lub grup zajęć do wyboru. Wybieralne seminarium magisterskie zapewnia 10 ECTS, dlatego nadal brakuje co najmniej 20 ECTS rzeczywistego wyboru w każdej ścieżce.
 2. **Bilans zajęć praktycznych:** trzeba formalnie wskazać więcej niż 50% całego programu jako zajęcia kształtujące umiejętności praktyczne. Przy 100 ECTS oznacza to minimum 51 ECTS. Sylabusy mają charakter praktyczny, lecz nie zawierają jeszcze zatwierdzonej klasyfikacji OSF i zbiorczego bilansu.
 
-Praktykę włączono do istniejących 100 ECTS. Wymagało to zmniejszenia PRC i BS do 5 ECTS, TC do 4 ECTS oraz bloku dyplomowego do 10 ECTS. Zachowano 25 ECTS w każdym semestrze.
+Praktykę oraz cztery lektoraty języka angielskiego włączono do istniejących 100 ECTS. BI i PRC mają po 8 ECTS, TC 5 ECTS, praktyka jest dzielona na 8 ECTS w semestrze III i 8 ECTS w semestrze IV, a wybieralne seminarium magisterskie obejmuje 10 ECTS. Reagowanie na incydenty przeniesiono do semestru II. Zachowano 25 ECTS w każdym semestrze.
 
 ### Odpowiedź prawna: ile ECTS trzeba przypisać praktykom
 
@@ -67,8 +67,8 @@ Dla analizowanego projektu należy wybrać:
 | ECTS studiów II stopnia | co najmniej 90 | **spełnione: 100** |
 | Liczba semestrów studiów II stopnia | 3, 4 albo 5; dla niestacjonarnych projekt przyjmuje 4 | **spełnione: 4** |
 | ECTS zajęć praktycznych dla profilu praktycznego | co najmniej 51% | **do policzenia; minimum 51 ECTS, zalecany bufor 55–60 ECTS** |
-| ECTS humanistyczne lub społeczne | co najmniej 5 | **prawdopodobnie spełnione, ale wymaga formalnego przypisania** |
-| ECTS do wyboru dla studiów niestandaryzowanych | co najmniej 30% | **niespełnione lub nieudokumentowane; potrzeba co najmniej 30 ECTS** |
+| ECTS humanistyczne lub społeczne | co najmniej 5 | **spełnione: 13 ECTS — PZB 5 ECTS i PRC 8 ECTS, nauki społeczne** |
+| ECTS do wyboru dla studiów niestandaryzowanych | co najmniej 30% | **częściowo spełnione: SM zapewnia 10 ECTS; brakuje co najmniej 20 ECTS** |
 | Praktyka zawodowa, studia II stopnia, profil praktyczny | co najmniej 3 miesiące | **spełnione projektowo: 3 miesiące** |
 | Godziny praktyk | pole obowiązkowe | **ustalone: 400 godzin** |
 | ECTS praktyk | pole obowiązkowe | **ustalone: 16 ECTS w ramach 100 ECTS** |
@@ -162,7 +162,7 @@ Docelowe wartości robocze:
 |---|---:|
 | ECTS ogółem | 100 |
 | ECTS praktyczne | co najmniej 51; rekomendowany projektowo bufor 55–60 |
-| ECTS humanistyczne/społeczne | co najmniej 5 |
+| ECTS humanistyczne/społeczne | 13 — PZB 5 ECTS i PRC 8 ECTS |
 | ECTS do wyboru | co najmniej 30 |
 | Praktyki | 3 miesiące, 400 godzin, 16 ECTS |
 
@@ -171,13 +171,14 @@ Docelowe wartości robocze:
 Praktykę włączono do 100 ECTS. Przyjęty model projektowy:
 
 1. praktyka PRA obejmuje 16 ECTS i 400 godzin;
-2. realizacja jest dzielona na 5 ECTS w semestrze II, 5 ECTS w semestrze III i 6 ECTS w semestrze IV;
+2. realizacja jest dzielona na 8 ECTS w semestrze III i 8 ECTS w semestrze IV;
 3. zachowano 25 ECTS w każdym semestrze;
-4. PRC i BS mają po 5 ECTS, TC ma 4 ECTS, a blok dyplomowy SPM 10 ECTS;
+4. BI i PRC mają po 8 ECTS, TC ma 5 ECTS, a wybieralne seminarium magisterskie SM 10 ECTS;
+5. lektoraty ASC1–ASC4 mają po 2 ECTS i są realizowane w każdym semestrze.
 5. trzeba jeszcze utworzyć co najmniej 30-ECTS pulę wyboru;
 6. trzeba potwierdzić co najmniej 51 ECTS zajęć praktycznych w każdej dopuszczalnej ścieżce wyboru.
 
-Do rozważenia jest wykorzystanie SPC, PZC i PBC jako wariantów ścieżki końcowej, ale sama możliwość wyboru jednego modułu o wartości 15 ECTS nie daje wymaganych 30 ECTS. Potrzebna jest dodatkowa pula wyboru albo podział istniejących modułów na obowiązkowe i alternatywne bloki.
+SM zapewnia 10 ECTS rzeczywistego wyboru, jeżeli uczelnia zaoferuje co najmniej dwa dostępne warianty seminarium. Do rozważenia jest także wykorzystanie SPC, PZC i PBC jako wariantów ścieżki końcowej. Niezależnie od modelu każda dopuszczalna ścieżka musi zawierać jeszcze co najmniej 20 ECTS realnego wyboru.
 
 ### 4.6. Koncepcja kształcenia — treść pól do przygotowania
 
@@ -332,16 +333,16 @@ Zalecana konwencja nazw: `01_Akt_rektora.pdf`, `02_Uchwala_senatu_program.pdf`, 
 | Element wniosku | Ocena | Dostępny materiał | Brakujące działanie |
 |---|---|---|---|
 | Poziom, forma, profil, semestry, ECTS | zielony | README i strona programu | formalne zatwierdzenie |
-| Sylabusy | żółty | 17 plików modułowych | rozpisać godziny kontaktowe i formy OSF |
+| Sylabusy | żółty | 20 plików modułowych | rozpisać godziny kontaktowe i formy OSF |
 | Efekty kierunkowe | żółty | 26 efektów i matryca modułowa | zatwierdzić i domknąć pełną macierz weryfikacji |
 | PRK 7 | żółty | pełne robocze mapowanie | kontrola prawna i zatwierdzenie dla profilu praktycznego |
-| Angielski B2+ | zielony | ASC1 i ASC2 | zatwierdzić sposób końcowej weryfikacji |
+| Angielski B2+ | zielony | ASC1–ASC4, po jednym lektoracie w każdym semestrze | zatwierdzić sposób końcowej weryfikacji w ASC4 |
 | Nazwa i tytuł | zielony | Informatyka, specjalizacja Cyberbezpieczeństwo; magister | zachować identyczne brzmienie w dokumentacji |
 | Dyscypliny | czerwony | brak uchwalonego podziału | ustalić jedną lub kilka dyscyplin i ECTS |
 | 51% ECTS praktycznych | czerwony | treści praktyczne istnieją | sklasyfikować i policzyć każdą ścieżkę |
-| 30% ECTS do wyboru | czerwony | istnieją alternatywne moduły | zaprojektować minimum 30 ECTS realnego wyboru |
+| 30% ECTS do wyboru | czerwony | SM zapewnia 10 ECTS; istnieją też robocze warianty modułów końcowych | zaprojektować brakujące minimum 20 ECTS realnego wyboru w każdej ścieżce |
 | Praktyki zawodowe | żółty | PRA: 3 miesiące, 400 godzin, 16 ECTS, efekty i sylabus | zatwierdzić organizację, miejsca, opiekunów i dokumentację praktyk |
-| Nauki humanistyczne/społeczne | żółty | PZB i PRC | przypisać i wykazać minimum 5 ECTS |
+| Nauki humanistyczne/społeczne | zielony | PZB: 5 ECTS — nauki o zarządzaniu i jakości; PRC: 8 ECTS — nauki prawne | zachować klasyfikację w programie i OSF |
 | Harmonogram godzinowy | czerwony | siatka ECTS | ustalić formy i godziny wszystkich zajęć |
 | Kadra | czerwony | brak danych | zebrać dane i deklaracje, przypisać zajęcia |
 | Infrastruktura | czerwony | brak zinwentaryzowanych dowodów | opis, audyt i dokumenty dysponowania |
@@ -355,7 +356,7 @@ Zalecana konwencja nazw: `01_Akt_rektora.pdf`, `02_Uchwala_senatu_program.pdf`, 
 ### Etap 1 — decyzje programowe
 
 1. zatwierdzić dyscyplinę lub dyscypliny;
-2. zbudować pulę wyboru obejmującą minimum 30 ECTS;
+2. uzupełnić pulę wyboru o co najmniej 20 ECTS ponad wybieralne seminarium SM;
 3. potwierdzić minimum 51 ECTS zajęć praktycznych;
 4. zatwierdzić organizację praktyki i porozumienia z pracodawcami;
 5. zatwierdzić model bloku dyplomowego.
@@ -367,8 +368,7 @@ Zalecana konwencja nazw: `01_Akt_rektora.pdf`, `02_Uchwala_senatu_program.pdf`, 
 3. policzyć godziny i ECTS bezpośredniego udziału;
 4. policzyć ECTS praktyczne;
 5. policzyć ECTS do wyboru;
-6. policzyć ECTS humanistyczne/społeczne;
-7. sprawdzić każdą możliwą ścieżkę studenta, nie tylko wariant domyślny.
+6. sprawdzić każdą możliwą ścieżkę studenta, nie tylko wariant domyślny.
 
 ### Etap 3 — dokumentacja merytoryczna
 
@@ -420,7 +420,7 @@ Samo uzyskanie statusu „kompletny” w OSF nie potwierdza zgodności prawnej a
 - [ ] Każdy semestr ma 25 ECTS.
 - [ ] Każda ścieżka zawiera minimum 51 ECTS zajęć praktycznych.
 - [ ] Każda ścieżka zapewnia minimum 30 ECTS zajęć do wyboru.
-- [ ] Program zawiera minimum 5 ECTS nauk humanistycznych lub społecznych.
+- [x] Program zawiera 13 ECTS nauk społecznych: PZB 5 ECTS i PRC 8 ECTS.
 - [ ] Praktyka ma minimum 3 miesiące, określone godziny, ECTS, efekty, opiekunów i miejsca.
 - [ ] Wszystkie efekty kierunkowe są osiągane i obowiązkowo weryfikowane.
 - [ ] Każde zajęcia mają prowadzącego o adekwatnych kwalifikacjach lub doświadczeniu.

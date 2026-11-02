@@ -2,7 +2,7 @@
 layout: syllabus
 title: Bezpieczeństwo informacji
 code: BI
-ects: 10
+ects: 8
 semester: I
 status: obowiązkowy
 order: 2
@@ -14,7 +14,7 @@ order: 2
 
 | Pole | Wartość |
 |---|---|
-| Punkty ECTS | 10 |
+| Punkty ECTS | 8 |
 | Status | obowiązkowy |
 | Zalecany semestr | I |
 | Język | polski |
@@ -60,13 +60,13 @@ Wykład, laboratorium, warsztaty, studia przypadków, dyskusje, dziennik refleks
 
 | Aktywność | Godziny |
 |---|---:|
-| Wykłady | 30 |
-| Laboratoria i warsztaty | 36 |
+| Wykłady | 25 |
+| Laboratoria i warsztaty | 32 |
 | Konsultacje | 6 |
-| Samodzielne studia literatury | 70 |
-| Projekt/portfolio | 70 |
-| Przygotowanie do egzaminu | 38 |
-| **Razem** | **250** |
+| Samodzielne studia literatury | 52 |
+| Projekt/portfolio | 55 |
+| Przygotowanie do egzaminu | 30 |
+| **Razem** | **200** |
 
 ## Weryfikacja efektów i ocena
 
@@ -86,4 +86,4 @@ Warunkiem zaliczenia jest uzyskanie co najmniej 50% łącznie i oddanie projektu
 - OWASP, *Application Security Verification Standard*, aktualna wersja.
 ## Uwagi programowe
 
-Program łączy wykłady, warsztaty, portfolio refleksji, projekt i egzamin; nakład odpowiada 10 ECTS, czyli 250 godzinom pracy studenta.
+Program łączy wykłady, warsztaty, portfolio refleksji, projekt i egzamin; nakład odpowiada 8 ECTS, czyli 200 godzinom pracy studenta.
