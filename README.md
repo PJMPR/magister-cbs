@@ -1,341 +1,362 @@
-# University College Dublin — MSc Cybersecurity (T380)
+# Cyberbezpieczeństwo — program referencyjny UCD i projekt adaptacji w Polsce
 
-**Polskojęzyczne opracowanie programu kształcenia — materiał referencyjny do projektowania studiów II stopnia w Polsce**  
-**Stan weryfikacji: 2 listopada 2026 r.**  
-**Źródło nadrzędne:** [oficjalna karta kierunku UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=T380&p_tag=COURSE)
+**Dokument roboczy do projektowania studiów II stopnia na kierunku Informatyka, specjalizacja Cyberbezpieczeństwo**  
+**Wzorzec:** University College Dublin (UCD), *MSc Cybersecurity*, kod T380  
+**Opracowanie:** 2 listopada 2026 r.  
+**Język:** polski (oryginalne nazwy przedmiotów zachowano obok tłumaczeń)
 
-> **Ważne — organizacja:** UCD stosuje trymestry (*Autumn, Spring, Summer*), nie klasyczny podział na dwa semestry w roku. Dwa lata nauki nie oznaczają więc dosłownie czterech identycznych semestrów. Dla porównania z polskim modelem opisano poniżej oba lata i trymestry.
+> **Jak czytać dokument?** Sekcje oznaczone **[UCD]** streszczają oficjalne materiały uczelni; sekcje **[PROJEKT PL]** przedstawiają naszą koncepcję, a nie ofertę UCD. Opisy są autorskim polskim opracowaniem treści i efektów uczenia się, nie uwierzytelnionym tłumaczeniem sylabusów. Nie uwzględniono informacji o naborach, terminach rekrutacji ani opłatach.
 
-## 1. Informacje podstawowe
+## 1. Założenia uzgodnione dla polskiego programu [PROJEKT PL]
 
-| Parametr | Dane |
+| Parametr | Ustalenie |
 |---|---|
-| Uczelnia | University College Dublin (UCD), Irlandia |
-| Jednostka | School of Computer Science |
-| Nazwa | MSc Cybersecurity |
-| Kod | T380 |
-| Dyplom | Master of Science (MSc), irlandzki NFQ Level 9 |
-| Czas trwania | 2 lata |
-| Tryb | Part-time (niestacjonarny), blended learning |
-| Wymiar programu | 90 ECTS |
-| Wykłady | Przeważnie nagrania i materiały online, sporadycznie zajęcia online na żywo |
-| Warsztaty | Okazjonalne całodniowe warsztaty na kampusie, deklarowana możliwość udziału zdalnego |
-| Charakter | Ścieżki zarówno techniczne, jak i menedżerskie; program dla osób z zapleczem IT |
-
-**Jak odbywa się nauka?** Materiały wideo dostępne są w platformie Brightspace. Część modułów przewiduje 3 stacjonarne warsztaty; mogą występować wykłady synchroniczne. Historyczna broszura UCD wskazywała orientacyjnie około **15 godzin pracy tygodniowo** poza warsztatami i egzaminami; liczba ta nie jest potwierdzonym aktualnym harmonogramem. Tryb *part-time* nie jest tożsamy z polskimi zjazdami wyłącznie w soboty i niedziele.
-
-## 2. Czego nauczy się absolwent?
-
-UCD deklaruje następujące efekty programu (poniżej tematyczna parafraza w języku polskim):
-
-1. **Bezpieczeństwo informacji:** identyfikacja zagrożeń, podatności, środków ochrony, projektowanie systemów zgodnie z zasadami bezpieczeństwa, kontrola dostępu.
-2. **Zarządzanie ryzykiem:** ocena prawdopodobieństwa i skutków incydentów; analiza jakościowa i ilościowa; dobór zabezpieczeń i stosowanie standardów ISO/NIST.
-3. **Bezpieczeństwo sieci:** analiza zagrożeń dla sieci przewodowych, bezprzewodowych i rozproszonych; zabezpieczanie protokołów i usług; wykrywanie włamań.
-4. **Bezpieczne oprogramowanie:** rozpoznawanie luk, modelowanie zagrożeń, testowanie bezpieczeństwa, przygotowanie poprawek i wdrażanie praktyk secure development.
-5. **Kryptografia praktyczna:** dobór algorytmów i protokołów szyfrowania, podpisów, uwierzytelniania i ochrony komunikacji; analiza ograniczeń rozwiązań.
-6. **Reagowanie na incydenty:** analiza przebiegu cyberataków, gromadzenie informacji o zagrożeniach, organizacja reakcji i wyciąganie wniosków z incydentów.
-7. **Testy penetracyjne:** rozpoznawanie podatności, dobór strategii testów, interpretacja wyników i rekomendowanie napraw.
-8. **Prawo, etyka i zgodność:** obowiązki organizacji, regulacje cyberbezpieczeństwa i prywatności, odpowiedzialność oraz prawne aspekty obsługi incydentów.
-9. **Zarządzanie bezpieczeństwem:** komunikowanie ryzyka kadrze zarządzającej, kierowanie zespołem, planowanie bezpieczeństwa i rozwijanie kultury organizacyjnej.
-10. **Praca projektowa / badawcza:** samodzielne rozwiązanie problemu praktycznego lub naukowego, analiza danych, krytyczna ocena wyników i prezentacja rekomendacji.
-
-**Uwaga:** zakres 7–10 zależy częściowo od wyboru modułów w drugim roku; nie każdy student przechodzi wszystkie moduły fakultatywne.
-
-## 3. Dokładna siatka modułów — 90 ECTS
+| Poziom | Studia drugiego stopnia (magisterskie) |
+| Kierunek | Informatyka |
+| Specjalizacja | Cyberbezpieczeństwo |
+| Tryb | Niestacjonarny |
+| Czas trwania | 2 lata, 4 semestry |
+| ECTS studiów | **90** (przyjęty limit projektowy) |
+| Charakter | Interdyscyplinarny: absolwenci informatyki i innych kierunków |
+| Warunek merytoryczny | Weryfikacja kompetencji informatycznych przed studiami |
+| Wyrównanie braków | **Kurs wakacyjny przed I semestrem**, indywidualnie dobrane moduły |
+| Punkty kursu przygotowawczego | Nie są wliczane do 90 ECTS programu |
+| Fundament merytoryczny | Zachowanie możliwie dużej zgodności z obszarami UCD |
+| Ukończenie | Seminarium, praca magisterska i egzamin dyplomowy — według polskich wymogów i regulaminu uczelni |
+
+**Założenie organizacyjne:** moduły wyrównawcze mają doprowadzić kandydatów do wymaganego poziomu wejściowego, a nie zastępować przedmioty magisterskie. Ostateczne reguły przyjęć, warunki ukończenia i sposób zaliczania kursów wymagają weryfikacji prawnej i wewnątrzuczelnianej.
+
+## 2. Charakterystyka programu dublińskiego [UCD]
+
+- **Nazwa:** Master of Science in Cybersecurity (T380).
+- **Czas i forma:** 2 lata, part-time, blended learning.
+- **Punkty:** 90 ECTS.
+- **Organizacja dydaktyki:** wykłady online, materiały do samodzielnego odtworzenia oraz okazjonalne całodniowe warsztaty; część spotkań może odbywać się na żywo online.
+- **Profil:** zarówno techniczny, jak i organizacyjno-zarządczy; program opracowywano we współpracy z praktykami branży i służb.
+- **Przykładowe role absolwenta:** analityk bezpieczeństwa, inżynier bezpieczeństwa, specjalista ds. bezpieczeństwa IT, menedżer bezpieczeństwa.
+
+### 2.1. Czego uczy program UCD — syntetycznie
+
+Absolwent potrafi analizować ryzyko i dobierać zabezpieczenia, rozumieć modele bezpieczeństwa informacji, stosować wybrane rozwiązania kryptograficzne, oceniać bezpieczeństwo sieci i aplikacji, wyszukiwać podatności oraz proponować poprawki, współorganizować reagowanie na incydenty, interpretować regulacje i komunikować ryzyko kadrze zarządzającej. Zna również ograniczenia technik ochrony i potrafi oceniać nowe trendy oraz prowadzić projekt badawczy lub praktyczny.
+
+### 2.2. Faktyczna konstrukcja 90 ECTS na UCD
+
+**Pierwszy rok (45 ECTS):**
+
+| Oryginalny moduł | Kod | ECTS | Trymestr UCD |
+|---|---|---:|---|
+| Cyber Risk Assessment and Standards | COMP47900 | 5 | Jesień |
+| Information Security | COMP47920 | 10 | Jesień |
+| Leadership in Security | COMP47800 | 5 | Wiosna |
+| Cybersecurity Law and Regulation | LAW42160 | 10 | Wiosna |
+| Applied Cryptography | COMP47890 | 5 | Lato |
+| Secure Software Engineering | COMP47910 | 10 | Lato |
+| **Razem** | | **45** | |
+
+**Drugi rok — część wspólna (15 ECTS):**
+
+| Oryginalny moduł | Kod | ECTS | Trymestr UCD |
+|---|---|---:|---|
+| Incident Response | COMP47870 | 5 | Jesień |
+| Network Security | COMP47880 | 10 | Jesień |
+| **Razem** | | **15** | |
+
+**Drugi rok — wybór 30 ECTS:**
+
+| Oryginalny moduł | Kod | ECTS | Trymestr UCD |
+|---|---|---:|---|
+| Cybersecurity Professional Project | COMP47820 | 30 | Wiosna–lato |
+| Cybersecurity Research Project | COMP47830 | 30 | Wiosna–lato |
+| Malware Analysis | COMP47810 | 5 | Wiosna |
+| Trends in Cybersecurity | COMP47850 | 5 | Wiosna |
+| Ethical Hacking | COMP47860 | 5 | Wiosna |
+| Cybersecurity Case Study | COMP47840 | 15 | Lato |
+
+Dostępne schematy końcowe obejmują: **60 ECTS modułów + projekt zawodowy/badawczy 30 ECTS**, albo **75 ECTS modułów + case study 15 ECTS**. Nie należy dodawać do siebie wszystkich modułów z tabeli: są to alternatywy, nie lista 14 obowiązkowych zajęć.
+
+## 3. Pełny katalog 14 modułów — polskie opracowanie [UCD]
+
+### 3.1. Ocena ryzyka cybernetycznego i standardy — Cyber Risk Assessment and Standards (COMP47900, 5 ECTS)
+
+**Czego student się uczy:**
+- Identyfikowania zasobów, zagrożeń, podatności i potencjalnych skutków incydentów.
+- Wyznaczania granic ocenianego systemu i opracowania planu bezpieczeństwa systemu (*System Security Plan*).
+- Szacowania prawdopodobieństwa i skutków naruszenia poufności, integralności i dostępności.
+- Stosowania podejść do zarządzania ryzykiem według NIST i ISO.
+- Dobierania reakcji na ryzyko, środków kontroli i wskaźników monitorowania.
+- Dokumentowania wyników analizy i uzasadniania decyzji.
+
+**Rezultat praktyczny:** zespołowa ocena ryzyka dla organizacji oraz plan zabezpieczeń.  
+**Przykład oceny UCD:** egzamin, zadania grupowe i dziennik refleksji.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47900&p_tag=MODULE
+
+### 3.2. Bezpieczeństwo informacji — Information Security (COMP47920, 10 ECTS)
+
+**Czego student się uczy:**
+- Modeli bezpieczeństwa i zasad projektowania bezpiecznych systemów.
+- Zasady najmniejszych uprawnień, bezpiecznych wartości domyślnych i kontroli dostępu.
+- Roli kryptografii i protokołów bezpieczeństwa.
+- Typowych podatności oprogramowania i sieci.
+- Bezpieczeństwa użytecznego dla człowieka, socjotechniki i czynnika ludzkiego.
+- Zależności między ochroną prywatności a nadzorem.
+- Analizy rzeczywistych incydentów oraz praktyk organizacyjnych.
+
+**Rezultat praktyczny:** umiejętność oceny architektury systemu z perspektywy bezpieczeństwa i wskazania właściwych mechanizmów ochrony.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47920&p_tag=MODULE
+
+### 3.3. Przywództwo i zarządzanie bezpieczeństwem — Leadership in Security (COMP47800, 5 ECTS)
+
+**Czego student się uczy:**
+- Oceny dojrzałości bezpieczeństwa organizacji, identyfikacji luk i priorytetyzacji działań.
+- Monitorowania zagrożeń strategicznych i sytuacyjnej świadomości zagrożeń.
+- Wykorzystywania ładu bezpieczeństwa (*security governance*) i ram organizacyjnych.
+- Przedstawiania ryzyk oraz potrzeb inwestycyjnych kierownictwu.
+- Budowania kultury bezpieczeństwa, zarządzania zespołem i współpracy z dostawcami.
+- Rozróżniania spełnienia formalnych wymagań (*compliance*) od rzeczywistej odporności organizacji.
 
-### Rok 1: 45 ECTS — wszystkie sześć modułów
+**Rezultat praktyczny:** studium przypadku dotyczące przywództwa, zmian organizacyjnych i decyzji opartych na analizie ryzyka.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47800&p_tag=MODULE
 
-| Trymestr | Kod | Oryginalna nazwa modułu | Tłumaczenie | ECTS |
-|---|---|---|---|---:|
-| Autumn (jesień) | COMP47900 | Cyber Risk Assessment and Standards | Ocena ryzyka cybernetycznego i standardy | 5 |
-| Autumn (jesień) | COMP47920 | Information Security | Bezpieczeństwo informacji | 10 |
-| Spring (wiosna) | COMP47800 | Leadership in Security | Przywództwo w bezpieczeństwie | 5 |
-| Spring (wiosna) | LAW42160 | Cybersecurity Law and Regulation | Prawo i regulacje cyberbezpieczeństwa | 10 |
-| Summer (lato) | COMP47890 | Applied Cryptography | Kryptografia stosowana | 5 |
-| Summer (lato) | COMP47910 | Secure Software Engineering | Inżynieria bezpiecznego oprogramowania | 10 |
-| | | **Razem rok 1** | | **45** |
-
-### Rok 2: 45 ECTS — 15 obowiązkowych + 30 wybranych
-
-| Trymestr | Kod | Moduł | Status | ECTS |
-|---|---|---|---|---:|
-| Autumn | COMP47870 | Incident Response | Obowiązkowy | 5 |
-| Autumn | COMP47880 | Network Security | Obowiązkowy | 10 |
-| Spring–Summer | COMP47820 | Cybersec. Professional Project | Opcja: projekt zawodowy | 30 |
-| Spring–Summer | COMP47830 | Cybersecurity Research Project | Opcja: projekt badawczy | 30 |
-| Spring | COMP47810 | Malware Analysis | Opcja: przedmiot dodatkowy | 5 |
-| Spring | COMP47850 | Trends in Cybersecurity | Opcja: przedmiot dodatkowy | 5 |
-| Spring | COMP47860 | Ethical Hacking | Opcja: przedmiot dodatkowy | 5 |
-| Summer | COMP47840 | Cybersecurity Case Study | Opcja: studium przypadku | 15 |
+### 3.4. Prawo i regulacje cyberbezpieczeństwa — Cybersecurity Law and Regulation (LAW42160, 10 ECTS)
 
-**Logika wyboru 30 ECTS:**
-- **Wariant A:** 30 ECTS z projektu zawodowego (`COMP47820`).
-- **Wariant B:** 30 ECTS z projektu badawczego (`COMP47830`).
-- **Wariant C:** 15 ECTS ze *Cybersecurity Case Study* oraz trzy moduły po 5 ECTS: *Malware Analysis*, *Trends in Cybersecurity*, *Ethical Hacking*.
-
-Tak odtworzono kompletne, sumujące się do 90 ECTS ścieżki na podstawie oficjalnej tabeli: 45 + 15 + 30 = **90 ECTS**. Oficjalna lista opisuje pulę wyboru jako „Choose 30 credits”; szczegółowe zasady zestawiania modułów w ścieżce C warto zweryfikować na podstawie regulacji programu.
+**Czego student się uczy:**
+- Rozpoznawania norm prawnych i obowiązków związanych z cyberbezpieczeństwem.
+- Rozumienia relacji bezpieczeństwa systemów, prywatności i ochrony danych.
+- Analizowania odpowiedzialności organizacji, dostawców i administratorów.
+- Oceny obowiązków związanych z incydentami, nadzorem i zgodnością z regulacjami.
+- Przekładania obowiązków prawnych na wymagania organizacyjne i techniczne.
 
-## 4. Szczegółowa zawartość i efekty każdego modułu
+**Rezultat praktyczny:** analiza przypadku pokazująca, jak wymagania prawne wpływają na projektowanie i prowadzenie zabezpieczeń.  
+**Adaptacja PL:** odrębnie opracować zakres RODO, KSC/NIS2, DORA (tam, gdzie ma zastosowanie) i polskich regulacji sektorowych.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=LAW42160&p_tag=MODULE
 
-### COMP47900 — Cyber Risk Assessment and Standards (5 ECTS, rok 1 / jesień)
+### 3.5. Kryptografia stosowana — Applied Cryptography (COMP47890, 5 ECTS)
 
-**Zakres:**
-- Pojęcia ryzyka, zarządzania ryzykiem i ograniczania skutków zagrożeń.
-- Plany bezpieczeństwa systemów (*System Security Plans*, SSP).
-- Granice systemu, zasoby i kontrole bezpieczeństwa.
-- Identyfikacja składników ryzyka i oszacowanie skutków naruszenia poufności, integralności i dostępności (CIA).
-- Procesy zarządzania ryzykiem NIST i ISO, klasyfikacja ryzyka.
-- Dokumentowanie decyzji i zbieranie metryk bezpieczeństwa.
+**Czego student się uczy:**
+- Celów mechanizmów kryptograficznych: poufność, integralność, uwierzytelnianie, niezaprzeczalność.
+- Szyfrowania symetrycznego i asymetrycznego, funkcji skrótu oraz podpisów cyfrowych.
+- Mocnych i słabych stron protokołów, wymiany i zarządzania kluczami.
+- Dobierania rozwiązań kryptograficznych do ochrony systemów, oprogramowania i komunikacji.
+- Analizy ograniczeń wdrożeniowych oraz ryzyka niewłaściwego użycia kryptografii.
 
-**Po module potrafisz:** wykonać ocenę ryzyka dla organizacji, określić granice analizowanego systemu, opracować SSP, dobrać środki zaradcze i uzasadnić je standardami.
+**Rezultat praktyczny:** świadomy dobór i ocena rozwiązań kryptograficznych dla scenariusza bezpieczeństwa.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47890&p_tag=MODULE
 
-**Praca/ocena:** egzamin 40%, praca grupowa 25% (m.in. SSP i ocena ryzyka), dziennik refleksji 35%. Nauka: wykłady online, warsztaty.
+### 3.6. Inżynieria bezpiecznego oprogramowania — Secure Software Engineering (COMP47910, 10 ECTS)
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47900&p_tag=MODULE)
+**Czego student się uczy:**
+- Modelowania zagrożeń i identyfikacji wymagań bezpieczeństwa aplikacji.
+- Rozróżniania błędów architektonicznych i implementacyjnych.
+- Rozpoznawania klas podatności, w tym OWASP Top 10.
+- Testów penetracyjnych aplikacji oraz podejść SAST, DAST i IAST.
+- Projektowania zabezpieczeń, przygotowywania poprawek i regresyjnej weryfikacji bezpieczeństwa.
+- Praktycznej analizy aplikacji webowych; w materiałach UCD występuje **Spring Boot**.
+- Współpracy w zespole nad identyfikacją, odtwarzaniem i usuwaniem podatności.
 
-### COMP47920 — Information Security (10 ECTS, rok 1 / jesień)
+**Rezultat praktyczny:** demonstracja podatności, raport, poprawka w kodzie i dowód skuteczności poprawki.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47910&p_tag=MODULE
 
-**Zakres:**
-- Fundamenty bezpieczeństwa informacji, zagrożenia, relacja do informatyki śledczej.
-- Projektowanie i implementacja bezpiecznych systemów.
-- Modele bezpieczeństwa, zasada minimalnych uprawnień, bezpieczne stany domyślne.
-- Wprowadzenie do kryptografii i protokołów bezpieczeństwa.
-- Kontrola dostępu, najczęstsze podatności sieci i oprogramowania.
-- Czynnik ludzki i użyteczność zabezpieczeń; prywatność i nadzór.
-- Rzeczywiste studia przypadków i analiza praktyk bezpieczeństwa w organizacjach.
+### 3.7. Reagowanie na incydenty — Incident Response (COMP47870, 5 ECTS)
 
-**Po module potrafisz:** ocenić architekturę z perspektywy bezpieczeństwa, wskazać problemy uwierzytelniania i uprawnień, analizować incydenty i proponować działania dostosowane do organizacji.
+**Czego student się uczy:**
+- Etapów przygotowania, wykrywania, analizy, ograniczania skutków i odtwarzania działania.
+- Organizacji zespołu reagowania, eskalacji i komunikacji podczas incydentu.
+- Gromadzenia danych pozwalających ustalić przebieg zdarzenia i zakres kompromitacji.
+- Dokumentowania przebiegu incydentu, decyzji oraz działań po incydencie.
+- Wykorzystywania wniosków do doskonalenia procesów bezpieczeństwa.
 
-**Praca/ocena:** egzamin 60%, portfolio cotygodniowych refleksji 40%; do trzech warsztatów.
+**Rezultat praktyczny:** scenariusz reagowania na incydent, raport oraz plan usprawnień.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47870&p_tag=MODULE
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47920&p_tag=MODULE)
+### 3.8. Bezpieczeństwo sieci — Network Security (COMP47880, 10 ECTS)
 
-### COMP47800 — Leadership in Security (5 ECTS, rok 1 / wiosna)
+**Czego student się uczy:**
+- Analizowania zagrożeń i słabości komunikacji sieciowej.
+- Zabezpieczania architektury sieci, usług i protokołów internetowych.
+- Stosowania kontroli dostępu, segmentacji i mechanizmów ochrony transmisji.
+- Rozumienia monitorowania, wykrywania ataków i systemów IDS/IPS.
+- Oceny konfiguracji i odporności infrastruktury sieciowej, w tym nowoczesnych protokołów.
 
-**Zakres:**
-- Diagnoza dojrzałości bezpieczeństwa, identyfikacja braków i priorytetów.
-- Śledzenie zagrożeń strategicznych i utrzymywanie świadomości sytuacyjnej.
-- Ramy zarządzania bezpieczeństwem informacji (*governance*).
-- Komunikacja z zarządem, wpływanie na kulturę organizacyjną i budowanie budżetu.
-- Relacja bezpieczeństwa i zgodności (*security vs. compliance*).
-- Rekrutacja, ocena, utrzymanie oraz prowadzenie specjalistów bezpieczeństwa.
-- Zarządzanie programem bezpieczeństwa, współpraca z dostawcami i zewnętrznymi ekspertami.
+**Rezultat praktyczny:** analiza zagrożeń i zabezpieczeń przykładowej infrastruktury sieciowej.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47880&p_tag=MODULE
 
-**Po module potrafisz:** ustalić kierunki poprawy bezpieczeństwa, uzasadnić inwestycje przed kierownictwem oraz zaplanować pracę zespołu i programu bezpieczeństwa.
+### 3.9. Analiza złośliwego oprogramowania — Malware Analysis (COMP47810, 5 ECTS; do wyboru)
 
-**Praca/ocena:** dwa studia przypadków po 50%; dyskusje, prezentacje, praca w grupach.
+**Czego student się uczy:**
+- Identyfikowania typów złośliwego oprogramowania i jego zachowań.
+- Bezpiecznego przygotowania środowiska do analizy.
+- Obserwowania wskaźników kompromitacji i skutków działania próbek.
+- Formułowania wniosków wspierających wykrywanie i reagowanie.
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47800&p_tag=MODULE)
+**Rezultat praktyczny:** raport z analizy próbki lub scenariusza infekcji w izolowanym środowisku.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47810&p_tag=MODULE
 
-### LAW42160 — Cybersecurity Law and Regulation (10 ECTS, rok 1 / wiosna)
+### 3.10. Trendy w cyberbezpieczeństwie — Trends in Cybersecurity (COMP47850, 5 ECTS; do wyboru)
 
-**Zakres:**
-- Irlandzkie i międzynarodowe ramy prawne cyberbezpieczeństwa.
-- Prawo karne dotyczące cyberprzestępczości i współpraca transgraniczna.
-- Ochrona danych i prywatności (m.in. GDPR, ePrivacy), obowiązki wynikające z regulacji NIS.
-- Obowiązki związane ze zgłaszaniem incydentów i prowadzeniem reakcji.
-- Prawne aspekty wymiany danych o zagrożeniach, monitorowania sieci i pozyskiwania dowodów cyfrowych.
-- Odpowiedzialność cywilna za incydenty i możliwe zastosowania ubezpieczeń.
+**Czego student się uczy:**
+- Samodzielnego rozpoznawania i krytycznej oceny nowych technologii i badań.
+- Analizy wybranych zagadnień, np. blockchain, ransomware, LLM w bezpieczeństwie, Secure SDLC/DevSecOps, bezpieczeństwo IoT, adversarial ML.
+- Oceniania zalet, ograniczeń i zastosowań rozwiązań.
+- Prezentowania aktualnego problemu badawczego oraz argumentacji na podstawie literatury.
 
-**Po module potrafisz:** zidentyfikować obowiązki prawne organizacji oraz przeanalizować scenariusz incydentu pod względem wymagań dotyczących danych, raportowania i odpowiedzialności.
+**Rezultat praktyczny:** prezentacja trendu i opracowanie krytycznej analizy tematu.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47850&p_tag=MODULE
 
-**Praca/ocena:** dwie prace pisemne (około 2500 słów każda), po 50%; seminaria z lekturą.
+### 3.11. Etyczny hacking — Ethical Hacking (COMP47860, 5 ECTS; do wyboru)
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=LAW42160&p_tag=MODULE)
+**Czego student się uczy:**
+- Metodycznego i autoryzowanego sprawdzania bezpieczeństwa systemów.
+- Rozpoznania powierzchni ataku, walidacji podatności i określania ich wpływu.
+- Dokumentowania technicznych ustaleń w formie raportu z rekomendacjami.
+- Przestrzegania zasad etyki oraz granic prawnych testowania.
 
-### COMP47890 — Applied Cryptography (5 ECTS, rok 1 / lato)
+**Rezultat praktyczny:** raport z testu środowiska laboratoryjnego.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47860&p_tag=MODULE
 
-**Zakres:**
-- Cele i podstawowe konstrukcje kryptograficzne.
-- Funkcje skrótu SHA oraz kody uwierzytelniania wiadomości (MAC).
-- Szyfrowanie symetryczne: AES, tryby pracy, AES-CBC-HMAC.
-- Wymiana kluczy Diffiego–Hellmana.
-- Kryptografia asymetryczna: RSA, podpisy i infrastruktura PKI.
-- Losowość w systemach kryptograficznych.
-- Protokoły SSL/TLS, szyfrowanie end-to-end, uwierzytelnianie.
-- Typowe ataki, podatności i środki zaradcze.
+### 3.12. Studium przypadku z cyberbezpieczeństwa — Cybersecurity Case Study (COMP47840, 15 ECTS; opcja końcowa)
 
-**Po module potrafisz:** dobierać i stosować narzędzia do szyfrowania, odszyfrowywania i podpisywania wiadomości; wyjaśniać zalety i ograniczenia protokołów.
+**Czego student się uczy:**
+- Samodzielnego sformułowania i zbadania rzeczywistego problemu bezpieczeństwa.
+- Doboru metod poznanych podczas zajęć, ich praktycznego zastosowania i oceny skuteczności.
+- Krytycznej analizy ograniczeń zastosowanych rozwiązań.
+- Sporządzenia spójnego raportu obejmującego problem, metody, wdrożenie, wyniki i wnioski.
 
-**Praca/ocena:** cotygodniowe quizy 100%; moduł oznaczony jako online.
+**Rezultat praktyczny:** indywidualny raport ze studium przypadku. W UCD moduł ten może wystąpić jako część wariantu z dodatkowymi modułami nauczanymi.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47840&p_tag=MODULE
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47890&p_tag=MODULE)
+### 3.13. Zawodowy projekt cyberbezpieczeństwa — Cybersecurity Professional Project (COMP47820, 30 ECTS; alternatywa)
 
-### COMP47910 — Secure Software Engineering (10 ECTS, rok 1 / lato)
+**Czego student się uczy:**
+- Samodzielnego rozwiązania rozbudowanego problemu bezpieczeństwa o charakterze zawodowym.
+- Planowania prac, uzasadniania doboru metod i komunikowania wyników interesariuszom.
+- Łączenia kompetencji technicznych, organizacyjnych i analitycznych.
 
-**Zakres:**
-- Tworzenie aplikacji webowej w **Spring Boot**.
-- Błędy projektowe i architektoniczne prowadzące do podatności.
-- Kategorie **OWASP Top 10**.
-- Testy penetracyjne aplikacji, **SAST**, **DAST**, **IAST**.
-- OWASP Application Security Verification Standard (**ASVS**).
-- Bezpieczny cykl wytwarzania oprogramowania (**Secure SDLC**, np. Microsoft SDL).
-- Ocena dojrzałości praktyk wytwórczych: **BSIMM**, **OWASP SAMM**.
-- Określanie wymagań bezpieczeństwa, **threat modeling**, drzewa ataków, scenariusze nadużyć (*abuse cases*).
+**Rezultat praktyczny:** rozbudowany projekt praktyczny, potencjalnie realizowany przy współpracy z branżą. To alternatywa dla modułów wybieralnych i case study, a nie dodatkowe 30 ECTS.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47820&p_tag=MODULE
 
-**Po module potrafisz:** rozpoznać i wykorzystać podatność w kontrolowanych warunkach testowych, przygotować raport i stworzyć poprawkę kodu; zaplanować wymagania bezpieczeństwa na etapie projektowania.
+### 3.14. Badawczy projekt cyberbezpieczeństwa — Cybersecurity Research Project (COMP47830, 30 ECTS; alternatywa)
 
-**Praca/ocena:** trzy zadania: rozwój aplikacji Spring Boot 20%, ocena i demonstracja podatności 40%, naprawa podatności 40%. Wskazana rekomendacja wcześniejszej znajomości systemów rozproszonych.
+**Czego student się uczy:**
+- Formułowania pytania badawczego, przeglądu literatury i planowania metodyki.
+- Prowadzenia prac eksperymentalnych lub analitycznych.
+- Oceny rezultatów i ograniczeń badania.
+- Opracowania i obrony wniosków w formie naukowej.
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47910&p_tag=MODULE)
+**Rezultat praktyczny:** samodzielny projekt badawczy pod opieką akademicką. To alternatywa dla projektu zawodowego oraz wariantu z case study.  
+**Źródło:** https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47830&p_tag=MODULE
 
-### COMP47870 — Incident Response (5 ECTS, rok 2 / jesień)
+## 4. Przyjmowanie absolwentów różnych kierunków [PROJEKT PL]
 
-**Zakres:**
-- Organizacja i logika procesu reagowania na incydenty.
-- Ewolucja malware i model ekonomiczny cyberprzestępczości.
-- Studium cyberataku na irlandzki system ochrony zdrowia **HSE (2021)**: technika ataku, reakcja i wnioski.
-- Wykrywanie włamań i analiza informacji o nowych zagrożeniach.
-- Raportowanie aktualnego modelu zagrożeń; studia przypadków ataków kryminalnych, wywiadowczych i wojskowych.
-- Scenariusz reagowania rozwiązywany przez małe zespoły pod presją czasu.
-- Prawne, pracownicze i biznesowe konsekwencje decyzji podczas incydentu.
+**Założenie:** dopuszczamy absolwentów m.in. informatyki, automatyki, telekomunikacji, elektroniki, matematyki, a także prawa i zarządzania, o ile wykażą wymagane kompetencje. Dyplom z określonego kierunku sam w sobie nie gwarantuje przyjęcia ani zwolnienia z weryfikacji.
 
-**Po module potrafisz:** oceniać wiarygodność danych o zagrożeniach, analizować prawdziwe incydenty i przygotować uzasadnione działania reagowania.
+### 4.1. Model weryfikacji kompetencji
 
-**Praca/ocena:** egzamin 40%, test online dotyczący raportu HSE 10%, dziennik/raport z analizy zagrożeń 50%. **Wymagany wcześniejszy moduł:** Information Security.
+1. **Analiza dokumentów:** ukończone przedmioty, projekty, certyfikaty, doświadczenie zawodowe.
+2. **Diagnostyka wiedzy:** zadania obejmujące programowanie, sieci, systemy, bazy danych i infrastrukturę.
+3. **Część praktyczna:** proste zadania w środowisku Linux, analiza ruchu i konfiguracji sieci oraz niewielki skrypt.
+4. **Indywidualna decyzja:** brak braków / zestaw kursów wyrównawczych / brak spełnienia wymagań wejściowych.
+5. **Ponowna weryfikacja:** zaliczenie konkretnych efektów uczenia się po wakacyjnym przygotowaniu.
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47870&p_tag=MODULE)
+**Propozycja minimalnych umiejętności wejściowych:**
+- Czytanie i pisanie prostych skryptów, instrukcje warunkowe, iteracja, funkcje, podstawowe struktury danych.
+- Poruszanie się w powłoce Linux, zarządzanie plikami i uprawnieniami, podstawowa diagnostyka procesów.
+- Znajomość TCP/IP, adresacji, DNS, HTTP(S), routingu i podstaw diagnostyki sieci.
+- Proste zapytania SQL, podstawy modelowania danych.
+- Rozumienie wirtualizacji, kontenerów i architektury klient–serwer.
 
-### COMP47880 — Network Security (10 ECTS, rok 2 / jesień)
+### 4.2. Kurs wakacyjny — projekt modułów wyrównawczych
 
-**Zakres:**
-- Powtórzenie architektury sieci: protokoły warstw Internet/transport, routing, multicast, kontrola przepływu i przeciążenia.
-- Sieci lokalne, Wi-Fi, LTE i **5G**.
-- Wirtualizacja i programowalność sieci (**SDN/NFV**) oraz chmura.
-- Ataki na sieci: **DDoS**, malware, robaki i rozprzestrzenianie się infekcji.
-- Zapory, systemy **IDS**, bezpieczny routing i odporne topologie.
-- Bezpieczeństwo sieci LAN, warstwy fizycznej, WWW i DNS.
-- Bezpieczeństwo aplikacji telekomunikacyjnych, IoT oraz infrastruktury cloud-native.
-- Tematy zaawansowane: blockchain, kryptografia/komunikacja kwantowa, AI dla bezpieczeństwa, bezpieczeństwo 6G.
+| Moduł | Zakres i wynik praktyczny | Proponowany sposób zaliczenia |
+|---|---|---|
+| W1. Programowanie i algorytmika | Python; skrypt przetwarzający pliki i logi; podstawowe struktury danych | Zadanie programistyczne |
+| W2. Systemy operacyjne i Linux | Powłoka, procesy, usługi, prawa dostępu, podstawy automatyzacji | Laboratorium na VM |
+| W3. Sieci komputerowe | TCP/IP, subnetting, DNS, HTTP(S), podstawy diagnostyki | Analiza ruchu i konfiguracji |
+| W4. Bazy danych | SQL, klucze, relacje, bezpieczny dostęp do danych | Zadania SQL |
+| W5. Infrastruktura IT | Maszyny wirtualne, Docker, klient–serwer, podstawy usług | Uruchomienie środowiska testowego |
 
-**Po module potrafisz:** analizować zagrożenia dla nowoczesnych sieci, dobierać techniki detekcji i ochrony oraz rozumieć ograniczenia zabezpieczeń w sieciach przyszłej generacji.
+**Organizacja:** lipiec–wrzesień przed I semestrem; nauka online/asynchroniczna, konsultacje i warsztaty praktyczne; przydział tylko brakujących modułów. **Kurs nie zabiera punktów z 90 ECTS**. Liczbę godzin oraz kryteria zaliczenia ustalić po diagnozie minimalnych kompetencji i możliwości organizacyjnych.
 
-**Praca/ocena:** praca badawcza i prezentacja 20%, egzamin 30%, dwa projekty zespołowe dotyczące detekcji ataków po 25%.
+### 4.3. Różnica wobec UCD
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47880&p_tag=MODULE)
+UCD zasadniczo oczekuje wykształcenia w informatyce lub kierunku pokrewnym (przewidując indywidualną ocenę kwalifikacji). **Szeroka rekrutacja międzykierunkowa oraz wakacyjna ścieżka wyrównawcza są naszym rozwiązaniem**, nie elementem oryginalnej konstrukcji MSc Cybersecurity.
 
-### COMP47810 — Malware Analysis (5 ECTS, rok 2 / wiosna, wybieralny)
+## 5. Robocza siatka czterech semestrów na 90 ECTS [PROJEKT PL]
 
-**Zakres:**
-- Taksonomia malware: wirusy, robaki, trojany, rootkity, spyware, ransomware.
-- **Analiza statyczna:** sygnatury plików, zależności, hashe, łańcuchy tekstowe, sandboxy, x86 assembly.
-- **Analiza dynamiczna:** debugowanie, debugery na poziomie kodu i asemblera, user/kernel mode, DLL.
-- **Reverse engineering:** analiza kodu złośliwego, odzyskiwanie danych, identyfikacja haseł, narzędzia **IDA Pro** i **OllyDbg**.
-- Ukryte uruchamianie, kodowanie danych, sygnatury sieciowe malware.
-- Techniki utrudniające analizę: anti-debugging, anti-disassembly, packery i rozpakowywanie.
-- **ML do detekcji malware:** SVM, KNN, Random Forest, drzewa decyzyjne, Naive Bayes, deep learning.
+> To **propozycja adaptacji**, a nie oficjalny rozkład zajęć UCD. UCD ma trzy trymestry w roku i odrębną strukturę modułów końcowych. W polskiej wersji celowo przenosimy część przedmiotów między semestrami, by zachować zależności merytoryczne i wyodrębnić pracę magisterską.
 
-**Po module potrafisz:** przeprowadzić wstępną analizę próbki złośliwego oprogramowania, zastosować techniki statyczne i dynamiczne oraz ocenić zastosowanie uczenia maszynowego w detekcji.
+### Semestr I — 25 ECTS
 
-**Praca/ocena:** projekt indywidualny 60% (propozycja, raport, prezentacja), test online 40%.
+| Przedmiot | Powiązanie z UCD | ECTS |
+|---|---|---:|
+| Bezpieczeństwo informacji | COMP47920 | 10 |
+| Ocena ryzyka cybernetycznego i standardy | COMP47900 | 5 |
+| Przywództwo i zarządzanie bezpieczeństwem | COMP47800 | 5 |
+| Kryptografia stosowana | COMP47890 | 5 |
+| **Razem** | | **25** |
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47810&p_tag=MODULE)
+### Semestr II — 20 ECTS
 
-### COMP47850 — Trends in Cybersecurity (5 ECTS, rok 2 / wiosna, wybieralny)
+| Przedmiot | Powiązanie z UCD | ECTS |
+|---|---|---:|
+| Prawo i regulacje cyberbezpieczeństwa | LAW42160 | 10 |
+| Inżynieria bezpiecznego oprogramowania | COMP47910 | 10 |
+| **Razem** | | **20** |
 
-**Zakres:**
-- Wybór aktualnego zagadnienia badawczego z cyberbezpieczeństwa.
-- Metody poszukiwania, czytania i krytycznej oceny literatury naukowej.
-- Przygotowywanie przeglądu stanu wiedzy, eseju i prezentacji.
-- Dyskusja ograniczeń, nowości i potencjalnych zastosowań nowoczesnych technologii.
-- Warsztaty prezentowania postępów oraz **peer review**.
+### Semestr III — 25 ECTS
 
-**Po module potrafisz:** samodzielnie ocenić nowy trend, odróżnić uzasadnioną nowość od obietnic marketingowych i przedstawić przegląd badań.
+| Przedmiot | Powiązanie z UCD | ECTS |
+|---|---|---:|
+| Bezpieczeństwo sieci | COMP47880 | 10 |
+| Reagowanie na incydenty | COMP47870 | 5 |
+| Analiza złośliwego oprogramowania | COMP47810 | 5 |
+| Etyczny hacking | COMP47860 | 5 |
+| **Razem** | | **25** |
 
-**Uwaga:** UCD nie podaje jednego stałego katalogu tematów — treści zależą od wybranego trendu. W opisie widnieją wymagania wcześniejszego zaliczenia wskazanych modułów podstawowych.
+### Semestr IV — 20 ECTS
 
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47850&p_tag=MODULE)
+| Przedmiot | Powiązanie z UCD | ECTS |
+|---|---|---:|
+| Trendy w cyberbezpieczeństwie | COMP47850 | 5 |
+| Seminarium i praca magisterska — blok dyplomowy | Inspiracja: COMP47840 / COMP47830 | 15 |
+| **Razem** | | **20** |
 
-### COMP47860 — Ethical Hacking (5 ECTS, rok 2 / wiosna, wybieralny)
+**Suma: 25 + 20 + 25 + 20 = 90 ECTS.**
 
-**Zakres:**
-- Etyka testów bezpieczeństwa, sposoby myślenia white-hat/black-hat.
-- Aktualne zagrożenia aplikacyjne i ocena ryzyka podatności wg **CVSS**.
-- **SQL Injection**, **XSS**, **CSRF**.
-- Błędy uwierzytelniania, autoryzacji i użycia kryptografii.
-- Narzędzia używane w testach bezpieczeństwa, demonstracje **proof of concept**.
-- Rekomendacje ograniczania ryzyka i aktualne tendencje.
+**Ważny kompromis:** siatka utrzymuje 60 ECTS wspólnych treści UCD (45 ECTS z pierwszego roku + 15 ECTS z drugiego), trzy moduły wybieralne UCD (15 ECTS), a 15 ECTS przeznacza na pracę magisterską. Nie oznacza to, że 15 ECTS automatycznie wystarczy na wymagane polskimi przepisami seminarium i pracę; tę wartość trzeba zweryfikować podczas konstruowania formalnego programu, a prace przygotowawcze do magisterium mogą zacząć się wcześniej. Możliwa będzie korekta bilansu, np. przez inne rozmieszczenie seminarium.
 
-**Po module potrafisz:** wykonać etyczną ocenę bezpieczeństwa aplikacji, pokazać wpływ podatności, oszacować ryzyko i zaproponować skuteczne zabezpieczenia.
+### 5.1. Stopień zgodności z UCD
 
-**Praca/ocena:** dwa zadania 20% i 40%, dwa quizy po 20%.
-
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47860&p_tag=MODULE)
-
-### COMP47820 — Cybersec. Professional Project (30 ECTS, rok 2 / wiosna–lato, wariant A)
-
-**Zakres:** samodzielny projekt zawodowy odpowiadający na istotny praktyczny problem cyberbezpieczeństwa z przemysłu. Student określa pytanie/problemy, metodologię, projektuje i wdraża prototyp oprogramowania, zbiera dane empiryczne, ocenia skuteczność rozwiązania oraz pisze raport. Przewidziane jest wsparcie osoby z School of Computer Science i praktyka z branży.
-
-**Po module potrafisz:** połączyć przegląd literatury, wdrożenie rozwiązania oraz jego rzetelną, opartą na danych ewaluację.
-
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47820&p_tag=MODULE)
-
-### COMP47830 — Cybersecurity Research Project (30 ECTS, rok 2 / wiosna–lato, wariant B)
-
-**Zakres:** indywidualny projekt naukowy i praca badawcza. Wybór pytania badawczego, przegląd literatury, metodyka, uwzględnienie aspektów etycznych i ewentualne uzyskanie zgody etycznej, analiza danych oraz raport. Opieka badawcza uczelni, regularne konsultacje i materiały o metodach badawczych.
-
-**Po module potrafisz:** zaprojektować i przedstawić samodzielne badanie w obszarze cyberbezpieczeństwa.
-
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47830&p_tag=MODULE)
-
-### COMP47840 — Cybersecurity Case Study (15 ECTS, rok 2 / lato, wariant C)
-
-**Zakres:** indywidualne badanie praktycznego problemu bezpieczeństwa i przygotowanie raportu przedstawiającego metodę, wyniki oraz wnioski. Student stosuje techniki i wiedzę z wcześniej ukończonych przedmiotów.
-
-**Po module potrafisz:** zastosować wybrane techniki bezpieczeństwa do konkretnego problemu, ocenić efektywność podejścia i opracować czytelne sprawozdanie.
-
-[Oficjalny opis modułu](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47840&p_tag=MODULE)
-
-## 5. Podsumowanie kompetencji technicznych według modułów
-
-| Obszar | Moduły, w których występuje |
+| Element | Ocena zgodności |
 |---|---|
-| Zarządzanie ryzykiem, ISO/NIST, SSP | COMP47900, COMP47800 |
-| Podstawy cyberbezpieczeństwa, IAM, prywatność | COMP47920 |
-| Prawo IT i ochrona danych | LAW42160 |
-| AES, RSA, SHA, TLS, PKI | COMP47890 |
-| Spring Boot, OWASP Top 10, SAST/DAST/IAST, threat modeling | COMP47910 |
-| Reagowanie na incydenty i threat intelligence | COMP47870 |
-| DDoS, IDS, SDN/NFV, 5G, IoT, cloud | COMP47880 |
-| Reverse engineering, malware, ML | COMP47810 — opcjonalny |
-| Testy penetracyjne web, SQLi, XSS, CSRF, CVSS | COMP47860 — opcjonalny |
-| Przegląd nowych badań i trendów | COMP47850 — opcjonalny |
-| Projekt i praktyczna ewaluacja | COMP47820 lub COMP47840 |
-| Warsztat badawczy | COMP47830 lub COMP47850 |
+| Główne obszary kompetencji | Wysoka: zachowany pełny rdzeń 60 ECTS |
+| Bezpieczeństwo techniczne i zarządzanie | Zachowane obydwa filary |
+| Forma niestacjonarna | Podobna funkcja; lokalna organizacja zjazdów będzie inna |
+| Punktacja | 90 ECTS w obu programach |
+| Sekwencja zajęć | Zmodyfikowana z trymestrów na semestry |
+| Moduły wybieralne | W roboczej siatce wybrane 3 moduły po 5 ECTS; ostatecznie można zapewnić studentom wybór |
+| Projekt końcowy | Zmieniony na wymagania polskiej pracy magisterskiej |
+| Przyjęcia i wyrównanie braków | Nasze własne rozwiązanie organizacyjne |
 
-## 6. Założenia dydaktyczne i organizacja kształcenia
+## 6. Co jeszcze wymaga decyzji [PROJEKT PL]
 
-Program przeznaczony jest dla osób posiadających wcześniejsze przygotowanie informatyczne lub odpowiednią praktykę zawodową. Z tego względu koncentruje się na cyberbezpieczeństwie, zamiast powtarzać podstawy programowania, systemów operacyjnych czy sieci komputerowych.
+1. **Efekty kierunkowe dla Informatyki II stopnia:** mapowanie do PRK 7 oraz wymagań dla właściwego profilu studiów.
+2. **Rozkład seminariów i pracy dyplomowej:** prawdopodobnie prace nad tematem i metodologią warto rozpocząć przed IV semestrem.
+3. **Tryb zaoczny:** liczba godzin kontaktowych, proporcja wykładów i laboratoriów, liczba zjazdów, praca własna studenta.
+4. **Wybieralność:** sprawdzenie wymaganej puli przedmiotów do wyboru i wprowadzenie rzeczywistych wariantów.
+5. **Kompetencje wejściowe:** konkretne progi i zadania diagnostyczne oraz formalna zgodność procedury rekrutacji.
+6. **Regulacje polskie:** aktualizacja treści prawnych i organizacyjnych, bez mechanicznego kopiowania irlandzkich rozwiązań.
+7. **ECTS a nakład pracy:** ostateczna alokacja punktów musi wynikać z rzeczywistego nakładu pracy, nie tylko z symetrii tabeli.
 
-**Elementy warte wykorzystania przy konstruowaniu polskiego programu:**
-- Wyraźne przypisanie do modułów kompetencji technicznych, organizacyjnych i prawnych.
-- Zróżnicowane formy pracy: wykłady asynchroniczne, warsztaty, zadania indywidualne i grupowe, analizy przypadków, projekt.
-- Kształcenie umiejętności praktycznych przez analizę podatności, projektowanie zabezpieczeń i ocenę ich skuteczności.
-- Możliwość wyodrębnienia bloku obowiązkowego i specjalistycznych przedmiotów wybieralnych.
-- Końcowa integracja kompetencji w projekcie zawodowym lub badawczym.
+## 7. Referencje — oficjalne źródła UCD
 
-## 7. Ocena programu jako benchmarku dla studiów II stopnia w Polsce
+- [MSc Cybersecurity — opis programu i lista modułów (T380)](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=T380&p_tag=COURSE)
+- [Information Security](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47920&p_tag=MODULE)
+- [Cyber Risk Assessment and Standards](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47900&p_tag=MODULE)
+- [Secure Software Engineering](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47910&p_tag=MODULE)
+- [Leadership in Security](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47800&p_tag=MODULE)
+- [Trends in Cybersecurity](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47850&p_tag=MODULE)
+- [Cybersecurity Case Study](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47840&p_tag=MODULE)
 
-**Mocne strony:**
-- Przejrzysta progresja: fundamenty i ryzyko → secure coding i kryptografia → sieci/incydenty → projekt lub pogłębienie specjalizacji.
-- Integracja technologii, prawa, zarządzania i komunikacji.
-- Silnie praktyczny moduł *Secure Software Engineering* z trzema stopniowymi zadaniami na jednej aplikacji.
-- Dopuszczenie trzech rodzajów zakończenia: praktyczny projekt, badanie naukowe lub rozszerzony pakiet modułów + case study.
-- Dobór konkretnych technik: OWASP, CVSS, NIST/ISO, SAST/DAST/IAST, malware reversing, sieci 5G/SDN.
+---
 
-**Ograniczenia przy przenoszeniu do polskiej siatki:**
-- **90 ECTS**, a nie typowe 120 ECTS dla czterosemestralnych studiów II stopnia; konieczne jest odrębne projektowanie sumy punktów i wymiaru zajęć.
-- To samodzielny **MSc Cybersecurity**, a nie formalnie nazwana specjalizacja „Cyberbezpieczeństwo” w ramach kierunku „Informatyka”.
-- UCD ma **trzy trymestry w roku akademickim** i elastyczny system blended, dlatego rozłożenie przedmiotów na polskie semestry wymaga świadomej adaptacji.
-- UCD opiera nabór na wcześniejszym wykształceniu informatycznym albo doświadczeniu, więc nie projektuje pełnego bloku przedmiotów wprowadzających do programowania i systemów operacyjnych.
-- Część zaawansowanych kompetencji (analiza malware, ethical hacking, zaawansowane badania) zależy od wariantu wybranego na końcu studiów.
-
-## 8. Oficjalne źródła
-
-Wszystkie nazwy, kody, ECTS, podział na trymestry i status wyboru przedmiotów pochodzą z oficjalnej karty programu UCD. Szczegółowe treści i sposoby oceny opracowano z indywidualnych kart modułów (linki pod każdą sekcją):
-
-1. [Karta programu MSc Cybersecurity T380](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=T380&p_tag=COURSE)
-2. [Katalog UCD](https://hub.ucd.ie/)
-3. [Oficjalna broszura archiwalna — opis formatu studiów](https://hub.ucd.ie/usis/W_HU_MENU.P_DOWNLOAD_FILE?p_parameters=D3836EE463F97040C69B52A57C6CAA534548BD6031A3E239F39C9A70C16CCA327799F6703E475EDC7743CDAB7FC3522D0E4F8925BCC2FF16C6AEC1A1A6EB8E014D8679CE31E0F5692AA233CFEF4637BF)
-
-*Dokument stanowi polskie opracowanie i tłumaczenie merytoryczne publicznych opisów UCD, a nie uwierzytelniony przekład ani oficjalny sylabus uczelni. Szczegółowe zagadnienia są parafrazą opisów UCD; układ tematów nie jest równoznaczny z rozpisaniem na pojedyncze tygodnie zajęć.*
+**Status dokumentu:** punkt wyjścia do projektowania polskiej specjalizacji, nie gotowy sylabus wymagający jedynie zatwierdzenia. Wszystkie propozycje dla Polski oznaczono **[PROJEKT PL]**, aby nie przypisywać ich UCD.

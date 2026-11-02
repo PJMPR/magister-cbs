@@ -1,0 +1,34 @@
+title: Cyberbezpieczeństwo — projekt programu
+description: Panel roboczy programu studiów II stopnia na specjalizacji Cyberbezpieczeństwo
+lang: pl
+timezone: Europe/Warsaw
+url: ""
+baseurl: ""
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+layouts_dir: page/_layouts
+includes_dir: page/_includes
+data_dir: page/_data
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - sylabusy/README.md
+  - page/README.md
+  - page/Gemfile
+  - page/Gemfile.lock
+  - .git
+  - .github
+  - .agents
+  - .codex
+  - vendor
+defaults:
+  - scope:
+      path: "sylabusy"
+    values:
+      layout: syllabus
+      sitemap: true
+

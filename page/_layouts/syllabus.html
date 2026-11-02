@@ -1,0 +1,40 @@
+---
+layout: default
+body_class: syllabus-page
+---
+<div class="subnav">
+  <div class="shell breadcrumbs"><a href="{{ '/' | relative_url }}">Panel</a><span>/</span><a href="{{ '/#modules' | relative_url }}">Sylabusy</a><span>/</span><strong>{{ page.code }}</strong></div>
+</div>
+
+<section class="syllabus-hero">
+  <div class="shell">
+    <div class="syllabus-kicker"><span>{{ page.code }}</span><span>SEMESTR {{ page.semester }}</span><span>{{ page.status | upcase }}</span></div>
+    <h1>{{ page.title }}</h1>
+    <div class="syllabus-metrics">
+      <div><strong>{{ page.ects }}</strong><span>ECTS</span></div>
+      <div><strong>{{ page.ects | times: 25 }}</strong><span>godzin pracy</span></div>
+      <div><strong>{{ page.semester }}</strong><span>semestr</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="shell syllabus-grid">
+  <aside class="toc-panel">
+    <span class="eyebrow">NA TEJ STRONIE</span>
+    <nav data-toc></nav>
+    <a class="back-link" href="{{ '/#modules' | relative_url }}">{% include icon.html name='arrow' %} Wszystkie moduły</a>
+  </aside>
+  <article class="syllabus-content prose" data-prose>{{ content }}</article>
+</div>
+
+<section class="next-module shell">
+  {% assign syllabus_pages = site.pages | where_exp: 'item', 'item.code' | sort: 'order' %}
+  {% for item in syllabus_pages %}
+    {% if item.order == page.order %}
+      {% assign next_index = forloop.index0 | plus: 1 %}
+      {% assign next_item = syllabus_pages[next_index] %}
+      {% if next_item %}<a href="{{ next_item.url | relative_url }}"><span>Następny moduł</span><strong>{{ next_item.code }} · {{ next_item.title }}</strong>{% include icon.html name='arrow' %}</a>{% endif %}
+    {% endif %}
+  {% endfor %}
+</section>
+
