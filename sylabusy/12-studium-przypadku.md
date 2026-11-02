@@ -6,6 +6,8 @@ ects: 15
 semester: IV
 status: końcowy
 order: 12
+included_in_plan: false
+plan_note: wariant alternatywny — nie jest doliczany do podstawowej siatki 100 ECTS
 ---
 
 # Studium przypadku z cyberbezpieczeństwa

@@ -6,6 +6,8 @@ ects: 16
 semester: III–IV
 status: obowiązkowy
 order: 17
+ects_iii: 8
+ects_iv: 8
 ---
 
 # Praktyka zawodowa w cyberbezpieczeństwie

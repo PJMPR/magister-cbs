@@ -9,9 +9,11 @@
 
   const search = document.querySelector('[data-module-search]');
   const filters = [...document.querySelectorAll('[data-filter]')];
+  const planFilters = [...document.querySelectorAll('[data-plan-filter]')];
   const cards = [...document.querySelectorAll('[data-module]')];
   const empty = document.querySelector('[data-empty]');
   let activeFilter = 'all';
+  let activePlanFilter = 'plan';
 
   const updateModules = () => {
     const query = (search?.value || '').trim().toLocaleLowerCase('pl');
@@ -26,7 +28,15 @@
       const matchesRange = endIndex >= startIndex && startIndex >= 0 && activeIndex >= startIndex && activeIndex <= endIndex;
       const matchesFilter = activeFilter === 'all' || semester === activeFilter || matchesRange;
       const matchesQuery = (card.dataset.search || '').includes(query);
-      const show = matchesFilter && matchesQuery;
+      const matchesPlan = activePlanFilter === 'all' || (activePlanFilter === 'plan' && card.dataset.inPlan === 'true') || (activePlanFilter === 'variants' && card.dataset.inPlan === 'false');
+      const show = matchesFilter && matchesQuery && matchesPlan;
+      const ectsValue = card.querySelector('[data-ects-value]');
+      const ectsContext = card.querySelector('[data-ects-context]');
+      const semesterEctsKeys = { I: 'ectsI', II: 'ectsIi', III: 'ectsIii', IV: 'ectsIv' };
+      const semesterEctsKey = semesterEctsKeys[activeFilter];
+      const semesterEcts = card.dataset[semesterEctsKey];
+      if (ectsValue) ectsValue.textContent = activeFilter !== 'all' && semesterEcts ? semesterEcts : card.dataset.ectsTotal;
+      if (ectsContext) ectsContext.textContent = activeFilter !== 'all' ? ' w semestrze' : ' łącznie';
       card.hidden = !show;
       if (show) visible += 1;
     });
@@ -39,6 +49,12 @@
     filters.forEach((item) => item.classList.toggle('active', item === button));
     updateModules();
   }));
+  planFilters.forEach((button) => button.addEventListener('click', () => {
+    activePlanFilter = button.dataset.planFilter || 'plan';
+    planFilters.forEach((item) => item.classList.toggle('active', item === button));
+    updateModules();
+  }));
+  updateModules();
 
   const prose = document.querySelector('[data-prose]');
   const toc = document.querySelector('[data-toc]');

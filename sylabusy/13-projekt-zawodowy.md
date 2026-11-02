@@ -6,6 +6,10 @@ ects: 30
 semester: III–IV
 status: końcowy
 order: 13
+included_in_plan: false
+plan_note: wariant alternatywny — nie jest doliczany do podstawowej siatki 100 ECTS
+ects_iii: 15
+ects_iv: 15
 ---
 
 # Zawodowy projekt cyberbezpieczeństwa

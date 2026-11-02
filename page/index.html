@@ -94,8 +94,14 @@ permalink: /
 
 <section class="modules shell" id="modules" aria-labelledby="modules-title">
   <div class="section-heading"><div><span class="eyebrow">05 / KATALOG</span><h2 id="modules-title">Sylabusy modułów</h2></div><p>Przeszukuj, filtruj i otwieraj pełne karty modułów. Informacje są generowane bezpośrednio z plików Markdown.</p></div>
+  <div class="callout"><strong>Zweryfikowany bilans siatki podstawowej: 100 ECTS</strong><p>Semestr I: 25 ECTS · semestr II: 25 ECTS · semestr III: 25 ECTS · semestr IV: 25 ECTS. Moduły SPC, PZC i PBC są wariantami alternatywnymi i nie są dodawane do tej sumy. Praktyka PRA ma 16 ECTS łącznie, po 8 ECTS w semestrach III i IV.</p></div>
   <div class="module-toolbar">
     <label class="search-box">{% include icon.html name='search' %}<span class="sr-only">Szukaj modułu</span><input type="search" placeholder="Szukaj po nazwie lub kodzie…" data-module-search></label>
+    <div class="filter-group" role="group" aria-label="Zakres katalogu">
+      <button class="active" type="button" data-plan-filter="plan">Siatka 100 ECTS</button>
+      <button type="button" data-plan-filter="variants">Warianty</button>
+      <button type="button" data-plan-filter="all">Wszystkie sylabusy</button>
+    </div>
     <div class="filter-group" role="group" aria-label="Filtr semestru">
       <button class="active" type="button" data-filter="all">Wszystkie</button>
       <button type="button" data-filter="I">Sem. I</button><button type="button" data-filter="II">Sem. II</button><button type="button" data-filter="III">Sem. III</button><button type="button" data-filter="IV">Sem. IV</button>
@@ -103,10 +109,11 @@ permalink: /
   </div>
   <div class="module-grid" data-module-grid>
     {% for item in syllabus_pages %}
-    <a class="module-card" href="{{ item.url | relative_url }}" data-module data-semester="{{ item.semester }}" data-search="{{ item.title | downcase }} {{ item.code | downcase }} {{ item.status | downcase }}">
-      <div class="module-top"><span class="code">{{ item.code }}</span><span class="status">{{ item.status }}</span></div>
+    <a class="module-card" href="{{ item.url | relative_url }}" data-module data-in-plan="{% if item.included_in_plan == false %}false{% else %}true{% endif %}" data-semester="{{ item.semester }}" data-ects-total="{{ item.ects }}" data-ects-iii="{{ item.ects_iii }}" data-ects-iv="{{ item.ects_iv }}" data-search="{{ item.title | downcase }} {{ item.code | downcase }} {{ item.status | downcase }}">
+      <div class="module-top"><span class="code">{{ item.code }}</span><span class="status">{% if item.included_in_plan == false %}wariant poza siatką{% else %}{{ item.status }}{% endif %}</span></div>
       <h3>{{ item.title }}</h3>
-      <div class="module-meta"><span><b>{{ item.ects }}</b> ECTS</span><span>SEM. {{ item.semester }}</span><span class="card-arrow">{% include icon.html name='arrow' %}</span></div>
+      <div class="module-meta"><span><b data-ects-value>{{ item.ects }}</b> ECTS<span data-ects-context></span></span><span>SEM. {{ item.semester }}</span><span class="card-arrow">{% include icon.html name='arrow' %}</span></div>
+      {% if item.plan_note %}<small>{{ item.plan_note }}</small>{% endif %}
     </a>
     {% endfor %}
   </div>
