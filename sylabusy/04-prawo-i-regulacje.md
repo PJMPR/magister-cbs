@@ -1,8 +1,8 @@
 ---
 layout: syllabus
 title: Prawo i regulacje cyberbezpieczeństwa
-code: CYB04
-ects: 10
+code: PRC
+ects: 5
 semester: II
 status: obowiązkowy
 order: 4
@@ -14,7 +14,7 @@ order: 4
 
 | Pole | Wartość |
 |---|---|
-| Punkty ECTS | 10 |
+| Punkty ECTS | 5 |
 | Status | obowiązkowy |
 | Zalecany semestr | II |
 | Język | polski |
@@ -60,13 +60,13 @@ Wykład, seminarium, analiza aktów prawnych i orzecznictwa, case study, debata 
 
 | Aktywność | Godziny |
 |---|---:|
-| Wykłady | 30 |
-| Seminaria i analiza przypadków | 30 |
-| Konsultacje | 6 |
-| Lektura aktów i orzecznictwa | 90 |
-| Prace pisemne/case study | 60 |
-| Przygotowanie do egzaminu | 34 |
-| **Razem** | **250** |
+| Wykłady | 15 |
+| Seminaria i analiza przypadków | 15 |
+| Konsultacje | 5 |
+| Lektura aktów i orzecznictwa | 35 |
+| Prace pisemne/case study | 35 |
+| Przygotowanie do egzaminu | 20 |
+| **Razem** | **125** |
 
 ## Weryfikacja efektów i ocena
 

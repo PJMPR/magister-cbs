@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Reagowanie na incydenty
-code: CYB07
+code: RI
 ects: 5
 semester: III
 status: obowiązkowy

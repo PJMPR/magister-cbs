@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Ocena ryzyka cybernetycznego i standardy
-code: CYB01
+code: ORS
 ects: 5
 semester: I
 status: obowiązkowy

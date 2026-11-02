@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Zawodowy projekt cyberbezpieczeństwa
-code: CYB13
+code: PZC
 ects: 30
 semester: III–IV
 status: końcowy

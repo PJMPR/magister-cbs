@@ -18,7 +18,13 @@
     let visible = 0;
     cards.forEach((card) => {
       const semester = card.dataset.semester || '';
-      const matchesFilter = activeFilter === 'all' || semester.split('–').includes(activeFilter) || semester === activeFilter;
+      const semesterOrder = ['I', 'II', 'III', 'IV'];
+      const [rangeStart, rangeEnd] = semester.split('–');
+      const startIndex = semesterOrder.indexOf(rangeStart);
+      const endIndex = semesterOrder.indexOf(rangeEnd);
+      const activeIndex = semesterOrder.indexOf(activeFilter);
+      const matchesRange = endIndex >= startIndex && startIndex >= 0 && activeIndex >= startIndex && activeIndex <= endIndex;
+      const matchesFilter = activeFilter === 'all' || semester === activeFilter || matchesRange;
       const matchesQuery = (card.dataset.search || '').includes(query);
       const show = matchesFilter && matchesQuery;
       card.hidden = !show;

@@ -20,7 +20,7 @@ permalink: /program/
     <section id="profil">
       <h2>Profil programu</h2>
       <p>Program jest projektowany jako dwuletnia, niestacjonarna specjalizacja na studiach magisterskich z Informatyki. Łączy kompetencje techniczne, organizacyjne, prawne i badawcze, pozostając dostępny także dla absolwentów kierunków pokrewnych po weryfikacji kompetencji wejściowych.</p>
-      <div class="spec-table"><div><span>Poziom</span><strong>studia II stopnia</strong></div><div><span>Tryb</span><strong>niestacjonarny</strong></div><div><span>Czas</span><strong>2 lata / 4 semestry</strong></div><div><span>Punkty</span><strong>100 ECTS</strong></div><div><span>Profil</span><strong>praktyczny</strong></div><div><span>Specjalizacja</span><strong>Cyberbezpieczeństwo</strong></div></div>
+      <div class="spec-table"><div><span>Kierunek</span><strong>Informatyka</strong></div><div><span>Specjalizacja</span><strong>Cyberbezpieczeństwo</strong></div><div><span>Poziom</span><strong>studia II stopnia</strong></div><div><span>Tytuł</span><strong>magister</strong></div><div><span>Tryb</span><strong>niestacjonarny</strong></div><div><span>Czas</span><strong>2 lata / 4 semestry</strong></div><div><span>Punkty</span><strong>100 ECTS</strong></div><div><span>Profil</span><strong>praktyczny</strong></div></div>
     </section>
     <section id="zasady">
       <h2>Zasady programu</h2>
@@ -29,9 +29,9 @@ permalink: /program/
     </section>
     <section id="sciezka">
       <h2>Logika ścieżki</h2>
-      <p>Pierwszy rok buduje wspólny język bezpieczeństwa: modele, ryzyko, kryptografię, prawo i bezpieczne wytwarzanie. Angielski specjalistyczny I rozwija pracę z dokumentacją i komunikację techniczną. Trzeci semestr przenosi ciężar na obronę, analizę oraz testowanie. Ostatni semestr integruje kompetencje w pracy dyplomowej, analizie trendów i końcowej weryfikacji języka angielskiego na poziomie B2+.</p>
+      <p>Pierwszy rok buduje wspólny język bezpieczeństwa: modele, ryzyko, kryptografię, prawo i bezpieczne wytwarzanie. Angielski specjalistyczny I rozwija pracę z dokumentacją i komunikację techniczną. Obowiązkowa praktyka zawodowa obejmuje 16 ECTS i 400 godzin w semestrach II–IV. Trzeci semestr przenosi ciężar na obronę, analizę oraz testowanie, a ostatni integruje kompetencje w pracy dyplomowej, analizie trendów i końcowej weryfikacji języka angielskiego na poziomie B2+.</p>
       <p>Kandydaci ze zidentyfikowanymi lukami kompetencyjnymi mogą przed pierwszym semestrem zrealizować indywidualnie dobraną część <a href="{{ '/kurs-przygotowawczy/' | relative_url }}">wakacyjnego kursu przygotowawczego</a>. Kurs pozostaje poza pulą 100 ECTS i nie zastępuje formalnych warunków przyjęcia.</p>
-      <div class="callout"><strong>Ważny kompromis</strong><p>Robocza siatka przeznacza 15 ECTS na seminarium i pracę magisterską. Wartość i rozłożenie tego bloku wymagają formalnej weryfikacji.</p></div>
+      <div class="callout"><strong>Praktyka w ramach 100 ECTS</strong><p>Praktyce przypisano 16 ECTS bez zwiększania całego programu. Blok dyplomowy obejmuje obecnie 10 ECTS, a jego organizacja wymaga jeszcze formalnego zatwierdzenia.</p></div>
     </section>
     <section id="decyzje">
       <h2>Decyzje wymagające uzgodnienia</h2>

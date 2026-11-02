@@ -12,18 +12,18 @@ document_type: effects
 
 # Propozycja kierunkowych efektów uczenia się — Informatyka II stopnia, specjalizacja Cyberbezpieczeństwo
 
-> **Status dokumentu:** robocza synteza efektów przedmiotowych z 16 sylabusów. Dokument nie stanowi formalnie zatwierdzonego zestawu efektów kierunkowych ani pełnego mapowania do Polskiej Ramy Kwalifikacji.
+> **Status dokumentu:** robocza synteza efektów przedmiotowych z 17 sylabusów. Dokument nie stanowi formalnie zatwierdzonego zestawu efektów kierunkowych ani pełnego mapowania do Polskiej Ramy Kwalifikacji.
 
 ## 1. Punkt wyjścia i metoda
 
-W 16 sylabusach zidentyfikowano łącznie **109 efektów przedmiotowych**:
+W 17 sylabusach zidentyfikowano łącznie **118 efektów przedmiotowych**:
 
 | Kategoria | Liczba efektów źródłowych |
 |---|---:|
-| Wiedza (`W`) | 27 |
-| Umiejętności (`U`) | 63 |
-| Kompetencje społeczne (`K`) | 19 |
-| **Razem** | **109** |
+| Wiedza (`W`) | 28 |
+| Umiejętności (`U`) | 68 |
+| Kompetencje społeczne (`K`) | 22 |
+| **Razem** | **118** |
 
 Efekty pogrupowano tematycznie, połączono znaczeniowo powtarzające się sformułowania i podniesiono poziom ogólności. Po wykonaniu mapowania do PRK zestaw uzupełniono o dwa przekrojowe efekty wymagane na poziomie 7, które nie wynikały wprost z efektów specjalizacyjnych. Przyjęto oznaczenia robocze:
 
@@ -88,14 +88,15 @@ Absolwent jest gotów do:
 
 | Grupa znaczeniowa | Efekty kierunkowe | Główne źródła w sylabusach |
 |---|---|---|
-| Fundamenty i architektura bezpieczeństwa | `K_W01`, `K_W02`, `K_U01`, `K_U02` | CYB01, CYB02, CYB05, CYB06, CYB08 |
-| Zagrożenia, podatności i testowanie | `K_W03`, `K_U03`, `K_U08` | CYB06, CYB08, CYB09, CYB11 |
-| Detekcja i reagowanie | `K_W03`, `K_W04`, `K_U04`, `K_U09` | CYB02, CYB07, CYB08, CYB09 |
-| Ryzyko, ład i przywództwo | `K_W04`, `K_U05`, `K_U09`, `K_U10`, `K_K05` | CYB01, CYB03, CYB07 |
-| Prawo, prywatność, etyka i interes publiczny | `K_W05`, `K_U05`, `K_K01`, `K_K02`, `K_K07` | CYB03, CYB04 oraz etyczne efekty modułów praktycznych i projektowych |
-| Projektowanie i realizacja rozwiązań | `K_W07`, `K_U02`, `K_U06`, `K_U08`, `K_U10` | CYB06, CYB12, CYB13, CYB14 |
-| Badania, źródła i rozwój dyscypliny | `K_W06`, `K_U07`, `K_U08`, `K_U11`, `K_K04`, `K_K06` | CYB10, CYB12, CYB13, CYB14 |
-| Dokumentowanie i komunikacja | `K_U09`, `K_U10`, `K_U12`, `K_K03`, `K_K06` | wszystkie moduły projektowe, CYB01, CYB03, CYB04, CYB07, CYB11, CYB15, CYB16 |
+| Fundamenty i architektura bezpieczeństwa | `K_W01`, `K_W02`, `K_U01`, `K_U02` | ORS, BI, KS, IBO, BS |
+| Zagrożenia, podatności i testowanie | `K_W03`, `K_U03`, `K_U08` | IBO, BS, AZO, EH |
+| Detekcja i reagowanie | `K_W03`, `K_W04`, `K_U04`, `K_U09` | BI, RI, BS, AZO |
+| Ryzyko, ład i przywództwo | `K_W04`, `K_U05`, `K_U09`, `K_U10`, `K_K05` | ORS, PZB, RI |
+| Prawo, prywatność, etyka i interes publiczny | `K_W05`, `K_U05`, `K_K01`, `K_K02`, `K_K07` | PZB, PRC oraz etyczne efekty modułów praktycznych i projektowych |
+| Projektowanie i realizacja rozwiązań | `K_W07`, `K_U02`, `K_U06`, `K_U08`, `K_U10` | IBO, SPC, PZC, PBC |
+| Badania, źródła i rozwój dyscypliny | `K_W06`, `K_U07`, `K_U08`, `K_U11`, `K_K04`, `K_K06` | TC, SPC, PZC, PBC |
+| Dokumentowanie i komunikacja | `K_U09`, `K_U10`, `K_U12`, `K_K03`, `K_K06` | wszystkie moduły projektowe, ORS, PZB, PRC, RI, EH, ASC1, ASC2 |
+| Praktyka zawodowa i rozwój profesjonalny | `K_W04`, `K_W07`, `K_U01`, `K_U03`, `K_U05`, `K_U06`, `K_U09`, `K_U10`, `K_U11`, `K_K01–K_K05` | PRA oraz moduły laboratoryjne i projektowe |
 
 ## 4. Wstępna macierz pokrycia przez moduły
 
@@ -103,26 +104,27 @@ Macierz wskazuje efekty kierunkowe istotnie realizowane przez moduł. Nie oznacz
 
 | Lp. | Moduł | Wiedza | Umiejętności | Kompetencje społeczne |
 |---:|---|---|---|---|
-| 1 | CYB01 Ocena ryzyka cybernetycznego i standardy | `K_W01`, `K_W04` | `K_U01`, `K_U05`, `K_U09`, `K_U10` | `K_K02`, `K_K03` |
-| 2 | CYB02 Bezpieczeństwo informacji | `K_W01`, `K_W02`, `K_W03` | `K_U01`, `K_U02`, `K_U04`, `K_U08` | `K_K02` |
-| 3 | CYB03 Przywództwo i zarządzanie bezpieczeństwem | `K_W04`, `K_W07` | `K_U05`, `K_U09`, `K_U10` | `K_K02`, `K_K03`, `K_K05` |
-| 4 | CYB04 Prawo i regulacje cyberbezpieczeństwa | `K_W05` | `K_U05`, `K_U09` | `K_K01`, `K_K02` |
-| 5 | CYB05 Kryptografia stosowana | `K_W02` | `K_U02`, `K_U03`, `K_U08` | `K_K02` |
-| 6 | CYB06 Inżynieria bezpiecznego oprogramowania | `K_W02`, `K_W03` | `K_U01`, `K_U02`, `K_U03`, `K_U08`, `K_U09`, `K_U10` | `K_K01`, `K_K03` |
-| 7 | CYB07 Reagowanie na incydenty | `K_W03`, `K_W04` | `K_U04`, `K_U09`, `K_U10` | `K_K01`, `K_K02`, `K_K03` |
-| 8 | CYB08 Bezpieczeństwo sieci | `K_W02`, `K_W03` | `K_U01`, `K_U02`, `K_U03`, `K_U04`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K03` |
-| 9 | CYB09 Analiza złośliwego oprogramowania | `K_W03` | `K_U03`, `K_U04`, `K_U09` | `K_K01`, `K_K02` |
-| 10 | CYB10 Trendy w cyberbezpieczeństwie | `K_W06` | `K_U07`, `K_U08`, `K_U09`, `K_U11` | `K_K02`, `K_K04`, `K_K06` |
-| 11 | CYB11 Etyczny hacking | `K_W03`, `K_W05` | `K_U01`, `K_U03`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K03` |
-| 12 | CYB12 Studium przypadku z cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U06`, `K_U07`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K06` |
-| 13 | CYB13 Zawodowy projekt cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U01`, `K_U02`, `K_U06`, `K_U07`, `K_U08`, `K_U09`, `K_U10` | `K_K01`, `K_K02`, `K_K03`, `K_K05`, `K_K06` |
-| 14 | CYB14 Badawczy projekt cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U06`, `K_U07`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K04`, `K_K06` |
-| 15 | CYB15 Angielski specjalistyczny w cyberbezpieczeństwie I | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K02`, `K_K03`, `K_K04` |
-| 16 | CYB16 Angielski specjalistyczny w cyberbezpieczeństwie II | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K01`, `K_K03`, `K_K04` |
+| 1 | ORS Ocena ryzyka cybernetycznego i standardy | `K_W01`, `K_W04` | `K_U01`, `K_U05`, `K_U09`, `K_U10` | `K_K02`, `K_K03` |
+| 2 | BI Bezpieczeństwo informacji | `K_W01`, `K_W02`, `K_W03` | `K_U01`, `K_U02`, `K_U04`, `K_U08` | `K_K02` |
+| 3 | PZB Przywództwo i zarządzanie bezpieczeństwem | `K_W04`, `K_W07` | `K_U05`, `K_U09`, `K_U10` | `K_K02`, `K_K03`, `K_K05` |
+| 4 | PRC Prawo i regulacje cyberbezpieczeństwa | `K_W05` | `K_U05`, `K_U09` | `K_K01`, `K_K02` |
+| 5 | KS Kryptografia stosowana | `K_W02` | `K_U02`, `K_U03`, `K_U08` | `K_K02` |
+| 6 | IBO Inżynieria bezpiecznego oprogramowania | `K_W02`, `K_W03` | `K_U01`, `K_U02`, `K_U03`, `K_U08`, `K_U09`, `K_U10` | `K_K01`, `K_K03` |
+| 7 | RI Reagowanie na incydenty | `K_W03`, `K_W04` | `K_U04`, `K_U09`, `K_U10` | `K_K01`, `K_K02`, `K_K03` |
+| 8 | BS Bezpieczeństwo sieci | `K_W02`, `K_W03` | `K_U01`, `K_U02`, `K_U03`, `K_U04`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K03` |
+| 9 | AZO Analiza złośliwego oprogramowania | `K_W03` | `K_U03`, `K_U04`, `K_U09` | `K_K01`, `K_K02` |
+| 10 | TC Trendy w cyberbezpieczeństwie | `K_W06` | `K_U07`, `K_U08`, `K_U09`, `K_U11` | `K_K02`, `K_K04`, `K_K06` |
+| 11 | EH Etyczny hacking | `K_W03`, `K_W05` | `K_U01`, `K_U03`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K03` |
+| 12 | SPC Studium przypadku z cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U06`, `K_U07`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K06` |
+| 13 | PZC Zawodowy projekt cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U01`, `K_U02`, `K_U06`, `K_U07`, `K_U08`, `K_U09`, `K_U10` | `K_K01`, `K_K02`, `K_K03`, `K_K05`, `K_K06` |
+| 14 | PBC Badawczy projekt cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U06`, `K_U07`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K04`, `K_K06` |
+| 15 | ASC1 Angielski specjalistyczny w cyberbezpieczeństwie I | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K02`, `K_K03`, `K_K04` |
+| 16 | ASC2 Angielski specjalistyczny w cyberbezpieczeństwie II | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K01`, `K_K03`, `K_K04` |
+| 17 | PRA Praktyka zawodowa w cyberbezpieczeństwie | `K_W04`, `K_W07` | `K_U01`, `K_U03`, `K_U05`, `K_U06`, `K_U09`, `K_U10`, `K_U11` | `K_K01`, `K_K02`, `K_K03`, `K_K04`, `K_K05` |
 
 ## 5. Warunek równoważności ścieżek końcowych
 
-Moduły CYB12, CYB13 i CYB14 są alternatywami, dlatego każdy wariant ukończenia powinien potwierdzać wspólne minimum:
+Moduły SPC, PZC i PBC są alternatywami, dlatego każdy wariant ukończenia powinien potwierdzać wspólne minimum:
 
 - `K_W06` — metody pozyskiwania i krytycznej oceny wiedzy;
 - `K_W07` — metody prowadzenia złożonego przedsięwzięcia;
@@ -140,10 +142,11 @@ Efekty właściwe wyłącznie jednej ścieżce, np. wytworzenie wdrażalnego art
 2. **Mapowanie do PRK 7 należy formalnie zatwierdzić dla profilu praktycznego.** Program musi zapewnić odpowiedni udział zajęć kształtujących umiejętności praktyczne oraz doświadczenie zdobywane w środowisku zawodowym.
 3. **Trzeba określić poziom realizacji efektu w module:** wprowadzenie (`I`), rozwijanie (`R`) i sprawdzenie/osiągnięcie (`S`). Sama obecność efektu w macierzy nie dowodzi jego osiągnięcia.
 4. **Każdy efekt kierunkowy powinien mieć co najmniej jedno obowiązkowe miejsce weryfikacji.** Nie można opierać osiągnięcia efektu wyłącznie na module wybieralnym.
-5. **Efekty `K_U11` i `K_K04` dotyczące uczenia się przez całe życie są realizowane w module Trendy w cyberbezpieczeństwie oraz w obowiązkowych lektoratach CYB15 i CYB16.** Ich osiągnięcie należy potwierdzać przez plan rozwoju, wykorzystanie informacji zwrotnej i samodzielną aktualizację terminologii.
+5. **Efekty `K_U11` i `K_K04` dotyczące uczenia się przez całe życie są realizowane w module Trendy w cyberbezpieczeństwie oraz w obowiązkowych lektoratach ASC1 i ASC2.** Ich osiągnięcie należy potwierdzać przez plan rozwoju, wykorzystanie informacji zwrotnej i samodzielną aktualizację terminologii.
 6. **Kompetencje społeczne należy weryfikować poprzez obserwowalne działania.** Rubryki powinny obejmować m.in. przestrzeganie zakresu testów, jakość komunikacji, ujawnianie ograniczeń, pracę zespołową i rzetelność dokumentacji.
 7. **Nazwy i kody są robocze.** Ostateczne oznaczenia muszą być zgodne z systemem efektów przyjętym przez uczelnię.
-8. **Efekt `K_U12` ma obowiązkowe miejsca weryfikacji w CYB15 i CYB16.** Efekt `K_K07` nadal wymaga jawnego wskazania ocenianych elementów przedsiębiorczości i działania na rzecz interesu publicznego w sylabusach CYB03, CYB04 lub CYB13.
+8. **Efekt `K_U12` ma obowiązkowe miejsca weryfikacji w ASC1 i ASC2.** Efekt `K_K07` nadal wymaga jawnego wskazania ocenianych elementów przedsiębiorczości i działania na rzecz interesu publicznego w sylabusach PZB, PRC lub PZC.
+9. **PRA zapewnia obowiązkową weryfikację efektów w rzeczywistym środowisku zawodowym.** Ocena opiekuna, portfolio, dziennik i rozmowa zaliczeniowa potwierdzają w szczególności `K_U06`, `K_U09–K_U11` oraz `K_K01–K_K05`.
 
 ## 7. Zalecany kolejny krok
 

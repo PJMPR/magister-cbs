@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Przywództwo i zarządzanie bezpieczeństwem
-code: CYB03
+code: PZB
 ects: 5
 semester: I
 status: obowiązkowy

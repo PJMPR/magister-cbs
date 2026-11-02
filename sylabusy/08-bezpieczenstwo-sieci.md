@@ -1,8 +1,8 @@
 ---
 layout: syllabus
 title: Bezpieczeństwo sieci
-code: CYB08
-ects: 10
+code: BS
+ects: 5
 semester: III
 status: obowiązkowy
 order: 8
@@ -14,7 +14,7 @@ order: 8
 
 | Pole | Wartość |
 |---|---|
-| Punkty ECTS | 10 |
+| Punkty ECTS | 5 |
 | Status | obowiązkowy |
 | Zalecany semestr | III |
 | Język | polski |
@@ -60,13 +60,13 @@ Wykłady, laboratoria sieciowe, ćwiczenia formatywne, analiza pakietów, projek
 
 | Aktywność | Godziny |
 |---|---:|
-| Wykłady | 30 |
-| Laboratoria | 42 |
-| Konsultacje i opieka projektowa | 10 |
-| Samodzielne ćwiczenia | 58 |
-| Projekty i raport | 80 |
-| Przygotowanie do egzaminu | 30 |
-| **Razem** | **250** |
+| Wykłady | 15 |
+| Laboratoria | 30 |
+| Konsultacje i opieka projektowa | 5 |
+| Samodzielne ćwiczenia | 25 |
+| Projekty i raport | 40 |
+| Przygotowanie do egzaminu | 10 |
+| **Razem** | **125** |
 
 ## Weryfikacja efektów i ocena
 
@@ -86,4 +86,4 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie oraz oddanie projektu. Aktyw
 - Dokumentacja Wireshark, Suricata/Snort i użytych platform sieciowych.
 ## Uwagi programowe
 
-Referat i egzamin uzupełnia spójny projekt grupowy dotyczący wykrywania ataków. Łączny nakład wynosi 250 godzin.
+Referat i egzamin uzupełnia spójny projekt grupowy dotyczący wykrywania ataków. Łączny nakład wynosi 125 godzin.

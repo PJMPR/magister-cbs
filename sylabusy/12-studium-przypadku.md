@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Studium przypadku z cyberbezpieczeństwa
-code: CYB12
+code: SPC
 ects: 15
 semester: IV
 status: końcowy

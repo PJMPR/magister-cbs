@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Bezpieczeństwo informacji
-code: CYB02
+code: BI
 ects: 10
 semester: I
 status: obowiązkowy

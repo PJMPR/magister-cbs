@@ -1,8 +1,8 @@
 ---
 layout: syllabus
 title: Trendy w cyberbezpieczeństwie
-code: CYB10
-ects: 5
+code: TC
+ects: 4
 semester: IV
 status: wybieralny
 order: 10
@@ -14,7 +14,7 @@ order: 10
 
 | Pole | Wartość |
 |---|---|
-| Punkty ECTS | 5 |
+| Punkty ECTS | 4 |
 | Status | wybieralny |
 | Zalecany semestr | IV |
 | Język | polski |
@@ -59,13 +59,13 @@ Seminarium, problem-based learning, debaty, recenzja koleżeńska, konsultacje, 
 
 | Aktywność | Godziny |
 |---|---:|
-| Seminaria online | 18 |
-| Warsztaty/debaty | 12 |
+| Seminaria online | 15 |
+| Warsztaty/debaty | 10 |
 | Konsultacje | 5 |
-| Przegląd literatury | 40 |
-| Przygotowanie prezentacji | 20 |
-| Esej krytyczny | 30 |
-| **Razem** | **125** |
+| Przegląd literatury | 30 |
+| Przygotowanie prezentacji | 15 |
+| Esej krytyczny | 25 |
+| **Razem** | **100** |
 
 ## Weryfikacja efektów i ocena
 

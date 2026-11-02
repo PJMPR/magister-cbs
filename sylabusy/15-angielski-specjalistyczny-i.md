@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Angielski specjalistyczny w cyberbezpieczeństwie I
-code: CYB15
+code: ASC1
 ects: 5
 semester: II
 status: obowiązkowy

@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Etyczny hacking
-code: CYB11
+code: EH
 ects: 5
 semester: III
 status: wybieralny

@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Angielski specjalistyczny w cyberbezpieczeństwie II
-code: CYB16
+code: ASC2
 ects: 5
 semester: IV
 status: obowiązkowy
@@ -26,7 +26,7 @@ Osiągnięcie kompetencji komunikacyjnej B2+ potrzebnej do prowadzenia debaty, p
 
 ## Wymagania wstępne
 
-Zaliczenie modułu CYB15 albo potwierdzenie równoważnych kompetencji językowych i specjalistycznych.
+Zaliczenie modułu ASC1 albo potwierdzenie równoważnych kompetencji językowych i specjalistycznych.
 
 ## Efekty uczenia się
 

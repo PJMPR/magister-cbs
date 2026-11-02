@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Analiza złośliwego oprogramowania
-code: CYB09
+code: AZO
 ects: 5
 semester: III
 status: wybieralny

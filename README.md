@@ -13,6 +13,7 @@
 | Poziom | Studia drugiego stopnia (magisterskie) |
 | Kierunek | Informatyka |
 | Specjalizacja | Cyberbezpieczeństwo |
+| Tytuł zawodowy | **Magister** |
 | Tryb | Niestacjonarny |
 | Czas trwania | 2 lata, 4 semestry |
 | ECTS studiów | **100** (25 ECTS w każdym z czterech semestrów) |
@@ -26,9 +27,9 @@
 
 **Założenie organizacyjne:** moduły wyrównawcze mają doprowadzić kandydatów do wymaganego poziomu wejściowego, a nie zastępować przedmioty magisterskie. Ostateczne reguły przyjęć, warunki ukończenia i sposób zaliczania kursów wymagają weryfikacji prawnej i wewnątrzuczelnianej.
 
-## 2. Pełny katalog 16 modułów
+## 2. Pełny katalog 17 modułów
 
-### 2.1. Ocena ryzyka cybernetycznego i standardy (CYB01, 5 ECTS)
+### 2.1. Ocena ryzyka cybernetycznego i standardy (ORS, 5 ECTS)
 
 **Czego student się uczy:**
 - Identyfikowania zasobów, zagrożeń, podatności i potencjalnych skutków incydentów.
@@ -41,7 +42,7 @@
 **Rezultat praktyczny:** zespołowa ocena ryzyka dla organizacji oraz plan zabezpieczeń.  
 **Przykład oceny:** egzamin, zadania grupowe i dziennik refleksji.
 
-### 2.2. Bezpieczeństwo informacji (CYB02, 10 ECTS)
+### 2.2. Bezpieczeństwo informacji (BI, 10 ECTS)
 
 **Czego student się uczy:**
 - Modeli bezpieczeństwa i zasad projektowania bezpiecznych systemów.
@@ -54,7 +55,7 @@
 
 **Rezultat praktyczny:** umiejętność oceny architektury systemu z perspektywy bezpieczeństwa i wskazania właściwych mechanizmów ochrony.  
 
-### 2.3. Przywództwo i zarządzanie bezpieczeństwem (CYB03, 5 ECTS)
+### 2.3. Przywództwo i zarządzanie bezpieczeństwem (PZB, 5 ECTS)
 
 **Czego student się uczy:**
 - Oceny dojrzałości bezpieczeństwa organizacji, identyfikacji luk i priorytetyzacji działań.
@@ -66,7 +67,7 @@
 
 **Rezultat praktyczny:** studium przypadku dotyczące przywództwa, zmian organizacyjnych i decyzji opartych na analizie ryzyka.  
 
-### 2.4. Prawo i regulacje cyberbezpieczeństwa (CYB04, 10 ECTS)
+### 2.4. Prawo i regulacje cyberbezpieczeństwa (PRC, 5 ECTS)
 
 **Czego student się uczy:**
 - Rozpoznawania norm prawnych i obowiązków związanych z cyberbezpieczeństwem.
@@ -78,7 +79,7 @@
 **Rezultat praktyczny:** analiza przypadku pokazująca, jak wymagania prawne wpływają na projektowanie i prowadzenie zabezpieczeń.  
 **Zakres krajowy:** odrębnie opracować zakres RODO, KSC/NIS2, DORA (tam, gdzie ma zastosowanie) i polskich regulacji sektorowych.
 
-### 2.5. Kryptografia stosowana (CYB05, 5 ECTS)
+### 2.5. Kryptografia stosowana (KS, 5 ECTS)
 
 **Czego student się uczy:**
 - Celów mechanizmów kryptograficznych: poufność, integralność, uwierzytelnianie, niezaprzeczalność.
@@ -89,7 +90,7 @@
 
 **Rezultat praktyczny:** świadomy dobór i ocena rozwiązań kryptograficznych dla scenariusza bezpieczeństwa.  
 
-### 2.6. Inżynieria bezpiecznego oprogramowania (CYB06, 10 ECTS)
+### 2.6. Inżynieria bezpiecznego oprogramowania (IBO, 10 ECTS)
 
 **Czego student się uczy:**
 - Modelowania zagrożeń i identyfikacji wymagań bezpieczeństwa aplikacji.
@@ -102,7 +103,7 @@
 
 **Rezultat praktyczny:** demonstracja podatności, raport, poprawka w kodzie i dowód skuteczności poprawki.  
 
-### 2.7. Reagowanie na incydenty (CYB07, 5 ECTS)
+### 2.7. Reagowanie na incydenty (RI, 5 ECTS)
 
 **Czego student się uczy:**
 - Etapów przygotowania, wykrywania, analizy, ograniczania skutków i odtwarzania działania.
@@ -113,7 +114,7 @@
 
 **Rezultat praktyczny:** scenariusz reagowania na incydent, raport oraz plan usprawnień.  
 
-### 2.8. Bezpieczeństwo sieci (CYB08, 10 ECTS)
+### 2.8. Bezpieczeństwo sieci (BS, 5 ECTS)
 
 **Czego student się uczy:**
 - Analizowania zagrożeń i słabości komunikacji sieciowej.
@@ -124,7 +125,7 @@
 
 **Rezultat praktyczny:** analiza zagrożeń i zabezpieczeń przykładowej infrastruktury sieciowej.  
 
-### 2.9. Analiza złośliwego oprogramowania (CYB09, 5 ECTS; do wyboru)
+### 2.9. Analiza złośliwego oprogramowania (AZO, 5 ECTS; do wyboru)
 
 **Czego student się uczy:**
 - Identyfikowania typów złośliwego oprogramowania i jego zachowań.
@@ -134,7 +135,7 @@
 
 **Rezultat praktyczny:** raport z analizy próbki lub scenariusza infekcji w izolowanym środowisku.  
 
-### 2.10. Trendy w cyberbezpieczeństwie (CYB10, 5 ECTS; do wyboru)
+### 2.10. Trendy w cyberbezpieczeństwie (TC, 4 ECTS; do wyboru)
 
 **Czego student się uczy:**
 - Samodzielnego rozpoznawania i krytycznej oceny nowych technologii i badań.
@@ -144,7 +145,7 @@
 
 **Rezultat praktyczny:** prezentacja trendu i opracowanie krytycznej analizy tematu.  
 
-### 2.11. Etyczny hacking (CYB11, 5 ECTS; do wyboru)
+### 2.11. Etyczny hacking (EH, 5 ECTS; do wyboru)
 
 **Czego student się uczy:**
 - Metodycznego i autoryzowanego sprawdzania bezpieczeństwa systemów.
@@ -154,7 +155,7 @@
 
 **Rezultat praktyczny:** raport z testu środowiska laboratoryjnego.  
 
-### 2.12. Studium przypadku z cyberbezpieczeństwa (CYB12, 15 ECTS; opcja końcowa)
+### 2.12. Studium przypadku z cyberbezpieczeństwa (SPC, 15 ECTS; opcja końcowa)
 
 **Czego student się uczy:**
 - Samodzielnego sformułowania i zbadania rzeczywistego problemu bezpieczeństwa.
@@ -164,7 +165,7 @@
 
 **Rezultat praktyczny:** indywidualny raport ze studium przypadku.
 
-### 2.13. Zawodowy projekt cyberbezpieczeństwa (CYB13, 30 ECTS; alternatywa)
+### 2.13. Zawodowy projekt cyberbezpieczeństwa (PZC, 30 ECTS; alternatywa)
 
 **Czego student się uczy:**
 - Samodzielnego rozwiązania rozbudowanego problemu bezpieczeństwa o charakterze zawodowym.
@@ -173,7 +174,7 @@
 
 **Rezultat praktyczny:** rozbudowany projekt praktyczny, potencjalnie realizowany przy współpracy z branżą. To alternatywa dla modułów wybieralnych i case study, a nie dodatkowe 30 ECTS.  
 
-### 2.14. Badawczy projekt cyberbezpieczeństwa (CYB14, 30 ECTS; alternatywa)
+### 2.14. Badawczy projekt cyberbezpieczeństwa (PBC, 30 ECTS; alternatywa)
 
 **Czego student się uczy:**
 - Formułowania pytania badawczego, przeglądu literatury i planowania metodyki.
@@ -183,7 +184,7 @@
 
 **Rezultat praktyczny:** samodzielny projekt badawczy pod opieką akademicką. To alternatywa dla projektu zawodowego oraz wariantu z case study.  
 
-### 2.15. Angielski specjalistyczny w cyberbezpieczeństwie I (CYB15, 5 ECTS)
+### 2.15. Angielski specjalistyczny w cyberbezpieczeństwie I (ASC1, 5 ECTS)
 
 **Czego student się uczy:**
 - Rozumienia anglojęzycznej dokumentacji, norm, zaleceń i artykułów technicznych.
@@ -194,7 +195,7 @@
 
 **Rezultat praktyczny:** portfolio anglojęzycznych dokumentów technicznych, prezentacja i symulacja spotkania zespołu bezpieczeństwa.
 
-### 2.16. Angielski specjalistyczny w cyberbezpieczeństwie II (CYB16, 5 ECTS)
+### 2.16. Angielski specjalistyczny w cyberbezpieczeństwie II (ASC2, 5 ECTS)
 
 **Czego student się uczy:**
 - Prowadzenia specjalistycznej debaty i argumentowania na podstawie dowodów.
@@ -204,6 +205,18 @@
 - Posługiwania się językiem angielskim na poziomie B2+ wraz z terminologią specjalistyczną.
 
 **Rezultat praktyczny:** debata, prezentacja z obroną, portfolio pisemne i końcowa weryfikacja kompetencji B2+.
+
+### 2.17. Praktyka zawodowa w cyberbezpieczeństwie (PRA, 16 ECTS)
+
+**Czego student się uczy:**
+- Wykonywania zadań z zakresu cyberbezpieczeństwa w rzeczywistym środowisku zawodowym.
+- Stosowania norm, procedur i narzędzi zgodnie z zakresem autoryzacji oraz zasadami poufności.
+- Współpracy w zespole, komunikowania ryzyka i korzystania z informacji zwrotnej.
+- Dokumentowania działań, rezultatów, ograniczeń i rekomendacji.
+- Rozpoznawania granic własnych kompetencji i planowania dalszego rozwoju zawodowego.
+
+**Organizacja:** minimum 3 miesiące i 400 godzin pracy, realizowane w częściach w semestrach II–IV: 5, 5 i 6 ECTS.
+**Rezultat praktyczny:** portfolio zanonimizowanych artefaktów, dziennik, raport, ocena opiekuna zakładowego i rozmowa zaliczeniowa.
 
 ## 3. Przyjmowanie absolwentów różnych kierunków
 
@@ -244,43 +257,46 @@
 
 | Przedmiot | Kod | ECTS |
 |---|---|---:|
-| Bezpieczeństwo informacji | CYB02 | 10 |
-| Ocena ryzyka cybernetycznego i standardy | CYB01 | 5 |
-| Przywództwo i zarządzanie bezpieczeństwem | CYB03 | 5 |
-| Kryptografia stosowana | CYB05 | 5 |
+| Bezpieczeństwo informacji | BI | 10 |
+| Ocena ryzyka cybernetycznego i standardy | ORS | 5 |
+| Przywództwo i zarządzanie bezpieczeństwem | PZB | 5 |
+| Kryptografia stosowana | KS | 5 |
 | **Razem** | | **25** |
 
 ### Semestr II — 25 ECTS
 
 | Przedmiot | Kod | ECTS |
 |---|---|---:|
-| Prawo i regulacje cyberbezpieczeństwa | CYB04 | 10 |
-| Inżynieria bezpiecznego oprogramowania | CYB06 | 10 |
-| Angielski specjalistyczny w cyberbezpieczeństwie I | CYB15 | 5 |
+| Prawo i regulacje cyberbezpieczeństwa | PRC | 5 |
+| Inżynieria bezpiecznego oprogramowania | IBO | 10 |
+| Angielski specjalistyczny w cyberbezpieczeństwie I | ASC1 | 5 |
+| Praktyka zawodowa — część I | PRA | 5 |
 | **Razem** | | **25** |
 
 ### Semestr III — 25 ECTS
 
 | Przedmiot | Kod | ECTS |
 |---|---|---:|
-| Bezpieczeństwo sieci | CYB08 | 10 |
-| Reagowanie na incydenty | CYB07 | 5 |
-| Analiza złośliwego oprogramowania | CYB09 | 5 |
-| Etyczny hacking | CYB11 | 5 |
+| Bezpieczeństwo sieci | BS | 5 |
+| Reagowanie na incydenty | RI | 5 |
+| Analiza złośliwego oprogramowania | AZO | 5 |
+| Etyczny hacking | EH | 5 |
+| Praktyka zawodowa — część II | PRA | 5 |
 | **Razem** | | **25** |
 
 ### Semestr IV — 25 ECTS
 
 | Przedmiot | Kod | ECTS |
 |---|---|---:|
-| Trendy w cyberbezpieczeństwie | CYB10 | 5 |
-| Seminarium i praca magisterska — blok dyplomowy | DYP01 | 15 |
-| Angielski specjalistyczny w cyberbezpieczeństwie II | CYB16 | 5 |
+| Trendy w cyberbezpieczeństwie | TC | 4 |
+| Seminarium i praca magisterska — blok dyplomowy | SPM | 10 |
+| Angielski specjalistyczny w cyberbezpieczeństwie II | ASC2 | 5 |
+| Praktyka zawodowa — część III | PRA | 6 |
 | **Razem** | | **25** |
 
 **Suma: 25 + 25 + 25 + 25 = 100 ECTS.**
 
-**Ważny kompromis:** siatka obejmuje 75 ECTS wspólnego rdzenia cyberbezpieczeństwa, 10 ECTS angielskiego specjalistycznego i 15 ECTS bloku dyplomowego. Nie oznacza to, że 15 ECTS automatycznie wystarczy na wymagane polskimi przepisami seminarium i pracę; tę wartość trzeba zweryfikować podczas konstruowania formalnego programu, a prace przygotowawcze do magisterium mogą zacząć się wcześniej. Wymaganą formalnie wybieralność trzeba zaprojektować w ramach wskazanych pul modułów albo przez warianty ścieżek, bez zwiększania łącznej liczby 100 ECTS.
+**Przyjęty bilans:** siatka obejmuje 64 ECTS rdzenia cyberbezpieczeństwa, 16 ECTS obowiązkowej praktyki zawodowej, 10 ECTS angielskiego specjalistycznego i 10 ECTS bloku dyplomowego. Praktyka została włączona do istniejących 100 ECTS. Wymaganą formalnie wybieralność trzeba nadal zaprojektować w ramach wskazanych pul modułów albo przez warianty ścieżek, bez zwiększania łącznej liczby 100 ECTS.
 
 ## 5. Co jeszcze wymaga decyzji
 

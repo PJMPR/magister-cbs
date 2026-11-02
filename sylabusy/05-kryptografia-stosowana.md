@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Kryptografia stosowana
-code: CYB05
+code: KS
 ects: 5
 semester: I
 status: obowiązkowy

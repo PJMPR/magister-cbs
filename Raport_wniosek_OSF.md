@@ -3,6 +3,8 @@
 ## Utworzenie studiów II stopnia o profilu praktycznym
 
 **Projekt roboczy:** Informatyka, specjalizacja Cyberbezpieczeństwo  
+**Tytuł zawodowy:** magister
+
 **Forma:** niestacjonarna  
 **Czas trwania:** 4 semestry  
 **Łączna liczba punktów:** 100 ECTS  
@@ -15,15 +17,24 @@
 
 Projekt ma już przygotowaną znaczną część warstwy merytorycznej: koncepcję programu, 100 ECTS, cztery semestry, profil praktyczny, katalog sylabusów, efekty kierunkowe, mapowanie modułów oraz mapowanie do PRK 7. Nie jest jednak jeszcze gotowy do wprowadzenia i zatwierdzenia w OSF.
 
-Przed rozpoczęciem finalnego wypełniania trzeba rozstrzygnąć pięć kwestii blokujących:
+Ustalono nazwę kierunku **Informatyka**, specjalizację **Cyberbezpieczeństwo**, tytuł zawodowy **magister** oraz obowiązkową praktykę zawodową: **16 ECTS, 400 godzin i minimum 3 miesiące**, realizowaną w semestrach II–IV. Do rozstrzygnięcia pozostają dwie kwestie blokujące:
 
-1. **Nazwa wnioskowanego kierunku:** czy wniosek dotyczy kierunku „Informatyka” ze specjalizacją Cyberbezpieczeństwo, czy odrębnego kierunku „Cyberbezpieczeństwo”. OSF rejestruje kierunek, poziom i profil, a nie samą specjalizację.
-2. **Tytuł zawodowy:** `magister` albo `magister inżynier`. Obecne efekty obejmują kompetencje inżynierskie, co przemawia za tytułem `magister inżynier`, ale wybór musi odpowiadać uchwalonemu programowi i formalnej koncepcji kierunku.
-3. **Praktyka zawodowa:** dla niestandaryzowanych studiów II stopnia o profilu praktycznym OSF wymaga co najmniej 3 miesięcy praktyk, liczby godzin oraz przypisanych ECTS. Praktyki nie są obecnie ujęte w siatce 100 ECTS.
-4. **Wybieralność:** trzeba zapewnić co najmniej 30 ECTS zajęć lub grup zajęć do wyboru. Obecna siatka nie pokazuje jeszcze jednoznacznie ścieżki wyboru o takim wymiarze.
-5. **Bilans zajęć praktycznych:** trzeba formalnie wskazać co najmniej 51 ECTS zajęć kształtujących umiejętności praktyczne. Sylabusy mają charakter praktyczny, lecz nie zawierają jeszcze zatwierdzonej klasyfikacji OSF i zbiorczego bilansu.
+1. **Wybieralność:** trzeba zapewnić co najmniej 30 ECTS zajęć lub grup zajęć do wyboru. Obecna siatka nie pokazuje jeszcze jednoznacznie ścieżki wyboru o takim wymiarze.
+2. **Bilans zajęć praktycznych:** trzeba formalnie wskazać więcej niż 50% całego programu jako zajęcia kształtujące umiejętności praktyczne. Przy 100 ECTS oznacza to minimum 51 ECTS. Sylabusy mają charakter praktyczny, lecz nie zawierają jeszcze zatwierdzonej klasyfikacji OSF i zbiorczego bilansu.
 
-Bez rozwiązania punktów 3 i 4 nie można zachować obecnej siatki 100 ECTS bez jej przebudowy: praktykom trzeba przydzielić ECTS wewnątrz istniejącej puli, a co najmniej 30 ECTS musi być rzeczywiście wybierane przez studenta.
+Praktykę włączono do istniejących 100 ECTS. Wymagało to zmniejszenia PRC i BS do 5 ECTS, TC do 4 ECTS oraz bloku dyplomowego do 10 ECTS. Zachowano 25 ECTS w każdym semestrze.
+
+### Odpowiedź prawna: ile ECTS trzeba przypisać praktykom
+
+Prawo **nie określa minimalnej liczby ECTS praktyk** dla niestandaryzowanych studiów II stopnia o profilu praktycznym. Określa natomiast:
+
+- minimalny czas praktyki: 3 miesiące;
+- obowiązek przypisania praktykom ECTS w programie;
+- zasadę, że 1 ECTS odpowiada 25–30 godzinom pracy studenta.
+
+Ministerialny model praktyk rekomenduje przyjęcie 60 dni praktyki i 480 godzin dydaktycznych, co według przyjętego w tym modelu przeliczenia daje **minimum 16 ECTS**. Jest to zalecenie organizacyjne, a nie ustawowe minimum. Dodatkowe przygotowanie dokumentacji i zaliczenia może zwiększyć tę wartość.
+
+W projekcie przyjęto **16 ECTS i 400 godzin pracy studenta**. Jest to zgodne z przyjętym w programie przelicznikiem 25 godzin na 1 ECTS. Praktykę włączono do 100 ECTS, dlatego wymagane minima pozostają bez zmian: co najmniej 30 ECTS do wyboru i co najmniej 51 ECTS zajęć praktycznych.
 
 ## 2. Co wynika z instrukcji OSF
 
@@ -58,9 +69,9 @@ Dla analizowanego projektu należy wybrać:
 | ECTS zajęć praktycznych dla profilu praktycznego | co najmniej 51% | **do policzenia; minimum 51 ECTS, zalecany bufor 55–60 ECTS** |
 | ECTS humanistyczne lub społeczne | co najmniej 5 | **prawdopodobnie spełnione, ale wymaga formalnego przypisania** |
 | ECTS do wyboru dla studiów niestandaryzowanych | co najmniej 30% | **niespełnione lub nieudokumentowane; potrzeba co najmniej 30 ECTS** |
-| Praktyka zawodowa, studia II stopnia, profil praktyczny | co najmniej 3 miesiące | **brak w siatce** |
-| Godziny praktyk | pole obowiązkowe | **do ustalenia** |
-| ECTS praktyk | pole obowiązkowe | **do ustalenia i włączenia do 100 ECTS** |
+| Praktyka zawodowa, studia II stopnia, profil praktyczny | co najmniej 3 miesiące | **spełnione projektowo: 3 miesiące** |
+| Godziny praktyk | pole obowiązkowe | **ustalone: 400 godzin** |
+| ECTS praktyk | pole obowiązkowe | **ustalone: 16 ECTS w ramach 100 ECTS** |
 | Bezpośredni udział prowadzących | ECTS nie większe niż 100 | **brak zbiorczego bilansu** |
 | Liczba zajęć w semestrze | minimum 5 poza ostatnim; minimum 1 w ostatnim | **do sprawdzenia po rozpisaniu każdej formy zajęć w OSF** |
 
@@ -116,12 +127,12 @@ Jeżeli wniosek podpisuje osoba inna niż rektor, trzeba dołączyć pełnomocni
 
 | Pole OSF | Propozycja dla projektu | Co trzeba zatwierdzić |
 |---|---|---|
-| Nazwa kierunku | `Informatyka` | potwierdzić, czy przedmiotem wniosku nie ma być odrębny kierunek `Cyberbezpieczeństwo` |
+| Nazwa kierunku | `Informatyka` | ustalone |
 | Specjalizacja | Cyberbezpieczeństwo | informacja do programu i opisu; nie zastępuje nazwy kierunku w OSF |
 | Dyscyplina wiodąca | informatyka techniczna i telekomunikacja | zatwierdzić uchwałą i sprawdzić zgodność wszystkich efektów |
 | Więcej niż jedna dyscyplina | rekomendacja robocza: nie | jeżeli tak, trzeba rozdzielić całe 100 ECTS, a dyscyplina wiodąca musi mieć ponad 50% |
 | Forma | niestacjonarna | gotowe |
-| Tytuł zawodowy | rekomendacja robocza: magister inżynier | decyzja blokująca; wymaga pełnego zestawu efektów inżynierskich |
+| Tytuł zawodowy | `magister` | ustalone; w OSF nie oznaczać zajęć jako prowadzących formalnie do tytułu magistra inżyniera |
 | ECTS | 100 | gotowe |
 | Liczba semestrów | 4 | gotowe |
 | Planowana data rozpoczęcia | `[DO USTALENIA]` | powiązać z harmonogramem uchwał, rekrutacją i terminem złożenia wniosku |
@@ -153,20 +164,20 @@ Docelowe wartości robocze:
 | ECTS praktyczne | co najmniej 51; rekomendowany projektowo bufor 55–60 |
 | ECTS humanistyczne/społeczne | co najmniej 5 |
 | ECTS do wyboru | co najmniej 30 |
-| Praktyki | co najmniej 3 miesiące; godziny i ECTS do zatwierdzenia |
+| Praktyki | 3 miesiące, 400 godzin, 16 ECTS |
 
-### 4.5. Proponowany sposób przebudowy programu
+### 4.5. Przyjęty sposób przebudowy programu
 
-Nie należy dopisywać praktyk ponad 100 ECTS. Trzeba przebudować istniejące pule. Zalecany model projektowy:
+Praktykę włączono do 100 ECTS. Przyjęty model projektowy:
 
-1. wyodrębnić obowiązkowy rdzeń;
-2. utworzyć co najmniej 30-ECTS pulę wyboru, z której student realizuje określoną liczbę modułów;
-3. włączyć praktykę zawodową do 100 ECTS;
-4. zachować 25 ECTS w każdym semestrze;
-5. zapewnić co najmniej 51 ECTS zajęć praktycznych w każdej dopuszczalnej ścieżce wyboru;
-6. zapewnić pełne pokrycie efektów kierunkowych niezależnie od wybranej ścieżki.
+1. praktyka PRA obejmuje 16 ECTS i 400 godzin;
+2. realizacja jest dzielona na 5 ECTS w semestrze II, 5 ECTS w semestrze III i 6 ECTS w semestrze IV;
+3. zachowano 25 ECTS w każdym semestrze;
+4. PRC i BS mają po 5 ECTS, TC ma 4 ECTS, a blok dyplomowy SPM 10 ECTS;
+5. trzeba jeszcze utworzyć co najmniej 30-ECTS pulę wyboru;
+6. trzeba potwierdzić co najmniej 51 ECTS zajęć praktycznych w każdej dopuszczalnej ścieżce wyboru.
 
-Do rozważenia jest wykorzystanie CYB12, CYB13 i CYB14 jako wariantów ścieżki końcowej, ale sama możliwość wyboru jednego modułu o wartości 15 ECTS nie daje wymaganych 30 ECTS. Potrzebna jest dodatkowa pula wyboru albo podział istniejących modułów na obowiązkowe i alternatywne bloki.
+Do rozważenia jest wykorzystanie SPC, PZC i PBC jako wariantów ścieżki końcowej, ale sama możliwość wyboru jednego modułu o wartości 15 ECTS nie daje wymaganych 30 ECTS. Potrzebna jest dodatkowa pula wyboru albo podział istniejących modułów na obowiązkowe i alternatywne bloki.
 
 ### 4.6. Koncepcja kształcenia — treść pól do przygotowania
 
@@ -247,7 +258,7 @@ Obecne sylabusy są dobrym źródłem treści, efektów i nakładu pracy, ale pr
 | ECTS | pełna wartość przy formie głównej, `0` przy formach dodatkowych |
 | Godziny kontaktowe | zgodnie z zatwierdzonym harmonogramem |
 | Do wyboru | tak/nie zgodnie z finalną ścieżką |
-| Kompetencje inżynierskie | zaznaczyć, jeżeli wybrano tytuł magister inżynier i zajęcia je realizują |
+| Kompetencje inżynierskie | pole właściwe dla tytułu magistra inżyniera nie będzie miało zastosowania; techniczny i projektowy charakter zajęć pozostaje elementem programu |
 
 Każda pozycja musi mieć przypisanego prowadzącego. Najpierw należy wprowadzić zajęcia, następnie osoby i ich przydziały.
 
@@ -321,16 +332,16 @@ Zalecana konwencja nazw: `01_Akt_rektora.pdf`, `02_Uchwala_senatu_program.pdf`, 
 | Element wniosku | Ocena | Dostępny materiał | Brakujące działanie |
 |---|---|---|---|
 | Poziom, forma, profil, semestry, ECTS | zielony | README i strona programu | formalne zatwierdzenie |
-| Sylabusy | żółty | 16 plików modułowych | rozpisać godziny kontaktowe i formy OSF |
+| Sylabusy | żółty | 17 plików modułowych | rozpisać godziny kontaktowe i formy OSF |
 | Efekty kierunkowe | żółty | 26 efektów i matryca modułowa | zatwierdzić i domknąć pełną macierz weryfikacji |
 | PRK 7 | żółty | pełne robocze mapowanie | kontrola prawna i zatwierdzenie dla profilu praktycznego |
-| Angielski B2+ | zielony | CYB15 i CYB16 | zatwierdzić sposób końcowej weryfikacji |
+| Angielski B2+ | zielony | ASC1 i ASC2 | zatwierdzić sposób końcowej weryfikacji |
+| Nazwa i tytuł | zielony | Informatyka, specjalizacja Cyberbezpieczeństwo; magister | zachować identyczne brzmienie w dokumentacji |
 | Dyscypliny | czerwony | brak uchwalonego podziału | ustalić jedną lub kilka dyscyplin i ECTS |
-| Tytuł zawodowy | czerwony | efekty inżynierskie są ujęte | wybrać magistra albo magistra inżyniera |
 | 51% ECTS praktycznych | czerwony | treści praktyczne istnieją | sklasyfikować i policzyć każdą ścieżkę |
 | 30% ECTS do wyboru | czerwony | istnieją alternatywne moduły | zaprojektować minimum 30 ECTS realnego wyboru |
-| Praktyki zawodowe | czerwony | brak | dodać minimum 3 miesiące, godziny, ECTS, efekty i sylabus |
-| Nauki humanistyczne/społeczne | żółty | CYB03 i CYB04 | przypisać i wykazać minimum 5 ECTS |
+| Praktyki zawodowe | żółty | PRA: 3 miesiące, 400 godzin, 16 ECTS, efekty i sylabus | zatwierdzić organizację, miejsca, opiekunów i dokumentację praktyk |
+| Nauki humanistyczne/społeczne | żółty | PZB i PRC | przypisać i wykazać minimum 5 ECTS |
 | Harmonogram godzinowy | czerwony | siatka ECTS | ustalić formy i godziny wszystkich zajęć |
 | Kadra | czerwony | brak danych | zebrać dane i deklaracje, przypisać zajęcia |
 | Infrastruktura | czerwony | brak zinwentaryzowanych dowodów | opis, audyt i dokumenty dysponowania |
@@ -343,12 +354,11 @@ Zalecana konwencja nazw: `01_Akt_rektora.pdf`, `02_Uchwala_senatu_program.pdf`, 
 
 ### Etap 1 — decyzje programowe
 
-1. zatwierdzić nazwę kierunku;
-2. zatwierdzić tytuł zawodowy;
-3. zatwierdzić dyscyplinę lub dyscypliny;
-4. zbudować pulę minimum 30 ECTS do wyboru;
-5. włączyć praktykę minimum 3-miesięczną do 100 ECTS;
-6. zatwierdzić model bloku dyplomowego.
+1. zatwierdzić dyscyplinę lub dyscypliny;
+2. zbudować pulę wyboru obejmującą minimum 30 ECTS;
+3. potwierdzić minimum 51 ECTS zajęć praktycznych;
+4. zatwierdzić organizację praktyki i porozumienia z pracodawcami;
+5. zatwierdzić model bloku dyplomowego.
 
 ### Etap 2 — bilanse
 
@@ -363,7 +373,7 @@ Zalecana konwencja nazw: `01_Akt_rektora.pdf`, `02_Uchwala_senatu_program.pdf`, 
 ### Etap 3 — dokumentacja merytoryczna
 
 1. zaktualizować sylabusy i matryce;
-2. dodać sylabus praktyk;
+2. zatwierdzić sylabus i dokumentację praktyk;
 3. przygotować opis dyplomowania;
 4. przygotować cztery pola koncepcji kształcenia;
 5. przygotować opis systemu jakości;
@@ -432,4 +442,5 @@ Samo uzyskanie statusu „kompletny” w OSF nie potwierdza zgodności prawnej a
 5. [PKA — procedura opiniowania wniosków](https://pka.edu.pl/standardy-i-procedury/procedury/opiniowanie-wnioskow/).
 6. [PKA — szczegółowe kryteria opiniowania wniosków](https://pka.edu.pl/wp-content/uploads/2025/09/Statut-PKA-obowiazujacy-od-dnia-24.04.2025-55-64.pdf).
 7. [Prawo o szkolnictwie wyższym i nauce — tekst dostępny w ELI](https://eli.gov.pl/api/acts/DU/2024/1571/text.html).
+8. [MNiSW — modelowy program praktyk zawodowych](https://www.gov.pl/attachment/9fa99cab-f5a8-490f-9db0-3b0e5980f61b) — rekomendacja 480 godzin dydaktycznych i minimum 16 ECTS dla trzymiesięcznej praktyki na studiach II stopnia; dokument rekomendacyjny, nie ustawowe minimum ECTS.
 

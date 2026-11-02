@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Badawczy projekt cyberbezpieczeństwa
-code: CYB14
+code: PBC
 ects: 30
 semester: III–IV
 status: końcowy

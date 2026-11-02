@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Inżynieria bezpiecznego oprogramowania
-code: CYB06
+code: IBO
 ects: 10
 semester: II
 status: obowiązkowy
