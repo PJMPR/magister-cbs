@@ -18,12 +18,12 @@ body_class: osf-page
       <div class="console-head"><span>APPLICATION.READINESS</span><i>OSF / PKA</i></div>
       <div class="osf-score"><strong>2</strong><span>blokady<br>krytyczne</span></div>
       <div class="osf-console-grid">
-        <div><b>100</b><span>ECTS / gotowe</span></div>
-        <div><b>4</b><span>semestry / gotowe</span></div>
         <div><b>51+</b><span>ECTS praktyczne</span></div>
         <div><b>30+</b><span>ECTS do wyboru</span></div>
-        <div><b>3+</b><span>miesiące praktyk</span></div>
-        <div><b>17</b><span>sylabusów</span></div>
+        <div><b>?</b><span>podział dyscyplin</span></div>
+        <div><b>?</b><span>godziny i formy zajęć</span></div>
+        <div><b>?</b><span>obsada kadrowa</span></div>
+        <div><b>?</b><span>infrastruktura</span></div>
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ body_class: osf-page
   <div class="shell">
     <div class="section-heading">
       <div><span class="eyebrow red">01 / BLOKADY</span><h2>Decyzje potrzebne przed przebudową siatki</h2></div>
-      <p>Ustalono także praktykę: 16 ECTS, 400 godzin i minimum 3 miesiące w semestrach II–IV. Pozostają dwa problemy programowe.</p>
+      <p>Pozostają dwa problemy programowe wymagające decyzji i przeliczenia każdej dopuszczalnej ścieżki studenta.</p>
     </div>
     <div class="issue-grid">
       <article><span>01</span><h3>Wybieralność</h3><p>Każdy student musi mieć co najmniej 30 ECTS rzeczywistego wyboru. Obecne alternatywy nie tworzą jeszcze kompletnej puli.</p><b>MINIMUM 30 ECTS</b></article>
@@ -47,15 +47,13 @@ body_class: osf-page
 <section class="osf-section dark">
   <div class="shell">
     <div class="section-heading light">
-      <div><span class="eyebrow red">02 / WALIDACJE OSF</span><h2>Wartości, które musi udźwignąć finalny program</h2></div>
+      <div><span class="eyebrow red">02 / WALIDACJE OSF</span><h2>Progi, które nadal trzeba potwierdzić</h2></div>
       <p>Wymagania trzeba sprawdzić dla każdej możliwej ścieżki studenta, a nie wyłącznie dla wariantu domyślnego.</p>
     </div>
     <div class="requirement-grid">
-      <article><strong>100</strong><span>ECTS ogółem</span><small>25 w każdym semestrze</small></article>
       <article><strong>≥51</strong><span>ECTS praktyczne</span><small>zalecany bufor 55–60</small></article>
       <article><strong>≥30</strong><span>ECTS do wyboru</span><small>rzeczywisty wybór studenta</small></article>
       <article><strong>≥5</strong><span>ECTS społeczne / humanistyczne</span><small>formalnie przypisane</small></article>
-      <article><strong>16</strong><span>ECTS praktyki</span><small>400 godzin / minimum 3 miesiące</small></article>
       <article><strong>5+</strong><span>zajęć w semestrze</span><small>poza ostatnim semestrem</small></article>
     </div>
   </div>
@@ -65,12 +63,11 @@ body_class: osf-page
   <div class="shell osf-two-column">
     <div>
       <span class="eyebrow red">03 / MACIERZ GOTOWOŚCI</span>
-      <h2>Co już mamy, a czego jeszcze brakuje</h2>
-      <p class="section-lead">Kolor statusu opisuje gotowość materiału do wykorzystania we wniosku, nie ogólną jakość opracowanej koncepcji.</p>
+      <h2>Co pozostaje do wykonania</h2>
+      <p class="section-lead">Lista obejmuje wyłącznie otwarte prace potrzebne do przygotowania kompletnego wniosku.</p>
     </div>
     <div class="readiness-list">
-      <article><i class="ready"></i><div><strong>Ustalone</strong><p>Informatyka, specjalizacja Cyberbezpieczeństwo, tytuł magister, profil praktyczny, 100 ECTS, praktyka 16 ECTS oraz angielski B2+.</p></div></article>
-      <article><i class="warning"></i><div><strong>Do formalnego domknięcia</strong><p>Mapowanie efektów, nauki społeczne lub humanistyczne, sposób weryfikacji B2+ i rozpisanie form zajęć.</p></div></article>
+      <article><i class="warning"></i><div><strong>Do formalnego domknięcia</strong><p>Mapowanie efektów, przypisanie nauk społecznych lub humanistycznych oraz rozpisanie form i godzin zajęć.</p></div></article>
       <article><i class="blocked"></i><div><strong>Do zaprojektowania</strong><p>Minimum 30 ECTS wyboru, bilans praktyczny, dyscypliny, szczegółowy harmonogram godzinowy i organizacja bloku dyplomowego.</p></div></article>
       <article><i class="blocked"></i><div><strong>Do zebrania od uczelni</strong><p>Kadra, infrastruktura, strategia, system jakości, dane POL-on, uchwały, opinie oraz porozumienia z pracodawcami.</p></div></article>
     </div>
@@ -86,7 +83,7 @@ body_class: osf-page
     <ol class="osf-workflow">
       <li><span>01</span><div><strong>Decyzje programowe</strong><p>Dyscypliny, wybieralność, bilans praktyczny i blok dyplomowy.</p></div></li>
       <li><span>02</span><div><strong>Bilanse</strong><p>Godziny, ECTS kontaktowe, praktyczne, wybieralne i społeczne.</p></div></li>
-      <li><span>03</span><div><strong>Dokumentacja</strong><p>Zatwierdzenie sylabusa praktyk, zaktualizowane matryce, dyplomowanie i jakość.</p></div></li>
+      <li><span>03</span><div><strong>Dokumentacja</strong><p>Finalne matryce, opis dyplomowania oraz system zapewniania jakości.</p></div></li>
       <li><span>04</span><div><strong>Zdolność realizacyjna</strong><p>Kadra, laboratoria, licencje, biblioteka i miejsca praktyk.</p></div></li>
       <li><span>05</span><div><strong>Ścieżka uczelniana</strong><p>Konsultacje, samorząd studencki, senat, rektor i oświadczenia.</p></div></li>
       <li><span>06</span><div><strong>OSF i wysyłka</strong><p>Wprowadzenie danych, kontrola, podpis rektora i e-Doręczenia.</p></div></li>
