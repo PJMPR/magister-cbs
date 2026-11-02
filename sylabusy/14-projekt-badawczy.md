@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Badawczy projekt cyberbezpieczeństwa
-code: COMP47830
+code: CYB14
 ects: 30
 semester: III–IV
 status: końcowy
@@ -14,10 +14,8 @@ order: 14
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Cybersecurity Research Project |
-| Moduł źródłowy UCD | COMP47830 |
 | Punkty ECTS | 30 |
-| Status | końcowa alternatywa badawcza w wariancie UCD |
+| Status | końcowa alternatywa badawcza |
 | Zalecany okres | rok II, semestry III–IV |
 | Język | polski |
 
@@ -88,8 +86,6 @@ Rozprawa jest składnikiem obowiązkowym i wymaga co najmniej 50%; ponadto stude
 - ACM, *Code of Ethics and Professional Conduct* oraz wytyczne artefaktów badawczych.
 - Wytyczne uczelni dotyczące etyki badań, danych i prac dyplomowych.
 - Literatura specjalistyczna właściwa dla pytania badawczego.
-- [Oficjalna karta modułu COMP47830 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47830&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Struktura oceny 30/50/20 odzwierciedla UCD; rozprawa jest składnikiem obowiązkowym. Moduł jest alternatywą wobec projektu zawodowego i wariantu ze studium przypadku.
+Struktura oceny wynosi 30/50/20; rozprawa jest składnikiem obowiązkowym. Moduł jest alternatywą wobec projektu zawodowego i wariantu ze studium przypadku.

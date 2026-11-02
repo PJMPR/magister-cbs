@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Reagowanie na incydenty
-code: COMP47870
+code: CYB07
 ects: 5
 semester: III
 status: obowiązkowy
@@ -14,8 +14,6 @@ order: 7
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Incident Response |
-| Moduł źródłowy UCD | COMP47870 |
 | Punkty ECTS | 5 |
 | Status | obowiązkowy |
 | Zalecany semestr | III |
@@ -84,8 +82,6 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie i udział w ćwiczeniu. Dane
 - NIST SP 800-61 Rev. 2, *Computer Security Incident Handling Guide* (oraz dokument następcy, gdy obowiązuje).
 - ENISA, aktualne materiały dotyczące CSIRT i zarządzania incydentami.
 - FIRST, *CSIRT Services Framework*.
-- [Oficjalna karta modułu COMP47870 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47870&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Karta UCD przewiduje egzamin, quiz i dziennik zawierający badanie zagrożeń oraz raport dochodzeniowy. Adaptacja wzmacnia praktyczne ćwiczenie zespołowe.
+Egzamin, quiz i dziennik analityczny uzupełnia praktyczne ćwiczenie zespołowe.

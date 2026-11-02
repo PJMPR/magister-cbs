@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Prawo i regulacje cyberbezpieczeństwa
-code: LAW42160
+code: CYB04
 ects: 10
 semester: II
 status: obowiązkowy
@@ -14,8 +14,6 @@ order: 4
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Cybersecurity Law and Regulation |
-| Moduł źródłowy UCD | LAW42160 |
 | Punkty ECTS | 10 |
 | Status | obowiązkowy |
 | Zalecany semestr | II |
@@ -86,8 +84,6 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie oraz oddanie obu prac. Stan 
 - Dyrektywa (UE) 2022/2555 (NIS2) oraz aktualna polska ustawa o krajowym systemie cyberbezpieczeństwa.
 - Rozporządzenie (UE) 2022/2554 (DORA).
 - Rozporządzenie (UE) 2024/2847 (Cyber Resilience Act).
-- [Oficjalna karta modułu LAW42160 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=LAW42160&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Moduł UCD stanowi inspirację zakresu. Prawo irlandzkie zastąpiono polskim i unijnym kontekstem; sylabus wymaga corocznej aktualizacji przez osobę posiadającą kompetencje prawne.
+Zakres koncentruje się na prawie polskim i unijnym; sylabus wymaga corocznej aktualizacji przez osobę posiadającą kompetencje prawne.

@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Bezpieczeństwo sieci
-code: COMP47880
+code: CYB08
 ects: 10
 semester: III
 status: obowiązkowy
@@ -14,8 +14,6 @@ order: 8
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Network Security |
-| Moduł źródłowy UCD | COMP47880 |
 | Punkty ECTS | 10 |
 | Status | obowiązkowy |
 | Zalecany semestr | III |
@@ -86,8 +84,6 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie oraz oddanie projektu. Aktyw
 - NIST SP 800-207, *Zero Trust Architecture*.
 - NIST SP 800-41 Rev. 1, *Guidelines on Firewalls and Firewall Policy*.
 - Dokumentacja Wireshark, Suricata/Snort i użytych platform sieciowych.
-- [Oficjalna karta modułu COMP47880 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47880&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-UCD łączy referat, egzamin i dwa zadania grupowe dotyczące wykrywania ataków. Polski wariant scala prace grupowe w spójny projekt i przyjmuje 250 godzin.
+Referat i egzamin uzupełnia spójny projekt grupowy dotyczący wykrywania ataków. Łączny nakład wynosi 250 godzin.

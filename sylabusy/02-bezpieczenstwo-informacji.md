@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Bezpieczeństwo informacji
-code: COMP47920
+code: CYB02
 ects: 10
 semester: I
 status: obowiązkowy
@@ -14,8 +14,6 @@ order: 2
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Information Security |
-| Moduł źródłowy UCD | COMP47920 |
 | Punkty ECTS | 10 |
 | Status | obowiązkowy |
 | Zalecany semestr | I |
@@ -86,8 +84,6 @@ Warunkiem zaliczenia jest uzyskanie co najmniej 50% łącznie i oddanie projektu
 - William Stallings, Lawrie Brown, *Computer Security: Principles and Practice*, aktualne wydanie.
 - NIST SP 800-53 Rev. 5, *Security and Privacy Controls for Information Systems and Organizations*.
 - OWASP, *Application Security Verification Standard*, aktualna wersja.
-- [Oficjalna karta modułu COMP47920 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47920&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-UCD przewiduje wykłady, warsztaty, portfolio refleksji i egzamin. Polski wariant dodaje wyodrębniony projekt i dostosowuje nakład do 10 ECTS = 250 godzin.
+Program łączy wykłady, warsztaty, portfolio refleksji, projekt i egzamin; nakład odpowiada 10 ECTS, czyli 250 godzinom pracy studenta.

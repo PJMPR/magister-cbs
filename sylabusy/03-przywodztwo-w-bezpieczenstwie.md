@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Przywództwo i zarządzanie bezpieczeństwem
-code: COMP47800
+code: CYB03
 ects: 5
 semester: I
 status: obowiązkowy
@@ -14,8 +14,6 @@ order: 3
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Leadership in Security |
-| Moduł źródłowy UCD | COMP47800 |
 | Punkty ECTS | 5 |
 | Status | obowiązkowy |
 | Zalecany semestr | I |
@@ -85,8 +83,6 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie i udział w prezentacji zesp
 - NIST, *Cybersecurity Framework 2.0*.
 - ISO/IEC 27014, *Governance of information security*, aktualne wydanie.
 - ISACA, *COBIT 2019 Framework: Governance and Management Objectives*.
-- [Oficjalna karta modułu COMP47800 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47800&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Treści zachowują organizacyjno-zarządczy profil modułu UCD. Szczegółowe godziny i ocena są propozycją polskiego programu.
+Moduł ma profil organizacyjno-zarządczy. Szczegółowe godziny i zasady oceniania są propozycją polskiego programu.

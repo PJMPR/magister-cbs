@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Analiza złośliwego oprogramowania
-code: COMP47810
+code: CYB09
 ects: 5
 semester: III
 status: wybieralny
@@ -14,8 +14,6 @@ order: 9
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Malware Analysis |
-| Moduł źródłowy UCD | COMP47810 |
 | Punkty ECTS | 5 |
 | Status | wybieralny |
 | Zalecany semestr | III |
@@ -85,8 +83,6 @@ Oba składniki muszą być zaliczone na co najmniej 50%. Zabronione jest wynosze
 - Bruce Dang i in., *Practical Reverse Engineering*.
 - MITRE ATT&CK, aktualna baza technik.
 - Dokumentacja narzędzi używanych w laboratorium.
-- [Oficjalna karta modułu COMP47810 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47810&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Projekt i quiz zachowują proporcje 60/40 z UCD. Próbki mogą zostać zastąpione nieszkodliwymi symulatorami, jeśli infrastruktura nie gwarantuje pełnej izolacji.
+Projekt i quiz mają proporcje 60/40. Próbki mogą zostać zastąpione nieszkodliwymi symulatorami, jeśli infrastruktura nie gwarantuje pełnej izolacji.

@@ -8,9 +8,9 @@ body_class: course-page
 
 # Wakacyjny kurs przygotowawczy do studiów II stopnia – Informatyka, specjalizacja Cyberbezpieczeństwo
 
-> **Status dokumentu:** projekt programu kursu wyrównawczego dla uczelni w Polsce; materiał do opracowania sylabusów i zasobów wiedzy, nie oficjalna oferta University College Dublin (UCD).
+> **Status dokumentu:** projekt programu kursu wyrównawczego dla uczelni w Polsce; materiał do opracowania sylabusów i zasobów wiedzy.
 >
-> **Cel:** umożliwić absolwentom różnych kierunków rozpoczęcie czterosemestralnych, niestacjonarnych studiów II stopnia (90 ECTS) z cyberbezpieczeństwa na wspólnym, odpowiednio wysokim poziomie. Inspiracją dla *głównego programu magisterskiego* jest MSc Cybersecurity UCD. Poniższy kurs jest **naszym dodatkiem przygotowawczym**, nie modułem skopiowanym z UCD.
+> **Cel:** umożliwić absolwentom różnych kierunków rozpoczęcie czterosemestralnych, niestacjonarnych studiów II stopnia (90 ECTS) z cyberbezpieczeństwa na wspólnym, odpowiednio wysokim poziomie. Kurs jest odrębną ścieżką przygotowawczą i nie stanowi części programu magisterskiego.
 
 ## 1. Założenia organizacyjne
 
@@ -57,7 +57,7 @@ body_class: course-page
 | W05 | Infrastruktura IT, Git i kontenery | 20 h | 6 h | Uruchomienie i dokumentacja lokalnego środowiska |
 | **Razem** | | **120 h** | **35 h** | |
 
-Nakład godzinowy to **propozycja** do pilotażu; nie są to godziny ani ECTS zaczerpnięte z programu UCD. Uczestnik z zaliczonymi obszarami realizuje jedynie brakującą część.
+Nakład godzinowy to **propozycja** do pilotażu. Uczestnik z zaliczonymi obszarami realizuje jedynie brakującą część.
 
 ## 4. Szczegółowy program modułów
 

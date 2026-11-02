@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Inżynieria bezpiecznego oprogramowania
-code: COMP47910
+code: CYB06
 ects: 10
 semester: II
 status: obowiązkowy
@@ -14,8 +14,6 @@ order: 6
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Secure Software Engineering |
-| Moduł źródłowy UCD | COMP47910 |
 | Punkty ECTS | 10 |
 | Status | obowiązkowy |
 | Zalecany semestr | II |
@@ -86,8 +84,6 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie i oddanie każdego etapu. Te
 - Adam Shostack, *Threat Modeling: Designing for Security*.
 - NIST SP 800-218, *Secure Software Development Framework (SSDF)*.
 - SEI CERT, standardy bezpiecznego programowania dla używanego języka.
-- [Oficjalna karta modułu COMP47910 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47910&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Struktura trzech etapów projektu odpowiada karcie UCD: funkcjonalność aplikacji Spring Boot, ocena podatności i ich usunięcie. Godziny dostosowano do 250.
+Projekt obejmuje trzy etapy: rozwój funkcjonalności aplikacji, ocenę podatności i ich usunięcie. Łączny nakład wynosi 250 godzin.

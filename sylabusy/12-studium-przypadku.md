@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Studium przypadku z cyberbezpieczeństwa
-code: COMP47840
+code: CYB12
 ects: 15
 semester: IV
 status: końcowy
@@ -14,10 +14,8 @@ order: 12
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Cybersecurity Case Study |
-| Moduł źródłowy UCD | COMP47840 |
 | Punkty ECTS | 15 |
-| Status | końcowy moduł do wyboru w wariancie UCD |
+| Status | końcowy moduł do wyboru |
 | Zalecany semestr | IV |
 | Język | polski |
 
@@ -86,8 +84,6 @@ Warunkiem zaliczenia jest uzyskanie co najmniej 50% z raportu oraz 50% łącznie
 - Robert K. Yin, *Case Study Research and Applications*, aktualne wydanie.
 - Literatura specjalistyczna dobrana do tematu.
 - Wytyczne uczelni dotyczące etyki, ochrony danych i prac dyplomowych.
-- [Oficjalna karta modułu COMP47840 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47840&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-UCD ocenia raport końcowy jako 100% modułu. Adaptacja wprowadza oceniane kamienie milowe, zachowując dominującą wagę raportu. Moduł nie występuje równocześnie z projektem 30 ECTS.
+Oceniane kamienie milowe wspierają realizację pracy, a raport zachowuje dominującą wagę. Moduł nie występuje równocześnie z projektem 30 ECTS.

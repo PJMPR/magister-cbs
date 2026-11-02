@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Etyczny hacking
-code: COMP47860
+code: CYB11
 ects: 5
 semester: III
 status: wybieralny
@@ -14,8 +14,6 @@ order: 11
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Ethical Hacking |
-| Moduł źródłowy UCD | COMP47860 |
 | Punkty ECTS | 5 |
 | Status | wybieralny |
 | Zalecany semestr | III |
@@ -86,8 +84,6 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie i brak naruszenia regulaminu
 - PTES, *Penetration Testing Execution Standard*.
 - NIST SP 800-115, *Technical Guide to Information Security Testing and Assessment*.
 - Georgia Weidman, *Penetration Testing: A Hands-On Introduction to Hacking*.
-- [Oficjalna karta modułu COMP47860 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47860&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Proporcje oceny rozwijają model UCD oparty na dwóch zadaniach i dwóch quizach. Wszystkie działania ofensywne ograniczono do kontrolowanego laboratorium.
+Ocena opiera się na dwóch zadaniach i dwóch quizach. Wszystkie działania ofensywne ograniczono do kontrolowanego laboratorium.

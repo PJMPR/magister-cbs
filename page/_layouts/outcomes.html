@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<div class="subnav">
+  <div class="shell breadcrumbs"><a href="{{ '/' | relative_url }}">Panel</a><span>/</span><a href="{{ '/efekty-uczenia/' | relative_url }}">Efekty uczenia się</a>{% if page.document_type == 'prk' %}<span>/</span><strong>PRK 7</strong>{% endif %}</div>
+</div>
+
+<section class="outcomes-hero">
+  <div class="shell outcomes-hero-grid">
+    <div>
+      <span class="eyebrow red">{{ page.kicker }}</span>
+      <h1>{{ page.title }}</h1>
+      <p>{{ page.description }}</p>
+      <div class="outcome-switch">
+        <a href="{{ '/efekty-uczenia/' | relative_url }}" {% if page.document_type == 'effects' %}class="active" aria-current="page"{% endif %}>Efekty kierunkowe</a>
+        <a href="{{ '/mapowanie-prk/' | relative_url }}" {% if page.document_type == 'prk' %}class="active" aria-current="page"{% endif %}>Matryca PRK</a>
+      </div>
+    </div>
+    <div class="outcome-gauge">
+      <span>PROGRAM_OUTCOMES</span>
+      <strong>{{ page.metric }}</strong>
+      <small>{{ page.metric_label }}</small>
+      <div class="gauge-line"><i></i></div>
+      <div class="gauge-status"><span><b></b> ZWERYFIKOWANO</span><span>PRK / LEVEL_7</span></div>
+    </div>
+  </div>
+</section>
+
+{% if page.document_type == 'effects' %}
+<section class="outcome-summary">
+  <div class="shell outcome-summary-grid">
+    <div><strong>7</strong><span>Wiedza</span><small>K_W01–K_W07</small></div>
+    <div><strong>12</strong><span>Umiejętności</span><small>K_U01–K_U12</small></div>
+    <div><strong>7</strong><span>Kompetencje społeczne</span><small>K_K01–K_K07</small></div>
+  </div>
+</section>
+{% else %}
+<section class="outcome-summary prk-summary">
+  <div class="shell outcome-summary-grid">
+    <div><strong>9</strong><span>Składników PRK</span><small>P7S_WG–P7S_KR</small></div>
+    <div><strong>3</strong><span>Kategorie</span><small>W / U / K</small></div>
+    <div><strong>+</strong><span>Kompetencje inżynierskie</span><small>część III załącznika</small></div>
+  </div>
+</section>
+{% endif %}
+
+<div class="shell syllabus-grid outcomes-layout">
+  <aside class="toc-panel">
+    <span class="eyebrow">NA TEJ STRONIE</span>
+    <nav data-toc></nav>
+    {% if page.document_type == 'effects' %}
+    <a class="matrix-shortcut" href="{{ '/mapowanie-prk/' | relative_url }}"><span>PEŁNA MATRYCA</span><strong>Zobacz mapowanie PRK 7</strong>{% include icon.html name='arrow' %}</a>
+    {% else %}
+    <a class="matrix-shortcut" href="{{ '/efekty-uczenia/' | relative_url }}"><span>DOKUMENT BAZOWY</span><strong>Zobacz efekty kierunkowe</strong>{% include icon.html name='arrow' %}</a>
+    {% endif %}
+  </aside>
+  <article class="syllabus-content prose outcomes-content" data-prose>{{ content }}</article>
+</div>
+

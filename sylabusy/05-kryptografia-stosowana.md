@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Kryptografia stosowana
-code: COMP47890
+code: CYB05
 ects: 5
 semester: I
 status: obowiązkowy
@@ -14,8 +14,6 @@ order: 5
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Applied Cryptography |
-| Moduł źródłowy UCD | COMP47890 |
 | Punkty ECTS | 5 |
 | Status | obowiązkowy |
 | Zalecany semestr | I |
@@ -85,8 +83,6 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie. Rozwiązania muszą wykorzy
 - David Wong, *Real-World Cryptography*.
 - NIST, *Cryptographic Standards and Guidelines*, aktualne publikacje.
 - OWASP, *Cryptographic Storage Cheat Sheet*.
-- [Oficjalna karta modułu COMP47890 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47890&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-UCD stosuje cotygodniowe quizy. W polskiej adaptacji dodano oceniane zadanie praktyczne i zwiększono nakład do 125 godzin zgodnie z przyjętym przelicznikiem ECTS.
+Cotygodniowe quizy uzupełnia oceniane zadanie praktyczne; łączny nakład wynosi 125 godzin zgodnie z przyjętym przelicznikiem ECTS.

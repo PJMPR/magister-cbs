@@ -29,6 +29,7 @@
           <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Panel</a>
           <a href="{{ '/program/' | relative_url }}" {% if page.url == '/program/' %}aria-current="page"{% endif %}>Założenia programu</a>
           <a href="{{ '/kurs-przygotowawczy/' | relative_url }}" {% if page.url == '/kurs-przygotowawczy/' %}aria-current="page"{% endif %}>Kurs przygotowawczy</a>
+          <a href="{{ '/efekty-uczenia/' | relative_url }}" {% if page.url == '/efekty-uczenia/' or page.url == '/mapowanie-prk/' %}aria-current="page"{% endif %}>Efekty i PRK</a>
           <a href="{{ '/#modules' | relative_url }}">Sylabusy</a>
         </nav>
         <span class="system-status"><i></i> dokument roboczy</span>
@@ -39,7 +40,7 @@
       <div class="shell footer-grid">
         <div><strong>CYBER/MSC</strong><p>Roboczy panel projektowania specjalizacji Cyberbezpieczeństwo.</p></div>
         <div><span class="eyebrow">STATUS</span><p>Materiały do dyskusji i formalnej walidacji.</p></div>
-        <div><span class="eyebrow">ŹRÓDŁO</span><p>Adaptacja programu MSc Cybersecurity University College Dublin.</p></div>
+        <div><span class="eyebrow">ZAKRES</span><p>Polski projekt studiów magisterskich z cyberbezpieczeństwa.</p></div>
       </div>
     </footer>
     <script src="{{ '/page/assets/js/main.js' | relative_url }}" defer></script>

@@ -7,6 +7,8 @@ on:
       - "page/**"
       - "sylabusy/**"
       - "Kurs_przygotowawczy.md"
+      - "Efekty_kierunkowe.md"
+      - "Mapowanie_PRK.md"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 

@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Trendy w cyberbezpieczeństwie
-code: COMP47850
+code: CYB10
 ects: 5
 semester: IV
 status: wybieralny
@@ -14,8 +14,6 @@ order: 10
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Trends in Cybersecurity |
-| Moduł źródłowy UCD | COMP47850 |
 | Punkty ECTS | 5 |
 | Status | wybieralny |
 | Zalecany semestr | IV |
@@ -83,8 +81,6 @@ Warunkiem zaliczenia jest co najmniej 50% łącznie. Źródła i dane użyte z p
 - Artykuły z recenzowanych czasopism i konferencji wybrane dla bieżącej edycji.
 - ENISA, *Threat Landscape*, najnowsze dostępne wydanie.
 - NIST, ENISA i CISA — aktualne raporty tematyczne.
-- [Oficjalna karta modułu COMP47850 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47850&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Lista tematów jest przykładowa i musi być aktualizowana corocznie. UCD ocenia prezentację i esej po 50%; w adaptacji większy ciężar otrzymuje pogłębiona praca pisemna.
+Lista tematów jest przykładowa i musi być aktualizowana corocznie. Większy ciężar oceny otrzymuje pogłębiona praca pisemna.

@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Zawodowy projekt cyberbezpieczeństwa
-code: COMP47820
+code: CYB13
 ects: 30
 semester: III–IV
 status: końcowy
@@ -14,10 +14,8 @@ order: 13
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Cybersecurity Professional Project |
-| Moduł źródłowy UCD | COMP47820 |
 | Punkty ECTS | 30 |
-| Status | końcowa alternatywa projektowa w wariancie UCD |
+| Status | końcowa alternatywa projektowa |
 | Zalecany okres | rok II, semestry III–IV |
 | Język | polski |
 
@@ -87,8 +85,6 @@ Warunkiem zaliczenia jest co najmniej 50% z raportu i 50% łącznie. Publiczne u
 - Project Management Institute, *PMBOK Guide*, aktualne wydanie lub równoważna metodyka.
 - NIST SP 800-160 Vol. 1, *Engineering Trustworthy Secure Systems*.
 - Literatura i dokumentacja techniczna właściwa dla tematu.
-- [Oficjalna karta modułu COMP47820 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47820&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Zgodnie z UCD projekt obejmuje artefakt, raport i obronę w proporcji 30/50/20 oraz opiekę akademicką i praktyczną. Jest alternatywą dla innych końcowych modułów, a nie dodatkowymi 30 ECTS.
+Projekt obejmuje artefakt, raport i obronę w proporcji 30/50/20 oraz opiekę akademicką i praktyczną. Jest alternatywą dla innych końcowych modułów, a nie dodatkowymi 30 ECTS.

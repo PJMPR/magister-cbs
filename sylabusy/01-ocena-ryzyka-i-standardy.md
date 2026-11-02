@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 title: Ocena ryzyka cybernetycznego i standardy
-code: COMP47900
+code: CYB01
 ects: 5
 semester: I
 status: obowiązkowy
@@ -14,8 +14,6 @@ order: 1
 
 | Pole | Wartość |
 |---|---|
-| Nazwa angielska | Cyber Risk Assessment and Standards |
-| Moduł źródłowy UCD | COMP47900 |
 | Punkty ECTS | 5 |
 | Status | obowiązkowy |
 | Zalecany semestr | I |
@@ -84,8 +82,6 @@ Warunkiem zaliczenia jest uzyskanie co najmniej 50% łącznie oraz oddanie proje
 - ISO/IEC 27005, *Guidance on managing information security risks*, aktualne wydanie.
 - NIST SP 800-30 Rev. 1, *Guide for Conducting Risk Assessments*.
 - NIST SP 800-37 Rev. 2, *Risk Management Framework for Information Systems and Organizations*.
-- [Oficjalna karta modułu COMP47900 w UCD](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MODULE=COMP47900&p_tag=MODULE).
+## Uwagi programowe
 
-## Uwagi adaptacyjne
-
-Zakres merytoryczny i projekt odwołują się do UCD. Rozkład 125 godzin oraz powyższe proporcje ocen są propozycją dla polskiego programu.
+Rozkład 125 godzin oraz proporcje ocen są propozycją dla polskiego programu.
