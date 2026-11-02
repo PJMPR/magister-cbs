@@ -12,7 +12,7 @@ document_type: prk
 
 # Mapowanie kierunkowych efektów uczenia się do PRK poziomu 7
 
-> **Status dokumentu:** pełna robocza matryca zgodności dla studiów drugiego stopnia na kierunku Informatyka, specjalizacja Cyberbezpieczeństwo. Ostateczne zatwierdzenie wymaga wskazania profilu studiów, przyporządkowania kierunku do dyscyplin i akceptacji właściwych organów uczelni.
+> **Status dokumentu:** pełna robocza matryca zgodności dla studiów drugiego stopnia o profilu praktycznym na kierunku Informatyka, specjalizacja Cyberbezpieczeństwo. Ostateczne zatwierdzenie wymaga przyporządkowania kierunku do dyscyplin i akceptacji właściwych organów uczelni.
 >
 > **Stan prawny zweryfikowany:** 2 listopada 2026 r.
 
@@ -27,7 +27,7 @@ Przyjęto, że:
 
 1. program prowadzi do kwalifikacji pełnej na **poziomie 7 PRK**;
 2. kierunek Informatyka obejmuje **kompetencje inżynierskie**;
-3. profil studiów nie został jeszcze rozstrzygnięty, dlatego wskazano wymagania wspólne oraz osobno wymagania profilu ogólnoakademickiego i praktycznego;
+3. program ma **profil praktyczny**, dlatego mapowanie uwzględnia hipotezy wdrożeniowe, zadania realizowane w warunkach właściwych dla działalności zawodowej i zajęcia kształtujące umiejętności praktyczne;
 4. symbole `P7S_…` oznaczają charakterystyki drugiego stopnia typowe dla szkolnictwa wyższego;
 5. oznaczenie „inż.” wskazuje rozwinięcie z części III załącznika, mimo że kod składnika pozostaje taki sam.
 
@@ -35,9 +35,9 @@ Przyjęto, że:
 
 | Kod | Zakres wymagania — skrót roboczy |
 |---|---|
-| `P7S_WG` | pogłębiona, uporządkowana i podbudowana teoretycznie wiedza właściwa dla kierunku; dla profilu ogólnoakademickiego także główne tendencje rozwojowe dyscyplin |
+| `P7S_WG` | pogłębiona, uporządkowana i podbudowana teoretycznie wiedza właściwa dla kierunku |
 | `P7S_WK` | dylematy cywilizacyjne oraz ekonomiczne, prawne, etyczne i inne uwarunkowania działalności, własność intelektualna i podstawy przedsiębiorczości |
-| `P7S_UW` | rozwiązywanie złożonych i nietypowych problemów, krytyczna praca ze źródłami, dobór i rozwijanie metod i narzędzi; hipotezy badawcze albo wdrożeniowe zależnie od profilu |
+| `P7S_UW` | rozwiązywanie złożonych i nietypowych problemów, krytyczna praca ze źródłami, dobór i rozwijanie metod i narzędzi oraz formułowanie i testowanie hipotez wdrożeniowych |
 | `P7S_UK` | komunikacja specjalistyczna ze zróżnicowanymi odbiorcami, prowadzenie debaty i język obcy na poziomie B2+ |
 | `P7S_UO` | kierowanie zespołem, współdziałanie i podejmowanie wiodącej roli |
 | `P7S_UU` | samodzielne uczenie się przez całe życie oraz ukierunkowywanie innych |
@@ -74,10 +74,10 @@ Przyjęto, że:
 | `K_U06` | `P7S_UW`, `P7S_UO`, `P7S_UW` (inż.) | bezpośrednie | Prowadzenie złożonego projektu i wykonanie artefaktu realizują projektowanie systemu lub procesu zgodnie ze specyfikacją. | obowiązkowo jeden z CYB12–CYB14, wspierająco CYB06; artefakt i raport |
 | `K_U07` | `P7S_UW`, `P7S_UW` (inż.) | bezpośrednie | Krytyczna praca ze źródłami, dobór metod i badanie/eksperyment realizują część badawczą lub wdrożeniową, zależnie od profilu. | CYB10, CYB12–CYB14; przegląd literatury, protokół, eksperyment lub ewaluacja |
 | `K_U08` | `P7S_UW`, `P7S_UW` (inż.) | bezpośrednie | Walidacja, interpretacja wyników, analiza ograniczeń i ocena ekonomiczna pokrywają eksperymentowanie oraz krytyczną ocenę rozwiązania. | CYB02, CYB05, CYB06, CYB08, CYB10–CYB14; testy, pomiary, analiza wyników |
-| `K_U09` | `P7S_UK`, pomocniczo `P7S_UW` | bezpośrednie | Dokumentowanie i prezentowanie ryzyka oraz rekomendacji realizuje specjalistyczną komunikację z różnymi odbiorcami. | wszystkie moduły projektowe; raport techniczny, zarządczy i prezentacja |
+| `K_U09` | `P7S_UK`, pomocniczo `P7S_UW` | bezpośrednie | Dokumentowanie i prezentowanie ryzyka oraz rekomendacji realizuje specjalistyczną komunikację z różnymi odbiorcami. | wszystkie moduły projektowe oraz CYB15–CYB16; raport techniczny, zarządczy i prezentacja |
 | `K_U10` | `P7S_UO` | bezpośrednie | Efekt wprost obejmuje kierowanie, współdziałanie i podejmowanie wiodącej roli w zespole interdyscyplinarnym. | CYB01, CYB03, CYB06–CYB08, CYB13; projekt grupowy i obserwacja pracy zespołu |
-| `K_U11` | `P7S_UU` | bezpośrednie | Efekt obejmuje samodzielne uczenie się przez całe życie oraz ukierunkowywanie rozwoju innych osób. | CYB03, CYB10, CYB12–CYB14; plan rozwoju, mentoring, krytyczna analiza trendu |
-| `K_U12` | `P7S_UK` | bezpośrednie | Efekt wprost obejmuje komunikację specjalistyczną, debatę, język obcy B2+ i terminologię specjalistyczną. | obowiązkowy komponent językowy; debata w CYB03/CYB04 oraz prezentacja i streszczenie angielskie w CYB12–CYB14 |
+| `K_U11` | `P7S_UU` | bezpośrednie | Efekt obejmuje samodzielne uczenie się przez całe życie oraz ukierunkowywanie rozwoju innych osób. | CYB03, CYB10, CYB12–CYB16; plan rozwoju, mentoring, informacja zwrotna i krytyczna analiza trendu |
+| `K_U12` | `P7S_UK` | bezpośrednie | Efekt wprost obejmuje komunikację specjalistyczną, debatę, język obcy B2+ i terminologię specjalistyczną. | CYB15–CYB16; portfolio, debata, prezentacja, symulacja zespołu i końcowa weryfikacja B2+ |
 
 ### 3.3. Kompetencje społeczne
 
@@ -96,15 +96,13 @@ Przyjęto, że:
 | Charakterystyka | Efekty zapewniające pokrycie | Ocena pokrycia |
 |---|---|---|
 | `P7S_WG` — pogłębiona wiedza | `K_W01–K_W04`, `K_W06`, `K_W07` | pełne |
-| `P7S_WG` — trendy, profil ogólnoakademicki | `K_W06`, `K_U11` | pełne, pod warunkiem obowiązkowej weryfikacji |
 | `P7S_WK` — dylematy, prawo, etyka, ekonomia, własność intelektualna | `K_W04`, `K_W05`, `K_U05`, `K_K01` | pełne po uzupełnieniu CYB04 o własność intelektualną |
 | `P7S_WK` — przedsiębiorczość | `K_W05`, `K_K07` | pełne po wprowadzeniu ocenianego komponentu biznesowego |
 | `P7S_UW` — złożone problemy, źródła, metody i narzędzia | `K_U01–K_U09` | pełne |
-| `P7S_UW` — hipotezy badawcze, profil ogólnoakademicki | `K_U07`, `K_U08` | pełne, jeśli każdy wariant końcowy zawiera pytanie/hipotezę i ewaluację |
 | `P7S_UW` — hipotezy wdrożeniowe, profil praktyczny | `K_U06–K_U08` | pełne, jeśli każdy wariant końcowy zawiera walidowane założenie wdrożeniowe |
 | `P7S_UK` — komunikacja specjalistyczna | `K_U09`, `K_U12` | pełne |
-| `P7S_UK` — debata | `K_U12` | pełne po dodaniu ocenianej debaty |
-| `P7S_UK` — język obcy B2+ | `K_U12` | wymaga odrębnej, obowiązkowej weryfikacji |
+| `P7S_UK` — debata | `K_U12` | pełne; obowiązkowa debata w CYB16 |
+| `P7S_UK` — język obcy B2+ | `K_U12` | pełne; rozwijane w CYB15 i końcowo weryfikowane w CYB16 |
 | `P7S_UO` — kierowanie i wiodąca rola | `K_U10`, wspierająco `K_U06` | pełne po zastosowaniu indywidualnej rubryki pracy zespołowej |
 | `P7S_UU` — uczenie się i ukierunkowywanie innych | `K_U11` | pełne po dodaniu elementu mentoringu lub recenzji koleżeńskiej |
 | `P7S_KK` — krytycyzm i eksperci | `K_K02`, `K_K06` | pełne |
@@ -119,20 +117,7 @@ Przyjęto, że:
 | `P7S_UW` (inż.) — projektowanie systemu/procesu | `K_U02`, `K_U06` | pełne |
 | `P7S_UW` (inż.) — praktyka zawodowa, profil praktyczny | `K_U02`, `K_U05`, `K_U06` | warunkowe; wymaga zajęć realizowanych w środowisku zawodowym i udokumentowanego doświadczenia |
 
-## 5. Wariant profilu studiów
-
-### 5.1. Profil ogólnoakademicki
-
-Program musi dodatkowo zapewnić, że każdy student:
-
-1. poznaje główne tendencje rozwojowe dyscyplin, do których przyporządkowano kierunek;
-2. formułuje i testuje hipotezy związane z prostym problemem badawczym;
-3. wykonuje krytyczny przegląd literatury i stosuje metody badawcze;
-4. uzyskuje wymagany udział zajęć związanych z działalnością naukową uczelni.
-
-Realizację zapewniają `K_W06`, `K_U07`, `K_U08`, CYB10 oraz każdy z alternatywnych modułów CYB12–CYB14, o ile w każdym wariancie obowiązkowe są pytanie lub hipoteza, przegląd literatury i udokumentowana ewaluacja.
-
-### 5.2. Profil praktyczny
+## 5. Wymagania profilu praktycznego
 
 Program musi dodatkowo zapewnić, że każdy student:
 
@@ -148,8 +133,6 @@ Realizację wspierają CYB01, CYB03, CYB06–CYB09, CYB11 i CYB13. Sam opis efek
 
 | Obszar | Wymagana zmiana w programie | Proponowany dowód |
 |---|---|---|
-| Język obcy B2+ | obowiązkowe streszczenie, prezentacja i dyskusja specjalistyczna w języku obcym | rubryka językowa w jednym z CYB12–CYB14 lub osobny moduł językowy |
-| Debata | dodać moderowaną debatę o ryzyku, prawie lub etyce | indywidualna rubryka argumentacji w CYB03 lub CYB04 |
 | Kierowanie zespołem | rotacyjne role lidera i indywidualna odpowiedzialność | arkusz obserwacji i ocena koleżeńska w CYB06/CYB08 |
 | Ukierunkowywanie innych | mentoring, instruktaż lub recenzja koleżeńska | ocena jakości informacji zwrotnej w CYB10 albo projekcie końcowym |
 | Własność intelektualna | dodać licencje, prawa do kodu, danych i artefaktów | zadanie problemowe w CYB04 |
@@ -168,13 +151,13 @@ Realizację wspierają CYB01, CYB03, CYB06–CYB09, CYB11 i CYB13. Sam opis efek
 | `K_W01–K_W04`, `K_U01–K_U05` | CYB01–CYB02 | CYB05–CYB09 | CYB11 i obowiązkowy moduł końcowy |
 | `K_W05`, `K_K01`, `K_K07` | CYB03–CYB04 | CYB07, CYB11 | CYB12/CYB13/CYB14 |
 | `K_W06–K_W07`, `K_U06–K_U08` | CYB06, CYB10 | CYB10 oraz seminarium | CYB12/CYB13/CYB14 |
-| `K_U09`, `K_U12` | CYB01–CYB04 | moduły projektowe | prezentacja, debata i obrona końcowa |
+| `K_U09`, `K_U12` | CYB15 | moduły projektowe i CYB15 | CYB16 oraz prezentacja i obrona końcowa |
 | `K_U10`, `K_K03`, `K_K05` | CYB01, CYB03 | CYB06–CYB08 | projekt zespołowy i CYB13 lub równoważne zadanie |
-| `K_U11`, `K_K02`, `K_K04`, `K_K06` | CYB02–CYB04 | CYB10 | portfolio oraz CYB12/CYB13/CYB14 |
+| `K_U11`, `K_K02`, `K_K04`, `K_K06` | CYB02–CYB04, CYB15 | CYB10, CYB15 | portfolio, CYB16 oraz CYB12/CYB13/CYB14 |
 
 ## 8. Wniosek
 
-Po doprecyzowaniu zaakceptowanych efektów i dodaniu `K_U12` oraz `K_K07` zestaw pokrywa wszystkie ogólne charakterystyki drugiego stopnia PRK 7 oraz charakterystyki dla kompetencji inżynierskich. Pełna zgodność programu nie wynika jednak wyłącznie z tabeli: wymaga wdrożenia wskazanych obowiązkowych metod weryfikacji, zapewnienia pokrycia w każdej ścieżce końcowej oraz formalnego wyboru profilu studiów.
+Po doprecyzowaniu zaakceptowanych efektów i dodaniu `K_U12` oraz `K_K07` zestaw pokrywa wszystkie ogólne charakterystyki drugiego stopnia PRK 7 oraz charakterystyki dla kompetencji inżynierskich właściwe dla przyjętego profilu praktycznego. Pełna zgodność programu nie wynika jednak wyłącznie z tabeli: wymaga wdrożenia wskazanych obowiązkowych metod weryfikacji, zapewnienia pokrycia w każdej ścieżce końcowej, odpowiedniego udziału zajęć praktycznych i udokumentowanej współpracy ze środowiskiem zawodowym.
 
 ## 9. Źródła prawne i metodyczne
 

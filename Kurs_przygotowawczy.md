@@ -10,7 +10,7 @@ body_class: course-page
 
 > **Status dokumentu:** projekt programu kursu wyrównawczego dla uczelni w Polsce; materiał do opracowania sylabusów i zasobów wiedzy.
 >
-> **Cel:** umożliwić absolwentom różnych kierunków rozpoczęcie czterosemestralnych, niestacjonarnych studiów II stopnia (90 ECTS) z cyberbezpieczeństwa na wspólnym, odpowiednio wysokim poziomie. Kurs jest odrębną ścieżką przygotowawczą i nie stanowi części programu magisterskiego.
+> **Cel:** umożliwić absolwentom różnych kierunków rozpoczęcie czterosemestralnych, niestacjonarnych studiów II stopnia (100 ECTS) z cyberbezpieczeństwa na wspólnym, odpowiednio wysokim poziomie. Kurs jest odrębną ścieżką przygotowawczą i nie stanowi części programu magisterskiego.
 
 ## 1. Założenia organizacyjne
 
@@ -21,7 +21,7 @@ body_class: course-page
 | Wymiar pełnej ścieżki | **120 godzin nakładu pracy uczestnika**, w tym ok. 35 h zajęć prowadzonych na żywo oraz 85 h pracy własnej i ćwiczeń |
 | Organizacja | Asynchroniczna baza wiedzy + konsultacje online + zdalne laboratoria + kontrolowane sprawdziany praktyczne |
 | Przydział | Indywidualny na podstawie diagnozy; można zaliczyć wybrane moduły bez uczęszczania na nie |
-| Punkty ECTS | **Poza podstawowymi 90 ECTS** programu magisterskiego; brak automatycznego zaliczania do studiów |
+| Punkty ECTS | **Poza podstawowymi 100 ECTS** programu magisterskiego; brak automatycznego zaliczania do studiów |
 | Język | Polski; dokumentacja techniczna i część zasobów w języku angielskim |
 | Warunek ukończenia | Potwierdzenie minimalnych kompetencji we wszystkich wymaganych obszarach |
 

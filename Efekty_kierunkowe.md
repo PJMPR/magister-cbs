@@ -12,18 +12,18 @@ document_type: effects
 
 # Propozycja kierunkowych efektów uczenia się — Informatyka II stopnia, specjalizacja Cyberbezpieczeństwo
 
-> **Status dokumentu:** robocza synteza efektów przedmiotowych z 14 sylabusów. Dokument nie stanowi formalnie zatwierdzonego zestawu efektów kierunkowych ani pełnego mapowania do Polskiej Ramy Kwalifikacji.
+> **Status dokumentu:** robocza synteza efektów przedmiotowych z 16 sylabusów. Dokument nie stanowi formalnie zatwierdzonego zestawu efektów kierunkowych ani pełnego mapowania do Polskiej Ramy Kwalifikacji.
 
 ## 1. Punkt wyjścia i metoda
 
-W 14 sylabusach zidentyfikowano łącznie **96 efektów przedmiotowych**:
+W 16 sylabusach zidentyfikowano łącznie **109 efektów przedmiotowych**:
 
 | Kategoria | Liczba efektów źródłowych |
 |---|---:|
-| Wiedza (`W`) | 25 |
-| Umiejętności (`U`) | 55 |
-| Kompetencje społeczne (`K`) | 16 |
-| **Razem** | **96** |
+| Wiedza (`W`) | 27 |
+| Umiejętności (`U`) | 63 |
+| Kompetencje społeczne (`K`) | 19 |
+| **Razem** | **109** |
 
 Efekty pogrupowano tematycznie, połączono znaczeniowo powtarzające się sformułowania i podniesiono poziom ogólności. Po wykonaniu mapowania do PRK zestaw uzupełniono o dwa przekrojowe efekty wymagane na poziomie 7, które nie wynikały wprost z efektów specjalizacyjnych. Przyjęto oznaczenia robocze:
 
@@ -95,7 +95,7 @@ Absolwent jest gotów do:
 | Prawo, prywatność, etyka i interes publiczny | `K_W05`, `K_U05`, `K_K01`, `K_K02`, `K_K07` | CYB03, CYB04 oraz etyczne efekty modułów praktycznych i projektowych |
 | Projektowanie i realizacja rozwiązań | `K_W07`, `K_U02`, `K_U06`, `K_U08`, `K_U10` | CYB06, CYB12, CYB13, CYB14 |
 | Badania, źródła i rozwój dyscypliny | `K_W06`, `K_U07`, `K_U08`, `K_U11`, `K_K04`, `K_K06` | CYB10, CYB12, CYB13, CYB14 |
-| Dokumentowanie i komunikacja | `K_U09`, `K_U10`, `K_U12`, `K_K03`, `K_K06` | wszystkie moduły projektowe, CYB01, CYB03, CYB04, CYB07, CYB11 |
+| Dokumentowanie i komunikacja | `K_U09`, `K_U10`, `K_U12`, `K_K03`, `K_K06` | wszystkie moduły projektowe, CYB01, CYB03, CYB04, CYB07, CYB11, CYB15, CYB16 |
 
 ## 4. Wstępna macierz pokrycia przez moduły
 
@@ -117,6 +117,8 @@ Macierz wskazuje efekty kierunkowe istotnie realizowane przez moduł. Nie oznacz
 | 12 | CYB12 Studium przypadku z cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U06`, `K_U07`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K06` |
 | 13 | CYB13 Zawodowy projekt cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U01`, `K_U02`, `K_U06`, `K_U07`, `K_U08`, `K_U09`, `K_U10` | `K_K01`, `K_K02`, `K_K03`, `K_K05`, `K_K06` |
 | 14 | CYB14 Badawczy projekt cyberbezpieczeństwa | `K_W06`, `K_W07` | `K_U06`, `K_U07`, `K_U08`, `K_U09` | `K_K01`, `K_K02`, `K_K04`, `K_K06` |
+| 15 | CYB15 Angielski specjalistyczny w cyberbezpieczeństwie I | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K02`, `K_K03`, `K_K04` |
+| 16 | CYB16 Angielski specjalistyczny w cyberbezpieczeństwie II | `K_W06` | `K_U09`, `K_U11`, `K_U12` | `K_K01`, `K_K03`, `K_K04` |
 
 ## 5. Warunek równoważności ścieżek końcowych
 
@@ -135,13 +137,13 @@ Efekty właściwe wyłącznie jednej ścieżce, np. wytworzenie wdrażalnego art
 ## 6. Wnioski i obszary wymagające uzupełnienia
 
 1. **Zestaw jest spójny specjalizacyjnie, ale nie stanowi jeszcze pełnych efektów kierunku Informatyka.** Do formalnego programu należy włączyć lub potwierdzić efekty ogólnoinformatyczne, matematyczne i inżynierskie wymagane dla studiów II stopnia.
-2. **Należy wykonać formalne mapowanie do PRK 7.** W szczególności trzeba odnieść efekty do charakterystyk drugiego stopnia właściwych dla szkolnictwa wyższego i profilu studiów.
+2. **Mapowanie do PRK 7 należy formalnie zatwierdzić dla profilu praktycznego.** Program musi zapewnić odpowiedni udział zajęć kształtujących umiejętności praktyczne oraz doświadczenie zdobywane w środowisku zawodowym.
 3. **Trzeba określić poziom realizacji efektu w module:** wprowadzenie (`I`), rozwijanie (`R`) i sprawdzenie/osiągnięcie (`S`). Sama obecność efektu w macierzy nie dowodzi jego osiągnięcia.
 4. **Każdy efekt kierunkowy powinien mieć co najmniej jedno obowiązkowe miejsce weryfikacji.** Nie można opierać osiągnięcia efektu wyłącznie na module wybieralnym.
-5. **Efekty `K_U11` i `K_K04` dotyczące uczenia się przez całe życie są obecnie najmocniej widoczne w module Trendy w cyberbezpieczeństwie.** Jeśli moduł pozostanie wybieralny, efekty te trzeba dodatkowo zweryfikować w obowiązkowym elemencie programu.
+5. **Efekty `K_U11` i `K_K04` dotyczące uczenia się przez całe życie są realizowane w module Trendy w cyberbezpieczeństwie oraz w obowiązkowych lektoratach CYB15 i CYB16.** Ich osiągnięcie należy potwierdzać przez plan rozwoju, wykorzystanie informacji zwrotnej i samodzielną aktualizację terminologii.
 6. **Kompetencje społeczne należy weryfikować poprzez obserwowalne działania.** Rubryki powinny obejmować m.in. przestrzeganie zakresu testów, jakość komunikacji, ujawnianie ograniczeń, pracę zespołową i rzetelność dokumentacji.
 7. **Nazwy i kody są robocze.** Ostateczne oznaczenia muszą być zgodne z systemem efektów przyjętym przez uczelnię.
-8. **Nowe efekty `K_U12` i `K_K07` wymagają jawnego wprowadzenia do sylabusów.** Należy wskazać obowiązkowe miejsca weryfikacji języka obcego B2+, debaty, przedsiębiorczości i działania na rzecz interesu publicznego.
+8. **Efekt `K_U12` ma obowiązkowe miejsca weryfikacji w CYB15 i CYB16.** Efekt `K_K07` nadal wymaga jawnego wskazania ocenianych elementów przedsiębiorczości i działania na rzecz interesu publicznego w sylabusach CYB03, CYB04 lub CYB13.
 
 ## 7. Zalecany kolejny krok
 

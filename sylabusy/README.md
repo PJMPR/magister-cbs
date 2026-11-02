@@ -1,6 +1,6 @@
 # Sylabusy modułów cyberbezpieczeństwa
 
-Katalog zawiera polskie, robocze sylabusy 14 modułów opisanych w rozdziale 3 głównego `README.md`. Każdy sylabus jest odrębnym plikiem.
+Katalog zawiera polskie, robocze sylabusy 16 modułów programu. Każdy sylabus jest odrębnym plikiem.
 
 ## Moduły
 
@@ -18,6 +18,8 @@ Katalog zawiera polskie, robocze sylabusy 14 modułów opisanych w rozdziale 3 g
 12. [Studium przypadku z cyberbezpieczeństwa](12-studium-przypadku.md)
 13. [Zawodowy projekt cyberbezpieczeństwa](13-projekt-zawodowy.md)
 14. [Badawczy projekt cyberbezpieczeństwa](14-projekt-badawczy.md)
+15. [Angielski specjalistyczny w cyberbezpieczeństwie I](15-angielski-specjalistyczny-i.md)
+16. [Angielski specjalistyczny w cyberbezpieczeństwie II](16-angielski-specjalistyczny-ii.md)
 
 ## Założenia wspólne
 

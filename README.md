@@ -15,17 +15,18 @@
 | Specjalizacja | Cyberbezpieczeństwo |
 | Tryb | Niestacjonarny |
 | Czas trwania | 2 lata, 4 semestry |
-| ECTS studiów | **90** (przyjęty limit projektowy) |
+| ECTS studiów | **100** (25 ECTS w każdym z czterech semestrów) |
+| Profil studiów | **Praktyczny** |
 | Charakter | Interdyscyplinarny: absolwenci informatyki i innych kierunków |
 | Warunek merytoryczny | Weryfikacja kompetencji informatycznych przed studiami |
 | Wyrównanie braków | **Kurs wakacyjny przed I semestrem**, indywidualnie dobrane moduły |
-| Punkty kursu przygotowawczego | Nie są wliczane do 90 ECTS programu |
+| Punkty kursu przygotowawczego | Nie są wliczane do 100 ECTS programu |
 | Fundament merytoryczny | Połączenie technicznych, organizacyjnych, prawnych i badawczych obszarów cyberbezpieczeństwa |
 | Ukończenie | Seminarium, praca magisterska i egzamin dyplomowy — według polskich wymogów i regulaminu uczelni |
 
 **Założenie organizacyjne:** moduły wyrównawcze mają doprowadzić kandydatów do wymaganego poziomu wejściowego, a nie zastępować przedmioty magisterskie. Ostateczne reguły przyjęć, warunki ukończenia i sposób zaliczania kursów wymagają weryfikacji prawnej i wewnątrzuczelnianej.
 
-## 2. Pełny katalog 14 modułów
+## 2. Pełny katalog 16 modułów
 
 ### 2.1. Ocena ryzyka cybernetycznego i standardy (CYB01, 5 ECTS)
 
@@ -182,6 +183,28 @@
 
 **Rezultat praktyczny:** samodzielny projekt badawczy pod opieką akademicką. To alternatywa dla projektu zawodowego oraz wariantu z case study.  
 
+### 2.15. Angielski specjalistyczny w cyberbezpieczeństwie I (CYB15, 5 ECTS)
+
+**Czego student się uczy:**
+- Rozumienia anglojęzycznej dokumentacji, norm, zaleceń i artykułów technicznych.
+- Posługiwania się terminologią systemów, sieci, ryzyka, podatności i incydentów.
+- Przygotowywania instrukcji, notatek technicznych i raportów ustaleń.
+- Opisywania architektury, ryzyka i przebiegu zdarzeń.
+- Uczestnictwa w specjalistycznej dyskusji i krótkiej prezentacji technicznej.
+
+**Rezultat praktyczny:** portfolio anglojęzycznych dokumentów technicznych, prezentacja i symulacja spotkania zespołu bezpieczeństwa.
+
+### 2.16. Angielski specjalistyczny w cyberbezpieczeństwie II (CYB16, 5 ECTS)
+
+**Czego student się uczy:**
+- Prowadzenia specjalistycznej debaty i argumentowania na podstawie dowodów.
+- Prezentowania i obrony wyników projektu lub badania.
+- Przygotowywania abstraktu, executive summary i rekomendacji.
+- Komunikacji incydentowej i współpracy w międzynarodowym zespole.
+- Posługiwania się językiem angielskim na poziomie B2+ wraz z terminologią specjalistyczną.
+
+**Rezultat praktyczny:** debata, prezentacja z obroną, portfolio pisemne i końcowa weryfikacja kompetencji B2+.
+
 ## 3. Przyjmowanie absolwentów różnych kierunków
 
 **Założenie:** dopuszczamy absolwentów m.in. informatyki, automatyki, telekomunikacji, elektroniki, matematyki, a także prawa i zarządzania, o ile wykażą wymagane kompetencje. Dyplom z określonego kierunku sam w sobie nie gwarantuje przyjęcia ani zwolnienia z weryfikacji.
@@ -211,9 +234,9 @@
 | W4. Bazy danych | SQL, klucze, relacje, bezpieczny dostęp do danych | Zadania SQL |
 | W5. Infrastruktura IT | Maszyny wirtualne, Docker, klient–serwer, podstawy usług | Uruchomienie środowiska testowego |
 
-**Organizacja:** lipiec–wrzesień przed I semestrem; nauka online/asynchroniczna, konsultacje i warsztaty praktyczne; przydział tylko brakujących modułów. **Kurs nie zabiera punktów z 90 ECTS**. Liczbę godzin oraz kryteria zaliczenia ustalić po diagnozie minimalnych kompetencji i możliwości organizacyjnych.
+**Organizacja:** lipiec–wrzesień przed I semestrem; nauka online/asynchroniczna, konsultacje i warsztaty praktyczne; przydział tylko brakujących modułów. **Kurs nie zabiera punktów ze 100 ECTS**. Liczbę godzin oraz kryteria zaliczenia ustalić po diagnozie minimalnych kompetencji i możliwości organizacyjnych.
 
-## 4. Robocza siatka czterech semestrów na 90 ECTS
+## 4. Robocza siatka czterech semestrów po 25 ECTS — razem 100 ECTS
 
 > To **propozycja robocza**, a nie oficjalny rozkład zajęć. Rozmieszczenie przedmiotów ma zachować zależności merytoryczne i wyodrębnić pracę magisterską.
 
@@ -227,13 +250,14 @@
 | Kryptografia stosowana | CYB05 | 5 |
 | **Razem** | | **25** |
 
-### Semestr II — 20 ECTS
+### Semestr II — 25 ECTS
 
 | Przedmiot | Kod | ECTS |
 |---|---|---:|
 | Prawo i regulacje cyberbezpieczeństwa | CYB04 | 10 |
 | Inżynieria bezpiecznego oprogramowania | CYB06 | 10 |
-| **Razem** | | **20** |
+| Angielski specjalistyczny w cyberbezpieczeństwie I | CYB15 | 5 |
+| **Razem** | | **25** |
 
 ### Semestr III — 25 ECTS
 
@@ -245,21 +269,22 @@
 | Etyczny hacking | CYB11 | 5 |
 | **Razem** | | **25** |
 
-### Semestr IV — 20 ECTS
+### Semestr IV — 25 ECTS
 
 | Przedmiot | Kod | ECTS |
 |---|---|---:|
 | Trendy w cyberbezpieczeństwie | CYB10 | 5 |
 | Seminarium i praca magisterska — blok dyplomowy | DYP01 | 15 |
-| **Razem** | | **20** |
+| Angielski specjalistyczny w cyberbezpieczeństwie II | CYB16 | 5 |
+| **Razem** | | **25** |
 
-**Suma: 25 + 20 + 25 + 20 = 90 ECTS.**
+**Suma: 25 + 25 + 25 + 25 = 100 ECTS.**
 
-**Ważny kompromis:** siatka obejmuje 60 ECTS wspólnego rdzenia, 15 ECTS modułów wybieralnych i 15 ECTS pracy magisterskiej. Nie oznacza to, że 15 ECTS automatycznie wystarczy na wymagane polskimi przepisami seminarium i pracę; tę wartość trzeba zweryfikować podczas konstruowania formalnego programu, a prace przygotowawcze do magisterium mogą zacząć się wcześniej. Możliwa będzie korekta bilansu, np. przez inne rozmieszczenie seminarium.
+**Ważny kompromis:** siatka obejmuje 75 ECTS wspólnego rdzenia cyberbezpieczeństwa, 10 ECTS angielskiego specjalistycznego i 15 ECTS bloku dyplomowego. Nie oznacza to, że 15 ECTS automatycznie wystarczy na wymagane polskimi przepisami seminarium i pracę; tę wartość trzeba zweryfikować podczas konstruowania formalnego programu, a prace przygotowawcze do magisterium mogą zacząć się wcześniej. Wymaganą formalnie wybieralność trzeba zaprojektować w ramach wskazanych pul modułów albo przez warianty ścieżek, bez zwiększania łącznej liczby 100 ECTS.
 
 ## 5. Co jeszcze wymaga decyzji
 
-1. **Efekty kierunkowe dla Informatyki II stopnia:** mapowanie do PRK 7 oraz wymagań dla właściwego profilu studiów.
+1. **Efekty kierunkowe dla Informatyki II stopnia:** formalne zatwierdzenie mapowania do PRK 7 dla profilu praktycznego.
 2. **Rozkład seminariów i pracy dyplomowej:** prawdopodobnie prace nad tematem i metodologią warto rozpocząć przed IV semestrem.
 3. **Tryb zaoczny:** liczba godzin kontaktowych, proporcja wykładów i laboratoriów, liczba zjazdów, praca własna studenta.
 4. **Wybieralność:** sprawdzenie wymaganej puli przedmiotów do wyboru i wprowadzenie rzeczywistych wariantów.
