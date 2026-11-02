@@ -6,6 +6,7 @@ on:
     paths:
       - "page/**"
       - "sylabusy/**"
+      - "Kurs_przygotowawczy.md"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 

@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="subnav">
+  <div class="shell breadcrumbs"><a href="{{ '/' | relative_url }}">Panel</a><span>/</span><strong>KURS/START</strong></div>
+</div>
+
+<section class="course-hero">
+  <div class="shell course-hero-grid">
+    <div>
+      <div class="eyebrow red"><span></span> ŚCIEŻKA WYRÓWNAWCZA / PRZED SEMESTREM I</div>
+      <h1>Wspólny poziom<br><em>na dobry start.</em></h1>
+      <p>Indywidualnie dobierany kurs dla kandydatów, którzy przed rozpoczęciem studiów potrzebują uzupełnić kompetencje informatyczne.</p>
+    </div>
+    <div class="course-console" aria-label="Najważniejsze parametry kursu">
+      <div class="console-head"><span>PRE_COURSE/DIAGNOSTICS</span><i>READY</i></div>
+      <div class="console-metric"><strong>120</strong><span>godzin pełnej ścieżki</span></div>
+      <div class="console-grid"><div><b>35 h</b><span>zajęcia na żywo</span></div><div><b>5</b><span>modułów</span></div><div><b>10</b><span>tygodni</span></div><div><b>70%</b><span>próg roboczy</span></div></div>
+    </div>
+  </div>
+</section>
+
+<div class="course-alert"><div class="shell"><strong>POZA 90 ECTS</strong><span>Kurs przygotowuje do studiów, ale nie zastępuje formalnych wymagań rekrutacyjnych ani modułów magisterskich.</span></div></div>
+
+<div class="shell syllabus-grid course-layout">
+  <aside class="toc-panel">
+    <span class="eyebrow">NA TEJ STRONIE</span>
+    <nav data-toc></nav>
+    <a class="back-link" href="{{ '/' | relative_url }}">{% include icon.html name='arrow' %} Wróć do panelu</a>
+  </aside>
+  <article class="syllabus-content prose course-content" data-prose>{{ content }}</article>
+</div>
+

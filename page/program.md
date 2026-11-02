@@ -29,6 +29,7 @@ permalink: /program/
     <section id="sciezka">
       <h2>Logika ścieżki</h2>
       <p>Pierwszy rok buduje wspólny język bezpieczeństwa: modele, ryzyko, kryptografię, prawo i bezpieczne wytwarzanie. Trzeci semestr przenosi ciężar na obronę, analizę oraz testowanie. Ostatni semestr integruje kompetencje w pracy dyplomowej i analizie aktualnych trendów.</p>
+      <p>Kandydaci ze zidentyfikowanymi lukami kompetencyjnymi mogą przed pierwszym semestrem zrealizować indywidualnie dobraną część <a href="{{ '/kurs-przygotowawczy/' | relative_url }}">wakacyjnego kursu przygotowawczego</a>. Kurs pozostaje poza pulą 90 ECTS i nie zastępuje formalnych warunków przyjęcia.</p>
       <div class="callout"><strong>Ważny kompromis</strong><p>Robocza siatka przeznacza 15 ECTS na seminarium i pracę magisterską. Wartość i rozłożenie tego bloku wymagają formalnej weryfikacji.</p></div>
     </section>
     <section id="decyzje">
